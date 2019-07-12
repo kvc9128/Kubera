@@ -1,4 +1,3 @@
-import java.util.HashMap;
 import java.util.Map;
 
 /**
@@ -6,9 +5,22 @@ import java.util.Map;
  */
 public class Lakshmi
 {
-    Map<String, Stock> NYSE = new HashMap<>();
+    // A representation of the NYSE as a Map stock code-stock
+    private Map<String, Stock> NYSE;
+
+    // A standard constructor
     public Lakshmi(Map<String, Stock> NYSE)
     {
         this.NYSE = NYSE;
     }
+
+    /**
+     * Returns the NYSE stock market
+     * @return NYSE
+     */
+    public Map<String, Stock> getNYSE()
+    {
+        return NYSE;
+    }
+
 }

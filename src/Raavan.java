@@ -9,24 +9,23 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Lord Raavan was a great trader. So, he is the class we will be using to access EODDATA
+ * This is the class we will be using to access EODDATA
  * to get daily stock information. This class will be responsible for gathering and storing the
  * stock tickers for all the stocks in the NYSE. This class will then call other classes
  * to analyse the data.
  *
  * Step1: Class Raavan
- *          1. Get stocks from EODDATA - Check
- *              a. Fix Null pointerException
- *          2. Store them in appropriate data structure -TBD tomorrow
- *              a. Small mid large cap division
- *              b. top 100 companies
- *              c. bottom 100 companies
- *              d. Average Market Capitalization
+ *          1. Get stocks from EODDATA - Complete
+ *          2. Store them in appropriate data structure - complete
+ *              a. Small mid large cap division - TBD
+ *              b. top 100 companies - TBD
+ *              c. bottom 100 companies -TBD
+ *              d. Average Market Capitalization -TBD
  *          3. Build a few algorithms to access stocks, view best performing etc. - TBD tomorrow
  *              a. Find a stock
  *              b. Access above functions
  *
- * Step2: Class X - TBD tomorrow
+ * Step2: Class X - TBD
  *          1. Represent a user's portfolio and hold a bunch of stocks that the user wants
  *          2. Allow the user to track and follow his stocks and portfolio
  *          3. Represent user's wealth and resources
