@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.io.FileWriter;
 import java.util.logging.Level;
+import java.util.concurrent.TimeUnit;
 
 /**
  * This is the class we will be using to access EODDATA
@@ -85,14 +86,18 @@ public class Raavan
     {
         // generates the web browser
         new Raavan();
+        long start = System.nanoTime();
         //generates the web pages of stocks alphabetically
         GenerateWebpages();
            try{
                //function that creates each stock
                FirstAlpha(pages);
-           } catch (Exception e) {
+           } catch (Exception e)
+           {
                e.printStackTrace();
            }
+        long end = System.nanoTime();
+        System.out.println("Total time taken (in seconds): " + ((end-start)/1000000000));
     }
 
     /**
