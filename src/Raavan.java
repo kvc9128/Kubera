@@ -7,6 +7,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.io.FileWriter;
+import java.io.PrintWriter;
+import java.io.IOException;
 
 /**
  * This is the class we will be using to access EODDATA
@@ -21,9 +24,6 @@ import java.util.Map;
  *              b. top 100 companies - TBD
  *              c. bottom 100 companies -TBD
  *              d. Average Market Capitalization -TBD
- *          3. Build a few algorithms to access stocks, view best performing etc. - TBD tomorrow
- *              a. Find a stock
- *              b. Access above functions
  *
  * Step2: Class X - TBD
  *          1. Represent a user's portfolio and hold a bunch of stocks that the user wants
@@ -55,6 +55,9 @@ public class Raavan
     public static WebClient web;
     public static List<HtmlPage> pages = new ArrayList<>();
     public static Map<String, Stock> NYSE = new HashMap<>();
+    public static String path = "Stock data";
+    public static boolean append_to_file = true;
+    public static PrintWriter print_line;
 
     /**
      * Constructor that generates a new web page
@@ -65,6 +68,16 @@ public class Raavan
         // we will set CSS and Javascript to false as we do not want to deal with that
         web.getOptions().setCssEnabled(false);
         web.getOptions().setJavaScriptEnabled(false);
+        try
+        {
+            //we will also write to a text file so that we can do further operations on it
+            FileWriter write = new FileWriter(path, append_to_file);
+            //since Filewriter parses bytes, we will use print writer to give it a line of text
+            PrintWriter print_line = new PrintWriter(write);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
 
     /**
@@ -115,39 +128,42 @@ public class Raavan
                         High = String.valueOf(cells.get(2).asText());
                         Low = String.valueOf(cells.get(3).asText());
                         Close = String.valueOf(cells.get(4).asText());
-                        // Here we try to extract the Href of the Code of the stock so that we can get more data
+                        // Here we try to extract the Href of the Code of the stock so that we can get more data first we get the HtmlAnchor
                         HtmlAnchor Detailedanchor = cells.get(0).getFirstByXPath("//*[@id=\"ctl00_cph1_divSymbols\"]/table/tbody/tr[" + i + "]/td[1]/a");
+                        //now we will get the Href attribute of the anchor
                         String DetailedURL = Detailedanchor.getHrefAttribute();
+                        //now we create a web page of the specific company by putting together standard url and Href attribute
                         HtmlPage DetailedShare = web.getPage("http://eoddata.com" + DetailedURL);
 
                         // Here we obtain more complex values like the Volume of shares, Dividend yield etc.
                         HtmlTableBody body = DetailedShare.getFirstByXPath("//*[@id=\"ctl00_cph1_divFundamentals\"]/table/tbody");
                         List<HtmlTableRow> detailrows = body.getRows();
-
+                        //get details about total volume of shares
                         List<HtmlTableCell> volumecells = detailrows.get(9).getCells();
                         Volume = volumecells.get(1).asText().equals("N/A")? "0.0": volumecells.get(1).asText();
-
+                        //get details about dividend yield of the company
                         List<HtmlTableCell> divcells = detailrows.get(5).getCells();
                         DivYield = divcells.get(1).asText().equals("N/A")? "0.0": divcells.get(1).asText();
-
+                        //get details about Earning per share
                         List<HtmlTableCell> EPScells = detailrows.get(4).getCells();
                         Earning_per_share = EPScells.get(1).asText().equals("N/A")? "0.0": EPScells.get(1).asText();
-
+                        //get details about Price/Earning to growth ratio
                         List<HtmlTableCell> PEGcells = detailrows.get(3).getCells();
                         Price_Earnings_to_growth_ratio = PEGcells.get(1).asText().equals("N/A")? "0.0": PEGcells.get(1).asText();
-
+                        //get details about market capitalization of the company
                         List<HtmlTableCell> MarketCapcells = detailrows.get(10).getCells();
                         MarketCapitalization = MarketCapcells.get(1).asText().equals("N/A")? "0.0": MarketCapcells.get(1).asText();
 
                         // we create a new stock item by calling the constructor and passing items to it
                         Stock stock = new Stock(Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization);
-                        System.out.println(stock.toString());
                         //we add each individual stock to the Hash map NYSE that contains all the stocks
                         NYSE.put(Code, stock);
+                        print_line.print(stock.toString());
                         i++;
                     }
             }
             Lakshmi lakshmi = new Lakshmi(NYSE);
+            print_line.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
