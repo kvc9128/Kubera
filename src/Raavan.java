@@ -106,7 +106,7 @@ public class Raavan
                     for (HtmlTableRow row:rows)
                     {
                         // all the variables and data we expect to receive
-                        String Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio;
+                        String Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization;
                         // we get all the cells in each row
                         List<HtmlTableCell> cells = row.getCells();
                         // we get all the data we can on that page
@@ -127,7 +127,6 @@ public class Raavan
                         List<HtmlTableCell> volumecells = detailrows.get(9).getCells();
                         Volume = volumecells.get(1).asText().equals("N/A")? "0.0": volumecells.get(1).asText();
 
-
                         List<HtmlTableCell> divcells = detailrows.get(5).getCells();
                         DivYield = divcells.get(1).asText().equals("N/A")? "0.0": divcells.get(1).asText();
 
@@ -137,8 +136,11 @@ public class Raavan
                         List<HtmlTableCell> PEGcells = detailrows.get(3).getCells();
                         Price_Earnings_to_growth_ratio = PEGcells.get(1).asText().equals("N/A")? "0.0": PEGcells.get(1).asText();
 
+                        List<HtmlTableCell> MarketCapcells = detailrows.get(10).getCells();
+                        MarketCapitalization = MarketCapcells.get(1).asText().equals("N/A")? "0.0": MarketCapcells.get(1).asText();
+
                         // we create a new stock item by calling the constructor and passing items to it
-                        Stock stock = new Stock(Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio);
+                        Stock stock = new Stock(Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization);
                         System.out.println(stock.toString());
                         //we add each individual stock to the Hash map NYSE that contains all the stocks
                         NYSE.put(Code, stock);

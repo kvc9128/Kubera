@@ -3,7 +3,7 @@
  */
 public class Stock
 {
-    private String Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio;
+    private String Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCap;
 
     /**
      * Used to create a new Stock ticker for a new company on the Stock market
@@ -14,7 +14,7 @@ public class Stock
      * @param Close the closing value for that day on the NYSE
      * @param Volume the number of publicly traded shares
      */
-    public Stock(String Code, String Name, String High, String Low, String Close, String Volume, String DivYield, String Earning_per_share, String PEG)
+    public Stock(String Code, String Name, String High, String Low, String Close, String Volume, String DivYield, String Earning_per_share, String PEG, String marketCap)
     {
         this.Close = Close;
         this.Name = Name;
@@ -25,6 +25,7 @@ public class Stock
         this.DivYield = DivYield;
         this.Earning_per_share = Earning_per_share;
         this.Price_Earnings_to_growth_ratio = PEG;
+        this.MarketCap = marketCap;
     }
 
     /**
@@ -109,24 +110,22 @@ public class Stock
     }
 
     /**
-     * Used to return the Company's Market Capitalization. Calculated by Volume of shares
-     * multiplied by the closing value of company's share
+     * Used to return the Company's Market Capitalization.
      * @return Market Capitalization of the company
      */
-    public String MarketCap()
+    public String getMarketCap()
     {
-        Integer MarketCap = Integer.parseInt(getVolume())*Integer.parseInt(getClose());
-        return String.valueOf(MarketCap);
+        return this.MarketCap;
     }
 
     /**
      * A toString method to return the particulars of a given stock
-     * @return
+     * @return a string representation of the stock ticker
      */
     @Override
     public String toString()
     {
-        return String.format("Code : %s Name : %s High : %s Low : %s Close : %s Volume : %s DivYield : %s Earning_Per_Share : %s PEG ratio : %s",
-                Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio);
+        return String.format("Code : %s Name : %s High : %s Low : %s Close : %s Volume : %s DivYield : %s Earning_Per_Share : %s PEG ratio : %s Market_Capitalization : %s",
+                Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCap);
     }
 }
