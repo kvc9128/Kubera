@@ -10,6 +10,7 @@ import java.util.Map;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.io.IOException;
+import java.util.logging.Level;
 
 /**
  * This is the class we will be using to access EODDATA
@@ -67,6 +68,8 @@ public class Raavan
         web = new WebClient();
         // we will set CSS and Javascript to false as we do not want to deal with that
         web.getOptions().setCssEnabled(false);
+        web.getOptions().setThrowExceptionOnScriptError(false);
+        java.util.logging.Logger.getLogger("com.gargoylesoftware.htmlunit").setLevel(Level.OFF);
         web.getOptions().setJavaScriptEnabled(false);
         try
         {
@@ -234,8 +237,7 @@ public class Raavan
 
             for (String URL:searchURL)
             {
-                HtmlPage page;
-                page = web.getPage(URL);
+                HtmlPage page = web.getPage(URL);
                 pages.add(page);
             }
         } catch (IOException e) {
