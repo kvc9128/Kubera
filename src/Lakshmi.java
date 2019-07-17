@@ -2,6 +2,10 @@ import java.util.Map;
 
 /**
  * Represents the NYSE stock exchange
+ * More code to come here that deals with
+ *      *  1. dividing companies into small/mid/large cap values
+ *      *  2. top 100 companies
+ *      *  3. bottom 100 companies
  */
 public class Lakshmi
 {
@@ -24,11 +28,13 @@ public class Lakshmi
     }
 
     /**
-     * More code to come here that deals with
-     *  1. dividing companies into small/mid/large cap values
-     *  2. top 100 companies
-     *  3. bottom 100 companies
-     *  4. return a individual stock
+     * A handy function that allows the user to access a particular stock
+     * @param Code the key that is used to store the value
+     * @return the stock ticker for that code
      */
+    public Stock getAStock(String Code)
+    {
+        return Stock_Market.get(Code);
+    }
 
 }
