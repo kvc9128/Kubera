@@ -1,4 +1,3 @@
-import com.gargoylesoftware.htmlunit.Page;
 import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.*;
 
@@ -8,8 +7,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.io.FileWriter;
-import java.io.PrintWriter;
-import java.io.IOException;
 import java.util.logging.Level;
 
 /**
@@ -56,9 +53,9 @@ public class Raavan
     public static WebClient web;
     public static List<HtmlPage> pages = new ArrayList<>();
     public static Map<String, Stock> NYSE = new HashMap<>();
-    public static String path = "Stock data";
-    public static boolean append_to_file = true;
-    public static PrintWriter print_line;
+    public static String path = "stockdata.txt";
+    public static FileWriter write;
+
 
     /**
      * Constructor that generates a new web page
@@ -73,10 +70,7 @@ public class Raavan
         web.getOptions().setJavaScriptEnabled(false);
         try
         {
-            //we will also write to a text file so that we can do further operations on it
-            FileWriter write = new FileWriter(path, append_to_file);
-            //since Filewriter parses bytes, we will use print writer to give it a line of text
-            print_line = new PrintWriter(write);
+            write = new FileWriter(path, true);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -161,12 +155,12 @@ public class Raavan
                         Stock stock = new Stock(Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization);
                         //we add each individual stock to the Hash map NYSE that contains all the stocks
                         NYSE.put(Code, stock);
-                        print_line.print(stock.toString());
+                        write.write(stock.toString() + "\n");
                         i++;
                     }
             }
             Lakshmi lakshmi = new Lakshmi(NYSE);
-            print_line.close();
+            write.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
