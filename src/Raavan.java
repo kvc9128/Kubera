@@ -73,7 +73,7 @@ public class Raavan
             //we will also write to a text file so that we can do further operations on it
             FileWriter write = new FileWriter(path, append_to_file);
             //since Filewriter parses bytes, we will use print writer to give it a line of text
-            PrintWriter print_line = new PrintWriter(write);
+            print_line = new PrintWriter(write);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -234,7 +234,8 @@ public class Raavan
 
             for (String URL:searchURL)
             {
-                HtmlPage page = web.getPage(URL);
+                HtmlPage page;
+                page = web.getPage(URL);
                 pages.add(page);
             }
         } catch (IOException e) {
