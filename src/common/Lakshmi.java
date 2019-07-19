@@ -1,7 +1,10 @@
 package common;
 
+import Client.Observer;
 import Server.Stock;
 
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -16,11 +19,57 @@ public class Lakshmi
     // A representation of the NYSE as a Map <stock code listing of stock>
     private Map<String, Stock> Stock_Market;
 
+    // a variable to depict status of software
+    private Status status;
+
     // A standard constructor
     public Lakshmi(Map<String, Stock> NYSE)
     {
         this.Stock_Market = NYSE;
+        this.observers = new LinkedList<>();
+        this.status = Status.IN_USE;
     }
+
+    /**
+     * the observers of the model
+     */
+    private List<Observer<Lakshmi>> observers;
+
+    /**
+     * possible status of software
+     */
+    public enum Status
+    {
+        IN_USE, ERROR, STOP ;
+    }
+
+    /**
+     * The view calls this method to add themselves as an observer of the model
+     */
+    public void addObserver(Observer<Lakshmi> observer)
+    {
+        this.observers.add(observer);
+    }
+
+    /**
+     * When the model changes, the observers are notified via their update method
+     */
+    private void alertObservers()
+    {
+        for(Observer<Lakshmi> obs: this.observers)
+        {
+            obs.update(this);
+        }
+    }
+
+    /**
+     * get software status
+     */
+    public Status getStatus()
+    {
+        return this.status;
+    }
+
 
     /**
      * Returns the stock market
@@ -41,11 +90,13 @@ public class Lakshmi
         return Stock_Market.get(Code);
     }
 
-    public void error(String arguments)
+    /**
+     * to setup an error
+     */
+    public void error()
     {
-
+        this.status = Status.ERROR;
+        alertObservers();
     }
 
-    public void close() {
-    }
 }

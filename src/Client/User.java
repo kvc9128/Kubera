@@ -27,13 +27,12 @@ public class User
     /**
      * Called when the server sends an ERROR message
      *
-     * @param arguments The error message
      */
-    public void error( String arguments )
+    public void error()
     {
         User.dPrint( '!' + Kumbhakarna.ERROR + "!");
-        dPrint( "Fatal error: " + arguments );
-        this.stock_market.error( arguments );
+        dPrint( "Fatal error: ");
+        this.stock_market.error();
         this.stop();
     }
 
@@ -52,7 +51,7 @@ public class User
      * @param host host name
      * @param port port number
      * @param lakshmi stock market
-     * @throws Indrajit
+     * @throws Indrajit custom error
      */
     public User(String host, int port, Lakshmi lakshmi) throws Indrajit
     {
@@ -97,7 +96,6 @@ public class User
         catch( IOException ioe ) {
             // squash
         }
-        this.stock_market.close();
     }
 
     /**
@@ -108,6 +106,7 @@ public class User
     public void ADD(String code)
     {
         this.networkOut.println( Kumbhakarna.ADD + " " + code );
+        portfolio.add_to_portfolio(stock_market.getAStock(code));
     }
 
     /**
@@ -118,6 +117,7 @@ public class User
     public void DROP(String code)
     {
         this.networkOut.println( Kumbhakarna.DROP + " " + code );
+        portfolio.remove_from_portfolio(stock_market.getAStock(code));
     }
 
     /**
@@ -135,32 +135,16 @@ public class User
      * thread internally. This method is made private so that no one
      * outside will call it or try to start a thread on it.
      */
-    private void run() {
+    private void run() throws NoSuchElementException {
         while (this.STOP)
         {
-            try {
-                String request = this.networkIn.next();
-                String arguments = this.networkIn.nextLine().trim();
-                User.dPrint( "Net message in = \"" + request + '"' );
+            String request = this.networkIn.next();
+            User.dPrint( "Net message in = \"" + request + '"' );
 
-                switch ( request )
-                {
-                    case Kumbhakarna.ERROR:
-                        error(arguments);
-                        break;
-                    default:
-                        System.err.println("Unrecognized request: " + request);
-                        this.stop();
-                        break;
-                }
-            }
-            catch( NoSuchElementException nse ) {
-                // Looks like the connection shut down.
-                this.error( "Lost connection to server." );
-                this.stop();
-            }
-            catch( Exception e ) {
-                this.error( e.getMessage() + '?' );
+            if (Kumbhakarna.ERROR.equals(request)) {
+                error();
+            } else {
+                System.err.println("Unrecognized request: " + request);
                 this.stop();
             }
         }
