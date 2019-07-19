@@ -182,63 +182,9 @@ public class Raavan
     {
         try
         {
-            List<String> searchURL = new ArrayList<>();
-            String searchA = "http://eoddata.com/stocklist/NYSE/A.htm";
-            searchURL.add(searchA);
-            String searchB = "http://eoddata.com/stocklist/NYSE/B.htm";
-            searchURL.add(searchB);
-            String searchC = "http://eoddata.com/stocklist/NYSE/C.htm";
-            searchURL.add(searchC);
-            String searchD = "http://eoddata.com/stocklist/NYSE/D.htm";
-            searchURL.add(searchD);
-            String searchE = "http://eoddata.com/stocklist/NYSE/E.htm";
-            searchURL.add(searchE);
-            String searchF = "http://eoddata.com/stocklist/NYSE/F.htm";
-            searchURL.add(searchF);
-            String searchG = "http://eoddata.com/stocklist/NYSE/G.htm";
-            searchURL.add(searchG);
-            String searchH = "http://eoddata.com/stocklist/NYSE/H.htm";
-            searchURL.add(searchH);
-            String searchI = "http://eoddata.com/stocklist/NYSE/I.htm";
-            searchURL.add(searchI);
-            String searchJ = "http://eoddata.com/stocklist/NYSE/J.htm";
-            searchURL.add(searchJ);
-            String searchK = "http://eoddata.com/stocklist/NYSE/K.htm";
-            searchURL.add(searchK);
-            String searchL = "http://eoddata.com/stocklist/NYSE/L.htm";
-            searchURL.add(searchL);
-            String searchM = "http://eoddata.com/stocklist/NYSE/M.htm";
-            searchURL.add(searchM);
-            String searchN = "http://eoddata.com/stocklist/NYSE/N.htm";
-            searchURL.add(searchN);
-            String searchO = "http://eoddata.com/stocklist/NYSE/O.htm";
-            searchURL.add(searchO);
-            String searchP = "http://eoddata.com/stocklist/NYSE/P.htm";
-            searchURL.add(searchP);
-            String searchQ = "http://eoddata.com/stocklist/NYSE/Q.htm";
-            searchURL.add(searchQ);
-            String searchR = "http://eoddata.com/stocklist/NYSE/R.htm";
-            searchURL.add(searchR);
-            String searchS = "http://eoddata.com/stocklist/NYSE/S.htm";
-            searchURL.add(searchS);
-            String searchT = "http://eoddata.com/stocklist/NYSE/T.htm";
-            searchURL.add(searchT);
-            String searchU = "http://eoddata.com/stocklist/NYSE/U.htm";
-            searchURL.add(searchU);
-            String searchV = "http://eoddata.com/stocklist/NYSE/V.htm";
-            searchURL.add(searchV);
-            String searchW = "http://eoddata.com/stocklist/NYSE/W.htm";
-            searchURL.add(searchW);
-            String searchX = "http://eoddata.com/stocklist/NYSE/X.htm";
-            searchURL.add(searchX);
-            String searchY = "http://eoddata.com/stocklist/NYSE/Y.htm";
-            searchURL.add(searchY);
-            String searchZ = "http://eoddata.com/stocklist/NYSE/Z.htm";
-            searchURL.add(searchZ);
-
-            for (String URL:searchURL)
+            for (char alphabet = 'A'; alphabet <= 'Z'; alphabet++)
             {
-                HtmlPage page = web.getPage(URL);
+                HtmlPage page = web.getPage("http://eoddata.com/stocklist/NYSE/" + alphabet + ".htm");
                 pages.add(page);
             }
         } catch (IOException e) {
