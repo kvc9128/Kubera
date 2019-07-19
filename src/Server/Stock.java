@@ -1,12 +1,14 @@
+package Server;
+
 /**
- * Used to represent a Stock ticker for a company
+ * Used to represent a Server.Stock ticker for a company
  */
 public class Stock
 {
     private String Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCap;
 
     /**
-     * Used to create a new Stock ticker for a new company on the Stock market
+     * Used to create a new Server.Stock ticker for a new company on the Server.Stock market
      * @param Code the NYSE approved Code
      * @param Name the NYSE approved Name
      * @param High the NYSE day's high for that stock

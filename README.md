@@ -7,7 +7,7 @@ this program.
 
 List of Classes used and expected to be built :
 
-Step1: Class Raavan
+Step1: Class Server.Raavan
  *          1. Get stocks from EODDATA - Complete
  *          2. Store them in appropriate data structure - complete
  *              a. Small mid large cap division - TBD
@@ -17,10 +17,10 @@ Step1: Class Raavan
  *              e. Find a stock - TBD
  *              f. Access above functions - TBD
  *
-Step2: Class Stock 
+Step2: Class Server.Stock 
  *          1. Used to represent an individual stock ticker
  *
-Step3: Class Lakshmi
+Step3: Class Server.Lakshmi
  *          1. Used to represent one stock market. Currently the NYSE. Depicted as an individual class as it allows for expansion
  *
 Step4: Class X 
