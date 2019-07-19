@@ -1,4 +1,6 @@
-package Server;
+package common;
+
+import Server.Stock;
 
 import java.util.Map;
 
@@ -39,4 +41,11 @@ public class Lakshmi
         return Stock_Market.get(Code);
     }
 
+    public void error(String arguments)
+    {
+
+    }
+
+    public void close() {
+    }
 }

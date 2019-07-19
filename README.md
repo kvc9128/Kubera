@@ -20,7 +20,7 @@ Step1: Class Server.Raavan
 Step2: Class Server.Stock 
  *          1. Used to represent an individual stock ticker
  *
-Step3: Class Server.Lakshmi
+Step3: Class common.Lakshmi
  *          1. Used to represent one stock market. Currently the NYSE. Depicted as an individual class as it allows for expansion
  *
 Step4: Class X 
