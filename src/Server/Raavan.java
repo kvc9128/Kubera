@@ -71,6 +71,8 @@ public class Raavan
         web.getOptions().setThrowExceptionOnScriptError(false);
         java.util.logging.Logger.getLogger("com.gargoylesoftware.htmlunit").setLevel(Level.OFF);
         web.getOptions().setJavaScriptEnabled(false);
+        //generates the web pages of stocks alphabetically
+        GenerateWebpages();
         try
         {
             write = new FileWriter(path, true);
@@ -89,8 +91,6 @@ public class Raavan
         // generates the web browser
         new Raavan();
         long start = System.nanoTime();
-        //generates the web pages of stocks alphabetically
-        GenerateWebpages();
            try{
                //function that creates each stock
                FirstAlpha(pages);
