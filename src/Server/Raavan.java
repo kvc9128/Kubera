@@ -196,7 +196,6 @@ public class Raavan
                         java.util.logging.Logger.getLogger("com.gargoylesoftware.htmlunit").setLevel(Level.OFF);
                         webClient.getOptions().setJavaScriptEnabled(false);
                         pages.add(webClient.getPage("http://eoddata.com/stocklist/NYSE/" + letter + ".htm"));
-                        System.out.println("Got page " + letter);
                         webClient.close();
                     } catch (IOException e) {
                         e.printStackTrace();
