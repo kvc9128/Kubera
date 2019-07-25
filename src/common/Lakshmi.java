@@ -1,7 +1,7 @@
 package common;
 
-import Client.Observer;
-import Server.Stock;
+import Client.*;
+import Server.*;
 
 import java.util.LinkedList;
 import java.util.List;

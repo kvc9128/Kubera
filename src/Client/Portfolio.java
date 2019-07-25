@@ -1,7 +1,7 @@
 package Client;
 
-import Server.Stock;
-import common.Lakshmi;
+import Server.*;
+import common.*;
 
 import java.util.List;
 
