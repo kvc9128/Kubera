@@ -180,17 +180,37 @@ public class Raavan
      */
     public static void GenerateWebpages()
     {
-        try
-        {
+            System.out.println("Generating Webpages");
+            ArrayList<Thread> threads = new ArrayList<>();
             for (char alphabet = 'A'; alphabet <= 'Z'; alphabet++)
             {
-                HtmlPage page = web.getPage("http://eoddata.com/stocklist/NYSE/" + alphabet + ".htm");
-                pages.add(page);
+                char letter = alphabet;
+                //Make a thread to get the webpage for the stock letter
+                Thread thread = new Thread(() -> {
+                    try
+                    {
+                        WebClient webClient = new WebClient();
+                        // we will set CSS and Javascript to false as we do not want to deal with that
+                        webClient.getOptions().setCssEnabled(false);
+                        webClient.getOptions().setThrowExceptionOnScriptError(false);
+                        java.util.logging.Logger.getLogger("com.gargoylesoftware.htmlunit").setLevel(Level.OFF);
+                        webClient.getOptions().setJavaScriptEnabled(false);
+                        pages.add(webClient.getPage("http://eoddata.com/stocklist/NYSE/" + letter + ".htm"));
+                        webClient.close();
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
+                });
+                //Add the thread to the list of threads and start it
+                threads.add(thread);
+                thread.start();
             }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
+            //Wait for all threads to complete
+            for (Thread thread : threads){
+                try{
+                    thread.join();
+                } catch (InterruptedException ie){}
+            }
     }
 
 }
