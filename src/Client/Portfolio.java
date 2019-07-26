@@ -8,7 +8,7 @@ import java.util.List;
 public class Portfolio
 {
     private Lakshmi stock_market;
-    private List<Stock> Noted_Stocks;
+    public List<Stock> Noted_Stocks;
 
     /**
      * A constructor that allows each new user to create a personal portfolio
