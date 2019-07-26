@@ -58,6 +58,7 @@ public class Raavan
     public static Map<String, Stock> NYSE = new HashMap<>();
     public static String path = "common/stockdata.txt";
     public static FileWriter write;
+    public static Lakshmi lakshmi;
 
 
     /**
@@ -94,6 +95,11 @@ public class Raavan
            try{
                //function that creates each stock
                FirstAlpha(pages);
+               // TODO THIS IS WHERE I PLAN TO HAVE MULTIPLE USERS CONNECTING
+               // TODO WE COULD HAVE IT IN A SEPARATE CLASS
+               // TODO THIS IS WHERE WE WILL HAVE MULTIPLE THREADS BEING OPENED UP
+               // TODO I WANT THE SERVER CLASS TO CONTINUE EXECUTING FROM HERE AND
+               //  ALSO HANDLE USER REQUESTS HERE
            } catch (Exception e)
            {
                e.printStackTrace();
@@ -166,7 +172,7 @@ public class Raavan
                         i++;
                     }
             }
-            Lakshmi lakshmi = new Lakshmi(NYSE);
+            lakshmi = new Lakshmi(NYSE);
             write.close();
         } catch (IOException e) {
             e.printStackTrace();
