@@ -1,6 +1,7 @@
 package Server;
 import java.io.IOException;
 import java.net.Socket;
+import java.util.NoSuchElementException;
 import common.Duplexer;
 
 class IncomingConnection extends Thread{
@@ -14,11 +15,14 @@ class IncomingConnection extends Thread{
 
     public void run(){
         //Primary loop, process incoming requests here
-        while (true){
-            String message = connection.receive();
-            //TODO: Add command handling, once commands are decided
-            //Temporary, for testing purposes
-            connection.send(message);
-        }
+        try{
+            while (true){
+                String message = connection.receive();
+                System.out.println("Message: " + message);
+                //TODO: Add command handling, once commands are decided
+                //Temporary, for testing purposes
+                connection.send(message);
+            }
+        } catch (NoSuchElementException ex){}
     }
 }

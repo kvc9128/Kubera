@@ -5,10 +5,15 @@ import com.gargoylesoftware.htmlunit.html.*;
 import common.*;
 
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.ServerSocket;
+import java.net.Socket;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.io.BufferedReader;
+import java.io.DataInputStream;
 import java.io.FileWriter;
 import java.util.logging.Level;
 
@@ -94,7 +99,7 @@ public class Raavan
         long start = System.nanoTime();
            try{
                //function that creates each stock
-               FirstAlpha(pages);
+               //FirstAlpha(pages);
                // TODO THIS IS WHERE I PLAN TO HAVE MULTIPLE USERS CONNECTING
                // TODO WE COULD HAVE IT IN A SEPARATE CLASS
                // TODO THIS IS WHERE WE WILL HAVE MULTIPLE THREADS BEING OPENED UP
@@ -106,6 +111,17 @@ public class Raavan
            }
         long end = System.nanoTime();
         System.out.println("Total time taken (in seconds): " + ((end-start)/1000000000));
+
+        ServerSocket ssock;
+        try{
+            ssock = new ServerSocket(4444);
+            while (true){
+                Socket conn = ssock.accept();
+                System.out.println("Incoming connection from " + conn.getRemoteSocketAddress());
+                IncomingConnection incomingConnection = new IncomingConnection(conn);
+                incomingConnection.start();
+            }
+        } catch (IOException io){}
     }
 
     /**
