@@ -99,7 +99,7 @@ public class Raavan
         long start = System.nanoTime();
            try{
                //function that creates each stock
-               //FirstAlpha(pages);
+               FirstAlpha(pages);
                // TODO THIS IS WHERE I PLAN TO HAVE MULTIPLE USERS CONNECTING
                // TODO WE COULD HAVE IT IN A SEPARATE CLASS
                // TODO THIS IS WHERE WE WILL HAVE MULTIPLE THREADS BEING OPENED UP
