@@ -209,7 +209,7 @@ public class GUI extends Application implements Observer<Lakshmi>
     {
         if (args.length != 2)
         {
-            System.out.println("Usage: java ConnectFourGUI host port");
+            System.out.println("Usage: java GUI host port");
             System.exit(-1);
         }
         else
