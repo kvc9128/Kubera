@@ -56,10 +56,10 @@ public class GUI extends Application implements Observer<Lakshmi>
             String host = args.get(0);
             int port = Integer.parseInt(args.get(1));
 
-            this.add = new Image("add.png");
-            this.drop = new Image("drop.png");
-            this.portfolio = new Image("portfolio.png");
-            this.stop = new Image("stop.png");
+            this.add = new Image("Client/add.png");
+            this.drop = new Image("Client/drop.png");
+            this.portfolio = new Image("Client/portfolio.png");
+            this.stop = new Image("Client/stop.png");
 
             this.user = new User(host, port, Raavan.lakshmi);
             this.laskhmi = Raavan.lakshmi;

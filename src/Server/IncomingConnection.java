@@ -1,24 +1,31 @@
 package Server;
-import java.io.IOException;
-import java.net.Socket;
-import java.util.NoSuchElementException;
 import common.Duplexer;
 import common.Kumbhakarna;
+
+import java.io.IOException;
+import java.net.Socket;
 
 class IncomingConnection extends Thread{
     private Duplexer connection;
 
-    public IncomingConnection(Socket connection){
-        try {
+    public IncomingConnection(Socket connection)
+    {
+        try
+        {
             this.connection = new Duplexer(connection);
-        } catch (IOException io){}
+        }
+        catch (IOException io)
+        {
+
+        }
     }
 
     public void run(){
         connection.send(Kumbhakarna.CONNECT);
         //Primary loop, process incoming requests here
         try{
-            while (true){
+            while (true)
+            {
                 String message = connection.receive();
                 System.out.println("Message: " + message);
                 String[] tokens = message.split(" ");
@@ -31,7 +38,8 @@ class IncomingConnection extends Thread{
                         break;
                 }
             }
-        } catch (Exception ex){
+        } catch (Exception ex)
+        {
             connection.send(Kumbhakarna.ERROR);
         }
     }
