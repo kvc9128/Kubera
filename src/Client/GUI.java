@@ -140,6 +140,8 @@ public class GUI extends Application implements Observer<Lakshmi>
         }
         vBox1.getChildren().addAll(information, temp, go_back);
 
+        scene_portfolio = new Scene(vBox1);
+
         scene_initial = new Scene(borderPane);
         stage.setScene(scene_initial);
         stage.setTitle("Kuberā");
