@@ -68,6 +68,7 @@ public class Raavan
      */
     public Raavan()
     {
+        lakshmi = new Lakshmi(NYSE);
         web = new WebClient();
         // we will set CSS and Javascript to false as we do not want to deal with that
         web.getOptions().setCssEnabled(false);
@@ -180,7 +181,6 @@ public class Raavan
                         i++;
                     }
             }
-            lakshmi = new Lakshmi(NYSE);
             write.close();
         } catch (IOException e) {
             e.printStackTrace();
