@@ -31,6 +31,7 @@ class IncomingConnection extends Thread{
                 String[] tokens = message.split(" ");
                 switch (tokens[0]){
                     case Kumbhakarna.ADD:
+                        System.out.println("here");
                         break;
                     case Kumbhakarna.DROP:
                         break;
