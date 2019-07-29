@@ -5,6 +5,8 @@ import com.gargoylesoftware.htmlunit.html.*;
 import common.*;
 
 import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -106,6 +108,17 @@ public class Raavan
            }
         long end = System.nanoTime();
         System.out.println("Total time taken (in seconds): " + ((end-start)/1000000000));
+
+        ServerSocket ssock;
+        try{
+            ssock = new ServerSocket(4444);
+            while (true){
+                Socket conn = ssock.accept();
+                System.out.println("Incoming connection from " + conn.getRemoteSocketAddress());
+                IncomingConnection incomingConnection = new IncomingConnection(conn);
+                incomingConnection.start();
+            }
+        } catch (IOException io){}
     }
 
     /**
