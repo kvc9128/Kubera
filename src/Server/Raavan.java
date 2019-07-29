@@ -97,18 +97,13 @@ public class Raavan
            try{
                //function that creates each stock
                FirstAlpha(pages);
-               // TODO THIS IS WHERE I PLAN TO HAVE MULTIPLE USERS CONNECTING
-               // TODO WE COULD HAVE IT IN A SEPARATE CLASS
-               // TODO THIS IS WHERE WE WILL HAVE MULTIPLE THREADS BEING OPENED UP
-               // TODO I WANT THE SERVER CLASS TO CONTINUE EXECUTING FROM HERE AND
-               //  ALSO HANDLE USER REQUESTS HERE
            } catch (Exception e)
            {
                e.printStackTrace();
            }
         long end = System.nanoTime();
         System.out.println("Total time taken (in seconds): " + ((end-start)/1000000000));
-
+        // This is where we accept multiple clients
         ServerSocket ssock;
         try{
             ssock = new ServerSocket(4444);
