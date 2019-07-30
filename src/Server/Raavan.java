@@ -98,8 +98,6 @@ public class Raavan
            try{
                //function that creates each stock
                FirstAlpha(pages);
-               //new function to read from a text file to make things easier for testing
-               //magicfunc()
            } catch (Exception e)
            {
                e.printStackTrace();
