@@ -180,6 +180,12 @@ public class GUI extends Application implements Observer<Lakshmi>
             case STOP:
                 this.statae.setText( "Please come again!" );
                 break;
+            case STOCK_ADDED:
+                this.statae.setText( "Stock was added to portfolio" );
+                break;
+            case STOCK_REMOVED:
+                this.statae.setText("Stock was removed from portfolio");
+                break;
             default:
                 this.statae.setText(" ");
         }

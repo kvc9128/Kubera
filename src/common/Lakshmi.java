@@ -40,7 +40,7 @@ public class Lakshmi
      */
     public enum Status
     {
-        IN_USE, ERROR, STOP ;
+        IN_USE, ERROR, STOP, STOCK_ADDED, STOCK_REMOVED ;
     }
 
     /**
@@ -104,6 +104,8 @@ public class Lakshmi
      */
     public void stock_added()
     {
+        this.status = Status.STOCK_ADDED;
+        alertObservers();
         System.out.println("Stock added to portfolio");
     }
 
@@ -112,6 +114,8 @@ public class Lakshmi
      */
     public void stock_dropped()
     {
+        this.status = Status.STOCK_REMOVED;
+        alertObservers();
         System.out.println("Stock removed from portfolio");
     }
 
