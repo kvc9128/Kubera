@@ -40,7 +40,7 @@ public class Lakshmi
      */
     public enum Status
     {
-        IN_USE, ERROR, STOP, STOCK_ADDED, STOCK_REMOVED ;
+        IN_USE, ERROR, STOP, STOCK_ADDED, STOCK_REMOVED
     }
 
     /**
@@ -60,14 +60,6 @@ public class Lakshmi
         {
             obs.update(this);
         }
-    }
-
-    /**
-     * get software status
-     */
-    public Status getStatus()
-    {
-        return this.status;
     }
 
 
