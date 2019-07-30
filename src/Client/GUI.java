@@ -64,9 +64,8 @@ public class GUI extends Application implements Observer<Lakshmi>
             this.stop = new Image("Client/stop.png");
 
             this.raavan = new Raavan();
-
-            this.user = new User(host, port, Raavan.lakshmi);
-            this.laskhmi = Raavan.lakshmi;
+            this.laskhmi = this.raavan.lakshmi;
+            this.user = new User(host, port, this.laskhmi);
             this.portfolio_read = new Portfolio(this.laskhmi);
             this.laskhmi.addObserver(this);
         }

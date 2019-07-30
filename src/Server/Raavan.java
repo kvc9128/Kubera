@@ -267,4 +267,9 @@ public class Raavan
         }
     }
 
+    public static Lakshmi get_lakshmi()
+    {
+        return lakshmi;
+    }
+
 }
