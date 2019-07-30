@@ -44,8 +44,14 @@ public interface Kumbhakarna
      */
     public static final String STOP = "STOP";
 
+    /**
+     * Response from server to client acknowledging that stock has been added
+     */
     public static final String STOCK_ADDED = "STOCK_ADDED";
 
+    /**
+     * Response from server to client acknowledging that stock has been dropped
+     */
     public static final String STOCK_DROPPED = "STOCK_DROPPED";
 
 }
