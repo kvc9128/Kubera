@@ -20,7 +20,7 @@ public class Lakshmi
     private Map<String, Stock> Stock_Market;
 
     // a variable to depict status of software
-    private Status status;
+    public Status status;
 
     // A standard constructor
     public Lakshmi(Map<String, Stock> NYSE)

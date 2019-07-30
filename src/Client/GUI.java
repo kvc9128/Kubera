@@ -40,6 +40,7 @@ public class GUI extends Application implements Observer<Lakshmi>
     private User user;
     private Lakshmi laskhmi;
     private Portfolio portfolio_read;
+    private Label statae = new Label();
 
     private Scene scene_initial, scene_portfolio;
 
@@ -99,10 +100,12 @@ public class GUI extends Application implements Observer<Lakshmi>
         VBox vBox = new VBox();
         vBox.getChildren().addAll(search_bar, Stock_info);
 
-        // button stop
+        // button stop and a Vbox to  display the status
         Button stop_execution = new Button();
         stop_execution.setGraphic(new ImageView(this.stop));
         stop_execution.setOnAction(e -> user.stop());
+        VBox vBox2 = new VBox();
+        vBox2.getChildren().addAll(stop_execution,statae);
 
         // button add
         Button add_stock = new Button();
@@ -121,7 +124,7 @@ public class GUI extends Application implements Observer<Lakshmi>
         // setting the scene background
         borderPane.setTop(portfolio_viewer);
         borderPane.setCenter(vBox);
-        borderPane.setBottom(stop_execution);
+        borderPane.setBottom(vBox2);
         borderPane.setLeft(add_stock);
         borderPane.setRight(drop_stock);
 
@@ -138,7 +141,7 @@ public class GUI extends Application implements Observer<Lakshmi>
             labels[i].setText(portfolio_read.Noted_Stocks.get(i).toString());
             temp.getChildren().addAll(labels[i]);
         }
-        vBox1.getChildren().addAll(information, temp, go_back);
+        vBox1.getChildren().addAll(information, temp, go_back, statae);
 
         scene_portfolio = new Scene(vBox1);
 
@@ -165,28 +168,21 @@ public class GUI extends Application implements Observer<Lakshmi>
      */
     private void refresh()
     {
-//        WAMBoard.Status status = board.getStatus();
-//        switch (status)
-//        {
-//            case ERROR:
-//                this.gamestatus.setText(status.toString());
-//                break;
-//            case GAME_WON:
-//                this.gamestatus.setText( "You won. Yay!" );
-//                break;
-//            case GAME_LOST:
-//                this.gamestatus.setText( "You lost. Boo!" );
-//                break;
-//            case GAME_TIED:
-//                this.gamestatus.setText( "Tie game. Meh." );
-//                break;
-//            case NOT_OVER:
-//                this.gamestatus.setText("Score: " + client.score);
-//                break;
-//            default:
-//                this.gamestatus.setText(" ");
-//        }
-//        help_refresh();
+        Lakshmi.Status status = this.laskhmi.status;
+        switch (status)
+        {
+            case ERROR:
+                this.statae.setText(status.toString());
+                break;
+            case IN_USE:
+                this.statae.setText( "Happy Finances!" );
+                break;
+            case STOP:
+                this.statae.setText( "Please come again!" );
+                break;
+            default:
+                this.statae.setText(" ");
+        }
     }
 
 
