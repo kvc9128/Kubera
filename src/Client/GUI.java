@@ -41,6 +41,7 @@ public class GUI extends Application implements Observer<Lakshmi>
     private Lakshmi laskhmi;
     private Portfolio portfolio_read;
     private Label statae = new Label();
+    private Raavan raavan;
 
     private Scene scene_initial, scene_portfolio;
 
@@ -61,6 +62,8 @@ public class GUI extends Application implements Observer<Lakshmi>
             this.drop = new Image("Client/drop.png");
             this.portfolio = new Image("Client/portfolio.png");
             this.stop = new Image("Client/stop.png");
+
+            this.raavan = new Raavan();
 
             this.user = new User(host, port, Raavan.lakshmi);
             this.laskhmi = Raavan.lakshmi;
