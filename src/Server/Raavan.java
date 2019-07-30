@@ -98,6 +98,8 @@ public class Raavan
            try{
                //function that creates each stock
                FirstAlpha(pages);
+               //new function to read from a text file to make things easier for testing
+               //magicfunc()
            } catch (Exception e)
            {
                e.printStackTrace();
@@ -107,8 +109,9 @@ public class Raavan
         // This is where we accept multiple clients
         ServerSocket ssock;
         try{
-            ssock = new ServerSocket(4444);
-            while (true){
+            ssock = new ServerSocket(44444);
+            while (true)
+            {
                 Socket conn = ssock.accept();
                 System.out.println("Incoming connection from " + conn.getRemoteSocketAddress());
                 IncomingConnection incomingConnection = new IncomingConnection(conn);

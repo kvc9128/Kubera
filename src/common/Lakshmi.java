@@ -1,7 +1,7 @@
 package common;
 
-import Client.*;
-import Server.*;
+import Client.Observer;
+import Server.Stock;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -97,6 +97,22 @@ public class Lakshmi
     {
         this.status = Status.ERROR;
         alertObservers();
+    }
+
+    /**
+     * Used to display that the stock has been added to portfolio
+     */
+    public void stock_added()
+    {
+        System.out.println("Stock added to portfolio");
+    }
+
+    /**
+     * Used to display that the stock has been dropped from portfolio
+     */
+    public void stock_dropped()
+    {
+        System.out.println("Stock removed from portfolio");
     }
 
 }

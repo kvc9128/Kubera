@@ -44,4 +44,8 @@ public interface Kumbhakarna
      */
     public static final String STOP = "STOP";
 
+    public static final String STOCK_ADDED = "STOCK_ADDED";
+
+    public static final String STOCK_DROPPED = "STOCK_DROPPED";
+
 }

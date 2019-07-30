@@ -141,9 +141,20 @@ public class User
             String request = this.networkIn.next();
             User.dPrint( "Net message in = \"" + request + '"' );
 
-            if (Kumbhakarna.ERROR.equals(request)) {
+            if (Kumbhakarna.ERROR.equals(request))
+            {
                 error();
-            } else {
+            }
+            else if (Kumbhakarna.STOCK_ADDED.equals(request))
+            {
+                this.stock_market.stock_added();
+            }
+            else if (Kumbhakarna.STOCK_DROPPED.equals(request))
+            {
+                this.stock_market.stock_dropped();
+            }
+            else
+            {
                 System.err.println("Unrecognized request: " + request);
                 this.stop();
             }
