@@ -1,0 +1,828 @@
+Code : A Name : Agilent Technologies High : 70.18 Low : 68.10 Close : 70.15 Volume : 321.76M DivYield : 0.78 Earning_Per_Share : 1.94 PEG ratio : 2.73 Market_Capitalization : 22.57B
+Code : AA Name : Alcoa Corp High : 23.04 Low : 22.58 Close : 22.70 Volume : 184.30M DivYield : 1.25 Earning_Per_Share : 0.88 PEG ratio : 0.0 Market_Capitalization : 4.18B
+Code : AAC Name : Aac Holdings Inc High : 1.0000 Low : 0.9389 Close : 0.9900 Volume : 24.06M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.82 Market_Capitalization : 23.82M
+Code : AAN Name : Aaron's Inc High : 63.57 Low : 60.16 Close : 63.17 Volume : 70.77M DivYield : 0.26 Earning_Per_Share : 1.95 PEG ratio : 1.38 Market_Capitalization : 4.47B
+Code : AAP Name : Advance Auto Parts Inc High : 154.7 Low : 150.9 Close : 151.8 Volume : 73.84M DivYield : 0.28 Earning_Per_Share : 5.01 PEG ratio : 1.52 Market_Capitalization : 11.21B
+Code : AAT Name : American Assets Trust High : 47.39 Low : 46.88 Close : 46.94 Volume : 47.18M DivYield : 2.66 Earning_Per_Share : 0.66 PEG ratio : 20.97 Market_Capitalization : 2.21B
+Code : AB Name : Alliancebernstein Holding LP High : 29.91 Low : 29.20 Close : 29.90 Volume : 93.54M DivYield : 7.86 Earning_Per_Share : 2.18 PEG ratio : 1.07 Market_Capitalization : 2.80B
+Code : ABB Name : Abb Ltd High : 18.85 Low : 18.68 Close : 18.78 Volume : 2.13B DivYield : 3 Earning_Per_Share : 1.04 PEG ratio : 2.74 Market_Capitalization : 40.08B
+Code : ABBV Name : Abbvie Inc High : 67.53 Low : 66.26 Close : 67.18 Volume : 1.59B DivYield : 2.86 Earning_Per_Share : 4.07 PEG ratio : 1 Market_Capitalization : 107.09B
+Code : ABC Name : Amerisourcebergen Corp High : 89.01 Low : 85.48 Close : 88.72 Volume : 219.17M DivYield : 1.85 Earning_Per_Share : 3.84 PEG ratio : 1.63 Market_Capitalization : 19.44B
+Code : ABEV Name : Ambev S.A. High : 5.450 Low : 5.310 Close : 5.320 Volume : 15.71B DivYield : 2.52 Earning_Per_Share : 0.24 PEG ratio : 6.79 Market_Capitalization : 83.56B
+Code : ABG Name : Asbury Automotive Group Inc High : 94.00 Low : 91.42 Close : 92.97 Volume : 20.85M DivYield : 0.0 Earning_Per_Share : 7.69 PEG ratio : 0.82 Market_Capitalization : 1.94B
+Code : ABM Name : ABM Industries Incorporated High : 42.46 Low : 41.09 Close : 42.25 Volume : 65.03M DivYield : 1.61 Earning_Per_Share : 0.26 PEG ratio : 4.42 Market_Capitalization : 2.75B
+Code : ABR Name : Arbor Realty Trust High : 12.35 Low : 12.16 Close : 12.31 Volume : 61.35M DivYield : 8.72 Earning_Per_Share : 1.09 PEG ratio : 1.17 Market_Capitalization : 755.21M
+Code : ABR-A Name : Arbor Realty Trust Inc High : 26.40 Low : 26.15 Close : 26.40 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ABR-B Name : Arbor Realty Trust Inc High : 25.90 Low : 25.81 Close : 25.90 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ABR-C Name : Arbor Realty Trust High : 26.69 Low : 26.45 Close : 26.47 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ABT Name : Abbott Laboratories High : 88.73 Low : 87.85 Close : 88.31 Volume : 1.74B DivYield : 1.91 Earning_Per_Share : 0.71 PEG ratio : 1.87 Market_Capitalization : 153.43B
+Code : AC Name : Associated Capital Group Inc High : 37.58 Low : 37.11 Close : 37.28 Volume : 23.86M DivYield : 0.54 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 889.65M
+Code : ACA Name : Arcosa Inc High : 37.30 Low : 35.50 Close : 37.26 Volume : 35.34M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.22 Market_Capitalization : 1.32B
+Code : ACB Name : Aurora Cannabis Inc High : 6.430 Low : 6.000 Close : 6.250 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ACC Name : American Campus Communities Inc High : 47.31 Low : 46.34 Close : 46.65 Volume : 136.41M DivYield : 4.22 Earning_Per_Share : 0.48 PEG ratio : 3.01 Market_Capitalization : 6.36B
+Code : ACCO Name : Acco Brands Corp High : 8.270 Low : 8.090 Close : 8.140 Volume : 108.81M DivYield : 0.0 Earning_Per_Share : 0.5 PEG ratio : 1.18 Market_Capitalization : 885.73M
+Code : ACH Name : Aluminum Corp of China Ltd High : 8.240 Low : 8.200 Close : 8.210 Volume : 595.95M DivYield : 0.0 Earning_Per_Share : 0.25 PEG ratio : 0.0 Market_Capitalization : 4.89B
+Code : ACM Name : Aecom Technology Corp High : 36.78 Low : 36.05 Close : 36.76 Volume : 156.68M DivYield : 0.0 Earning_Per_Share : 1.63 PEG ratio : 20.15 Market_Capitalization : 5.76B
+Code : ACN Name : Accenture Plc High : 197.2 Low : 195.4 Close : 195.7 Volume : 617.53M DivYield : 1.87 Earning_Per_Share : 5.44 PEG ratio : 2.24 Market_Capitalization : 120.82B
+Code : ACP Name : Avenue Income Credit Strategies High : 12.65 Low : 12.54 Close : 12.65 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ACRE Name : Ares Commercial Real Estate Cor High : 15.40 Low : 15.19 Close : 15.31 Volume : 28.56M DivYield : 8.16 Earning_Per_Share : 1.39 PEG ratio : 2.46 Market_Capitalization : 437.21M
+Code : ACV Name : Allianzgi Diversified Income &</td> High : 23.70 Low : 23.57 Close : 23.70 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 1.7 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ADC Name : Agree Realty Corp High : 67.96 Low : 66.76 Close : 67.37 Volume : 28.39M DivYield : 4.29 Earning_Per_Share : 2.22 PEG ratio : 0.0 Market_Capitalization : 1.91B
+Code : ADM Name : Archer Daniels Midland High : 41.10 Low : 40.53 Close : 40.95 Volume : 562.57M DivYield : 2.97 Earning_Per_Share : 2.37 PEG ratio : 0.0 Market_Capitalization : 23.04B
+Code : ADNT Name : Adient Plc High : 23.24 Low : 22.17 Close : 23.06 Volume : 93.11M DivYield : 1.32 Earning_Per_Share : 0.0 PEG ratio : 0.74 Market_Capitalization : 2.15B
+Code : ADS Name : Alliance Data Systems Corp High : 158.0 Low : 155.8 Close : 157.8 Volume : 55.47M DivYield : 0.87 Earning_Per_Share : 8.77 PEG ratio : 1 Market_Capitalization : 8.75B
+Code : ADSW Name : Advanced Disposal Services Inc High : 32.55 Low : 32.39 Close : 32.54 Volume : 88.53M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 4.81 Market_Capitalization : 2.88B
+Code : ADT Name : ADT Inc High : 6.410 Low : 6.230 Close : 6.410 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 1.7 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ADX Name : Adams Express Company High : 16.05 Low : 15.98 Close : 16.05 Volume : 98.47M DivYield : 0.0 Earning_Per_Share : 2.83 PEG ratio : 0.0 Market_Capitalization : 1.58B
+Code : AEB Name : Aegon N.V. Perp Cap Secs Floating Rate High : 23.94 Low : 23.67 Close : 23.92 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AEE Name : Ameren Corp High : 77.26 Low : 75.82 Close : 76.21 Volume : 242.56M DivYield : 2.96 Earning_Per_Share : 2.86 PEG ratio : 3.13 Market_Capitalization : 18.49B
+Code : AEG Name : Aegon N.V. High : 4.930 Low : 4.880 Close : 4.900 Volume : 2.04B DivYield : 5.15 Earning_Per_Share : 0.85 PEG ratio : 0.0 Market_Capitalization : 10.02B
+Code : AEH Name : Aegon N.V. Perp Cap Secs High : 26.21 Low : 26.11 Close : 26.12 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.25 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AEL Name : American Equity Investment Life High : 26.12 Low : 25.34 Close : 25.95 Volume : 89.04M DivYield : 0.79 Earning_Per_Share : 2.17 PEG ratio : 1.15 Market_Capitalization : 2.31B
+Code : AEM Name : Agnico-Eagle Mines Ltd High : 54.63 Low : 54.11 Close : 54.18 Volume : 231.18M DivYield : 0.97 Earning_Per_Share : 1.09 PEG ratio : 1.75 Market_Capitalization : 12.53B
+Code : AEO Name : American Eagle Outfitters High : 17.80 Low : 17.37 Close : 17.71 Volume : 177.33M DivYield : 3.57 Earning_Per_Share : 0.97 PEG ratio : 41.33 Market_Capitalization : 3.14B
+Code : AEP Name : American Electric Power Company High : 89.88 Low : 88.27 Close : 88.72 Volume : 491.89M DivYield : 3.19 Earning_Per_Share : 1.16 PEG ratio : 7.27 Market_Capitalization : 43.64B
+Code : AEP-B Name : American Elec. Pwr CO Inc 6.125% Corp. High : 55.40 Low : 54.82 Close : 55.07 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AER Name : Aercap Holdings N.V. High : 54.52 Low : 51.79 Close : 54.51 Volume : 160.60M DivYield : 0.0 Earning_Per_Share : 6.34 PEG ratio : 0.92 Market_Capitalization : 8.75B
+Code : AES Name : The Aes Corp High : 17.19 Low : 16.87 Close : 17.15 Volume : 660.48M DivYield : 4.45 Earning_Per_Share : 0.0 PEG ratio : 0.92 Market_Capitalization : 11.33B
+Code : AFB Name : Alliance National Municipal High : 13.64 Low : 13.53 Close : 13.60 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 1.21 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AFC Name : Allied Capital Corp High : 26.61 Low : 26.35 Close : 26.36 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AFG Name : American Financial Group High : 103.0 Low : 102.0 Close : 102.7 Volume : 88.04M DivYield : 1.33 Earning_Per_Share : 8.87 PEG ratio : 2.79 Market_Capitalization : 9.04B
+Code : AFGB Name : American Financial Group Inc 5.875% High : 27.18 Low : 27.04 Close : 27.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AFGE Name : American Financial Group Inc High : 25.88 Low : 25.76 Close : 25.87 Volume : 87.83M DivYield : 0.0 Earning_Per_Share : 8.87 PEG ratio : 0.0 Market_Capitalization : 2.27B
+Code : AFGH Name : American Financial Group Inc High : 26.63 Low : 26.51 Close : 26.63 Volume : 6.00M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 159.78M
+Code : AFI Name : Armstrong Flooring Inc High : 8.570 Low : 8.140 Close : 8.410 Volume : 27.08M DivYield : 0.0 Earning_Per_Share : 0.02 PEG ratio : 1.47 Market_Capitalization : 227.78M
+Code : AFL Name : Aflac Incorporated High : 53.27 Low : 52.66 Close : 52.88 Volume : 395.28M DivYield : 2.14 Earning_Per_Share : 6.61 PEG ratio : 0.92 Market_Capitalization : 20.90B
+Code : AFT Name : Apollo Senior Floating Rate Fund Inc High : 15.05 Low : 14.96 Close : 15.02 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AG Name : First Majestic Silver High : 10.16 Low : 9.95 Close : 10.06 Volume : 165.42M DivYield : 0.0 Earning_Per_Share : 0.08 PEG ratio : 14.1 Market_Capitalization : 1.66B
+Code : AGCO Name : Agco Corp High : 80.64 Low : 76.51 Close : 80.21 Volume : 79.53M DivYield : 0.79 Earning_Per_Share : 2.29 PEG ratio : 0.99 Market_Capitalization : 6.38B
+Code : AGD Name : Alpine Global Dynamic Dividend Fund High : 9.638 Low : 9.580 Close : 9.630 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGI Name : Alamos Gold Inc High : 6.840 Low : 6.680 Close : 6.810 Volume : 301.11M DivYield : 0.32 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 2.05B
+Code : AGM Name : Federal Agricultural Mortgage Corp High : 78.11 Low : 75.56 Close : 78.00 Volume : 10.60M DivYield : 1.92 Earning_Per_Share : 7.26 PEG ratio : 1.6 Market_Capitalization : 827.11M
+Code : AGM-A Name : Federal Agricultural Mortgage High : 26.36 Low : 25.76 Close : 26.36 Volume : 10.60M DivYield : 1.92 Earning_Per_Share : 7.26 PEG ratio : 0.0 Market_Capitalization : 279.52M
+Code : AGM-C Name : Federal Agricultural Mortgage High : 26.26 Low : 26.25 Close : 26.25 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGM-D Name : Federal Agricultural Mortgage Corp Pfd High : 26.40 Low : 26.35 Close : 26.40 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGM.A Name : Federal Agricultural Mortgage Corp High : 68.16 Low : 68.16 Close : 68.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGN Name : Allergan Plc High : 161.7 Low : 160.3 Close : 160.9 Volume : 334.30M DivYield : 1.59 Earning_Per_Share : 32.82 PEG ratio : 0.97 Market_Capitalization : 53.78B
+Code : AGO Name : Assured Guaranty Ltd High : 43.80 Low : 43.13 Close : 43.72 Volume : 119.08M DivYield : 1.55 Earning_Per_Share : 8.9 PEG ratio : 2.52 Market_Capitalization : 5.21B
+Code : AGO-B Name : Assured Guaranty Ltd [B] High : 27.48 Low : 27.37 Close : 27.48 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGO-E Name : Assured Guaranty Ltd [E] High : 27.19 Low : 26.99 Close : 27.19 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGO-F Name : Assured Guaranty Ltd [F] High : 26.08 Low : 25.89 Close : 26.03 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGR Name : Avangrid Inc High : 50.39 Low : 49.78 Close : 50.31 Volume : 308.97M DivYield : 3.42 Earning_Per_Share : 2.18 PEG ratio : 2.9 Market_Capitalization : 15.54B
+Code : AGRO Name : Adecoagro S.A. High : 6.910 Low : 6.720 Close : 6.720 Volume : 121.07M DivYield : 0.0 Earning_Per_Share : 0.22 PEG ratio : 0.05 Market_Capitalization : 813.57M
+Code : AGS Name : Playags Inc High : 19.11 Low : 18.75 Close : 19.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGX Name : Argan Inc High : 41.54 Low : 41.05 Close : 41.38 Volume : 15.47M DivYield : 1.44 Earning_Per_Share : 5.43 PEG ratio : 0.0 Market_Capitalization : 640.33M
+Code : AHC Name : A.H. Belo Corp High : 3.776 Low : 3.640 Close : 3.670 Volume : 21.75M DivYield : 7.11 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 79.83M
+Code : AHH Name : Armada Hoffler Properties Inc High : 17.04 Low : 16.89 Close : 17.02 Volume : 62.78M DivYield : 5.46 Earning_Per_Share : 0.49 PEG ratio : 6.79 Market_Capitalization : 1.07B
+Code : AHH-A Name : Armada Hoffler Properties Inc Pfd A High : 26.83 Low : 26.43 Close : 26.83 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHL-C Name : Aspen Ins Pfd Inc High : 27.78 Low : 27.49 Close : 27.49 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHL-D Name : Aspen Insurance Holdings Ltd High : 25.63 Low : 25.48 Close : 25.48 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT Name : Ashford Hospitality Trust Inc High : 2.670 Low : 2.580 Close : 2.660 Volume : 97.43M DivYield : 6.95 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 259.16M
+Code : AHT-D Name : Ashford Hosp D Pfd High : 22.85 Low : 22.38 Close : 22.71 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-F Name : Ashford Hospitality Trust Inc High : 19.65 Low : 19.28 Close : 19.53 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-G Name : Ashford Hospitality Trust Inc High : 19.49 Low : 18.75 Close : 19.43 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-H Name : Ashford Hospitality Trust Inc Cum Pfd High : 20.02 Low : 19.65 Close : 20.02 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-I Name : Ashford Hospitality Trust Inc 7.50% High : 20.19 Low : 19.75 Close : 20.10 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AI Name : Arlington Asset Investment Corp High : 6.720 Low : 6.650 Close : 6.700 Volume : 25.95M DivYield : 17.38 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 173.87M
+Code : AI-B Name : Arlington Asset 7.00% Series B Pfd High : 21.89 Low : 21.40 Close : 21.89 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AI-C Name : Arlington Asset Investment Corp Cum Pfd High : 23.25 Low : 23.20 Close : 23.20 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIC Name : Arlington Asset Investment Cor High : 24.75 Low : 24.69 Close : 24.72 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIF Name : Apollo Tactical Income Fund Inc High : 14.78 Low : 14.69 Close : 14.74 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIG Name : American International Group High : 56.46 Low : 55.70 Close : 56.32 Volume : 903.33M DivYield : 1.97 Earning_Per_Share : 0.0 PEG ratio : 0.13 Market_Capitalization : 50.88B
+Code : AIG-A Name : American International Group Inc Dep Shs High : 27.14 Low : 26.84 Close : 27.07 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIG.W Name : American International Group High : 15.22 Low : 14.77 Close : 15.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIN Name : Albany International Corp High : 79.32 Low : 77.77 Close : 79.00 Volume : 32.07M DivYield : 1.17 Earning_Per_Share : 1.27 PEG ratio : 2.03 Market_Capitalization : 2.53B
+Code : AIR Name : AAR Corp High : 42.41 Low : 41.40 Close : 42.38 Volume : 33.93M DivYield : 0.78 Earning_Per_Share : 1.66 PEG ratio : 0.9 Market_Capitalization : 1.44B
+Code : AIT Name : Applied Industrial Technologies High : 61.54 Low : 59.86 Close : 61.32 Volume : 39.07M DivYield : 1.79 Earning_Per_Share : 3.4 PEG ratio : 1.7 Market_Capitalization : 2.40B
+Code : AIV Name : Apartment Investment and Management High : 50.71 Low : 49.87 Close : 50.03 Volume : 157.09M DivYield : 3.25 Earning_Per_Share : 1.27 PEG ratio : 14.89 Market_Capitalization : 7.86B
+Code : AIW Name : Arlington Asset Investment Cor High : 24.45 Low : 24.35 Close : 24.45 Volume : 25.95M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 634.48M
+Code : AIY Name : Apollo Investment Corp High : 25.14 Low : 25.10 Close : 25.10 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.083 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIZ Name : Assurant Inc High : 114.9 Low : 112.8 Close : 114.6 Volume : 53.87M DivYield : 2.11 Earning_Per_Share : 7.61 PEG ratio : 1.47 Market_Capitalization : 6.17B
+Code : AIZP Name : Assurant Inc 6.50% Series D Mandatory High : 118.1 Low : 117.7 Close : 118.0 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AJG Name : Arthur J. Gallagher & CO High : 92.16 Low : 91.31 Close : 91.81 Volume : 180.20M DivYield : 2.51 Earning_Per_Share : 2.48 PEG ratio : 2.09 Market_Capitalization : 16.54B
+Code : AJRD Name : Aerojet Rocketdyne Holdings High : 43.87 Low : 43.06 Close : 43.48 Volume : 75.08M DivYield : 0.0 Earning_Per_Share : 0.52 PEG ratio : 1.8 Market_Capitalization : 3.26B
+Code : AJX Name : Great Ajax Corp High : 14.06 Low : 13.89 Close : 14.01 Volume : 17.62M DivYield : 8.55 Earning_Per_Share : 1.57 PEG ratio : 0.0 Market_Capitalization : 246.91M
+Code : AJXA Name : Great Ajax Corp 7.25% Convertible Senior High : 25.80 Low : 25.73 Close : 25.77 Volume : 4.32M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 111.32M
+Code : AKO.A Name : Embotell Andina Sa Cl A High : 18.01 Low : 18.01 Close : 18.01 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AKO.B Name : Embotell Andna Sa Cl B High : 21.26 Low : 21.06 Close : 21.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AKR Name : Acadia Realty Trust High : 28.27 Low : 27.96 Close : 28.21 Volume : 83.71M DivYield : 3.64 Earning_Per_Share : 0.65 PEG ratio : 20.68 Market_Capitalization : 2.36B
+Code : AKS Name : AK Steel Holding Corp High : 3.030 Low : 2.510 Close : 3.000 Volume : 314.05M DivYield : 0.0 Earning_Per_Share : 0.38 PEG ratio : 0.28 Market_Capitalization : 942.15M
+Code : AL Name : Air Lease Corp Cl A High : 42.83 Low : 40.45 Close : 42.74 Volume : 103.23M DivYield : 0.69 Earning_Per_Share : 3.43 PEG ratio : 0.9 Market_Capitalization : 4.41B
+Code : AL-A Name : Air Lease Corp [Al/Pa] High : 26.83 Low : 26.53 Close : 26.64 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALB Name : Albemarle Corp High : 73.80 Low : 72.06 Close : 73.60 Volume : 110.44M DivYield : 0.92 Earning_Per_Share : 7.82 PEG ratio : 2.12 Market_Capitalization : 8.13B
+Code : ALC Name : Alcon Inc High : 59.40 Low : 58.55 Close : 59.05 Volume : 23.18M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 1.37B
+Code : ALE Name : Allete Inc High : 87.47 Low : 86.44 Close : 87.10 Volume : 50.95M DivYield : 2.71 Earning_Per_Share : 3.4 PEG ratio : 4.7 Market_Capitalization : 4.44B
+Code : ALEX Name : Alexander and Baldwin Inc High : 23.85 Low : 23.14 Close : 23.84 Volume : 49.12M DivYield : 0.62 Earning_Per_Share : 0.2 PEG ratio : 4.42 Market_Capitalization : 1.17B
+Code : ALG Name : Alamo Group High : 99.60 Low : 97.59 Close : 99.53 Volume : 11.65M DivYield : 0.37 Earning_Per_Share : 3.89 PEG ratio : 3.9 Market_Capitalization : 1.16B
+Code : ALK Name : Alaska Air Group High : 64.56 Low : 63.49 Close : 64.01 Volume : 123.46M DivYield : 1.8 Earning_Per_Share : 6.15 PEG ratio : 2.29 Market_Capitalization : 7.90B
+Code : ALL Name : Allstate Corp High : 102.5 Low : 101.2 Close : 101.8 Volume : 361.36M DivYield : 1.58 Earning_Per_Share : 6.77 PEG ratio : 0.85 Market_Capitalization : 36.80B
+Code : ALL-A Name : Allstate Corp Pfd High : 25.79 Low : 25.56 Close : 25.61 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-B Name : Ally Financial Inc Fixed Rate F High : 26.72 Low : 26.54 Close : 26.62 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-D Name : Allstate Corp High : 26.20 Low : 26.01 Close : 26.15 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-E Name : The Allstate Corp High : 25.61 Low : 25.56 Close : 25.57 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-F Name : The Allstate Corp High : 25.85 Low : 25.70 Close : 25.81 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-G Name : Allstate Corp Dep Shs Repstg 1/1000Th High : 27.04 Low : 26.86 Close : 26.86 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-Y Name : GMAC Capital Trust I Fixed Rate High : 26.57 Low : 26.42 Close : 26.43 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALLE Name : Allegion Plc High : 104.5 Low : 103.1 Close : 104.3 Volume : 95.03M DivYield : 0.79 Earning_Per_Share : 2.59 PEG ratio : 1.53 Market_Capitalization : 9.91B
+Code : ALLY Name : Ally Financial High : 33.77 Low : 32.96 Close : 33.77 Volume : 479.83M DivYield : 1.84 Earning_Per_Share : 1.96 PEG ratio : 2.25 Market_Capitalization : 16.20B
+Code : ALP-Q Name : Alabama Power Co. Pfd High : 26.79 Low : 26.38 Close : 26.38 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALSN Name : Allison Transmission Holdings High : 46.88 Low : 45.52 Close : 46.85 Volume : 148.81M DivYield : 1.46 Earning_Per_Share : 1.76 PEG ratio : 0.9 Market_Capitalization : 6.97B
+Code : ALV Name : Autoliv Inc High : 72.97 Low : 72.17 Close : 72.59 Volume : 86.91M DivYield : 1.94 Earning_Per_Share : 6.33 PEG ratio : 2.13 Market_Capitalization : 6.31B
+Code : ALX Name : Alexander's Inc High : 375.0 Low : 364.9 Close : 371.7 Volume : 5.10M DivYield : 4.1 Earning_Per_Share : 16.62 PEG ratio : 0.0 Market_Capitalization : 1.90B
+Code : AM Name : Antero Midstream Corp High : 9.220 Low : 8.740 Close : 9.040 Volume : 186.58M DivYield : 4.72 Earning_Per_Share : 1.47 PEG ratio : 1.13 Market_Capitalization : 1.69B
+Code : AMBR Name : Amber Road Inc High : 13.05 Low : 13.04 Close : 13.05 Volume : 27.16M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 354.42M
+Code : AMC Name : Amc Entertainment Holdings Inc High : 11.74 Low : 11.13 Close : 11.74 Volume : 130.85M DivYield : 5.44 Earning_Per_Share : 0.0 PEG ratio : 1.25 Market_Capitalization : 1.54B
+Code : AMCR Name : Amcor Plc High : 10.81 Low : 10.52 Close : 10.61 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AME Name : Amtek Inc High : 92.14 Low : 88.27 Close : 90.75 Volume : 230.81M DivYield : 0.52 Earning_Per_Share : 2.28 PEG ratio : 3.16 Market_Capitalization : 20.95B
+Code : AMG Name : Affiliated Managers Group High : 86.78 Low : 83.63 Close : 86.78 Volume : 55.96M DivYield : 0.42 Earning_Per_Share : 9.03 PEG ratio : 0.93 Market_Capitalization : 4.86B
+Code : AMH Name : American Homes 4 Rent High : 25.33 Low : 24.76 Close : 24.83 Volume : 260.24M DivYield : 0.94 Earning_Per_Share : 0.0 PEG ratio : 21.15 Market_Capitalization : 6.46B
+Code : AMH-D Name : American Homes 4 Rent High : 27.65 Low : 27.54 Close : 27.65 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-E Name : American Homes 4 Rent 6.35% Ser High : 27.59 Low : 27.48 Close : 27.59 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-F Name : American Homes 4 Rent Cum Red Perp Pfd High : 26.60 Low : 26.34 Close : 26.40 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-G Name : American Homes 4 Rent Series G Pfd High : 27.27 Low : 26.64 Close : 27.01 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-H Name : American Homes 4 Rent Perp Cum Red Pfd High : 27.40 Low : 27.08 Close : 27.14 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMID Name : American Midstreampartners LP High : 5.250 Low : 5.230 Close : 5.240 Volume : 52.71M DivYield : 12.64 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 276.22M
+Code : AMK Name : Assetmark Financial Holdings Inc High : 28.61 Low : 27.82 Close : 28.50 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMN Name : Amn Healthcare Services Inc High : 55.05 Low : 54.33 Close : 54.42 Volume : 48.04M DivYield : 0.0 Earning_Per_Share : 2.37 PEG ratio : 1.39 Market_Capitalization : 2.61B
+Code : AMOV Name : America Movil A ADR High : 14.41 Low : 14.18 Close : 14.41 Volume : 3.29B DivYield : 1.86 Earning_Per_Share : 0.8 PEG ratio : 0.0 Market_Capitalization : 47.37B
+Code : AMP Name : Ameriprise Financial Services High : 148.7 Low : 146.9 Close : 148.5 Volume : 149.92M DivYield : 2.15 Earning_Per_Share : 8.73 PEG ratio : 0.92 Market_Capitalization : 22.27B
+Code : AMRC Name : Ameresco Inc High : 14.35 Low : 14.08 Close : 14.31 Volume : 45.53M DivYield : 0.0 Earning_Per_Share : 0.3 PEG ratio : 3.18 Market_Capitalization : 651.50M
+Code : AMRX Name : Amneal Pharmaceuticals Inc High : 3.770 Low : 3.600 Close : 3.730 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMT Name : American Tower Corp High : 209.0 Low : 205.6 Close : 208.7 Volume : 429.19M DivYield : 1.9 Earning_Per_Share : 2.5 PEG ratio : 1.99 Market_Capitalization : 89.55B
+Code : AMX Name : America Movil S.A.B. DE C.V. High : 14.58 Low : 14.35 Close : 14.42 Volume : 3.29B DivYield : 1.93 Earning_Per_Share : 0.8 PEG ratio : 0.25 Market_Capitalization : 47.41B
+Code : AN Name : Autonation Inc High : 48.72 Low : 48.22 Close : 48.65 Volume : 100.42M DivYield : 0.0 Earning_Per_Share : 4.02 PEG ratio : 2.62 Market_Capitalization : 4.89B
+Code : ANDX Name : Andeavor Logistics LP High : 34.38 Low : 31.75 Close : 32.17 Volume : 108.16M DivYield : 8.53 Earning_Per_Share : 1.92 PEG ratio : 0.0 Market_Capitalization : 3.48B
+Code : ANET Name : Arista Networks Inc High : 275.9 Low : 269.6 Close : 274.3 Volume : 72.53M DivYield : 0.0 Earning_Per_Share : 3.88 PEG ratio : 1.94 Market_Capitalization : 19.89B
+Code : ANF Name : Abercrombie & Fitch Company High : 18.83 Low : 18.45 Close : 18.78 Volume : 68.09M DivYield : 5.48 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 1.28B
+Code : ANFI Name : Amira Nature Foods Ltd High : 0.6600 Low : 0.6200 Close : 0.6500 Volume : 36.83M DivYield : 0.0 Earning_Per_Share : 0.84 PEG ratio : 0.23 Market_Capitalization : 23.94M
+Code : ANH Name : Anworth Mortgage Asset Corp High : 3.930 Low : 3.880 Close : 3.920 Volume : 97.55M DivYield : 10.49 Earning_Per_Share : 0.63 PEG ratio : 0.0 Market_Capitalization : 382.40M
+Code : ANH-A Name : Anworth Mtg Pfd A High : 26.06 Low : 25.80 Close : 26.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ANH-B Name : Anworth 6.25 Pr S B High : 22.69 Low : 22.69 Close : 22.69 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ANH-C Name : Anworth Mortgage Asset Corp High : 25.42 Low : 25.42 Close : 25.42 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ANTM Name : Anthem Inc High : 300.0 Low : 295.0 Close : 299.6 Volume : 262.56M DivYield : 1.43 Earning_Per_Share : 10.57 PEG ratio : 1.37 Market_Capitalization : 78.67B
+Code : AOD Name : Alpine Total Dynamic Dividend High : 8.410 Low : 8.360 Close : 8.390 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AON Name : AON Plc High : 195.1 Low : 192.4 Close : 193.2 Volume : 254.34M DivYield : 0.99 Earning_Per_Share : 6.85 PEG ratio : 1.7 Market_Capitalization : 49.13B
+Code : AOS Name : Smith [A.O.] Corp High : 45.35 Low : 41.01 Close : 45.29 Volume : 172.48M DivYield : 0.94 Earning_Per_Share : 1.97 PEG ratio : 3.5 Market_Capitalization : 7.81B
+Code : AP Name : Ampco-Pittsburgh Corp High : 3.630 Low : 3.460 Close : 3.520 Volume : 12.36M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 43.51M
+Code : APA Name : Apache Corp High : 24.37 Low : 23.08 Close : 24.10 Volume : 380.95M DivYield : 2.53 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 9.18B
+Code : APAM Name : Artisan Partners Asset Mgmt High : 29.77 Low : 29.22 Close : 29.61 Volume : 49.79M DivYield : 6.78 Earning_Per_Share : 1.7 PEG ratio : 1.37 Market_Capitalization : 1.47B
+Code : APC Name : Anadarko Petroleum Corp High : 74.07 Low : 73.04 Close : 74.04 Volume : 560.34M DivYield : 0.42 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 41.49B
+Code : APD Name : Air Products and Chemicals High : 232.5 Low : 229.2 Close : 231.8 Volume : 217.93M DivYield : 2.35 Earning_Per_Share : 13.31 PEG ratio : 5.3 Market_Capitalization : 50.52B
+Code : APH Name : Amphenol Corp High : 95.47 Low : 94.55 Close : 94.76 Volume : 305.43M DivYield : 0.89 Earning_Per_Share : 2.97 PEG ratio : 2.55 Market_Capitalization : 28.94B
+Code : APHA Name : Aphria Inc High : 5.680 Low : 5.240 Close : 5.500 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APLE Name : Apple Hospitality REIT Inc High : 15.85 Low : 15.66 Close : 15.81 Volume : 223.28M DivYield : 6.35 Earning_Per_Share : 0.82 PEG ratio : 0.0 Market_Capitalization : 3.53B
+Code : APO Name : Apollo Global Management Llc C High : 35.19 Low : 34.24 Close : 35.05 Volume : 193.99M DivYield : 6.45 Earning_Per_Share : 2.55 PEG ratio : 1.38 Market_Capitalization : 6.80B
+Code : APO-A Name : Apollo Global Management Llc Pfd Ser A High : 26.50 Low : 26.16 Close : 26.26 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APO-B Name : Apollo Global Management Llc Pfd Ser B High : 26.87 Low : 26.71 Close : 26.80 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APRN Name : Blue Apron Holdings Inc High : 9.300 Low : 8.700 Close : 8.740 Volume : 30.04M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 262.57M
+Code : APTS Name : Preferred Apartment Communities High : 14.81 Low : 14.14 Close : 14.68 Volume : 33.32M DivYield : 4.88 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 489.15M
+Code : APTV Name : Aptiv Plc High : 81.72 Low : 79.99 Close : 81.57 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APU Name : Amerigas Partners LP High : 34.44 Low : 33.89 Close : 33.91 Volume : 92.89M DivYield : 8.44 Earning_Per_Share : 0.53 PEG ratio : 2.99 Market_Capitalization : 3.15B
+Code : APY Name : Apergy Corp High : 32.93 Low : 30.71 Close : 32.64 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQ Name : Aquantia Corp High : 13.15 Low : 13.08 Close : 13.13 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQN Name : Algonquin Pwr & Util High : 12.63 Low : 12.51 Close : 12.54 Volume : 385.98M DivYield : 4.36 Earning_Per_Share : 0.18 PEG ratio : 0.0 Market_Capitalization : 4.84B
+Code : AQNA Name : Algonquin Power & Utilities Corp High : 27.46 Low : 27.17 Close : 27.46 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQNB Name : Algonquin Power & Utilities Corp. 6.20% High : 26.77 Low : 26.65 Close : 26.70 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQUA Name : Evoqua Water Technologies Corp High : 14.39 Low : 13.84 Close : 14.21 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AR Name : Antero Resources Corp High : 4.640 Low : 3.950 Close : 4.540 Volume : 315.73M DivYield : 0.0 Earning_Per_Share : 0.04 PEG ratio : 2 Market_Capitalization : 1.43B
+Code : ARA Name : American Renal Associates High : 8.140 Low : 7.690 Close : 7.970 Volume : 31.29M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 1.12 Market_Capitalization : 249.34M
+Code : ARC Name : American Reprographics Company High : 1.855 Low : 1.820 Close : 1.840 Volume : 46.44M DivYield : 0.0 Earning_Per_Share : 0.24 PEG ratio : 2.32 Market_Capitalization : 85.45M
+Code : ARCH Name : Arch Coal Inc High : 91.82 Low : 88.58 Close : 91.60 Volume : 24.34M DivYield : 1.94 Earning_Per_Share : 71.83 PEG ratio : 0.0 Market_Capitalization : 2.23B
+Code : ARCO Name : Arcos Dorados Holdings Inc High : 8.330 Low : 8.071 Close : 8.190 Volume : 210.89M DivYield : 0.0 Earning_Per_Share : 0.26 PEG ratio : 2.19 Market_Capitalization : 1.73B
+Code : ARD Name : Ardagh Group S.A. High : 16.83 Low : 16.28 Close : 16.53 Volume : 236.18M DivYield : 2.71 Earning_Per_Share : 0.0 PEG ratio : 0.32 Market_Capitalization : 3.90B
+Code : ARDC Name : Ares Dynamic Credit Allocation High : 15.25 Low : 15.14 Close : 15.24 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARE Name : Alexandria Real Estate Equities High : 150.5 Low : 146.3 Close : 148.0 Volume : 93.65M DivYield : 2.83 Earning_Per_Share : 0.44 PEG ratio : 828.1 Market_Capitalization : 13.86B
+Code : ARE-A Name : Alexandria Real Estate Equities High : 27.15 Low : 26.78 Close : 26.78 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARE-D Name : Alexandria Real Estate Equitie High : 38.86 Low : 38.30 Close : 38.79 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARES Name : Ares Management LP High : 29.51 Low : 28.71 Close : 29.49 Volume : 213.98M DivYield : 4.96 Earning_Per_Share : 0.75 PEG ratio : 0.64 Market_Capitalization : 6.31B
+Code : ARGD Name : Argo Grp Itl Snr NTS High : 25.77 Low : 25.66 Close : 25.77 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARGO Name : Argo Group Intl Hlds High : 69.27 Low : 67.67 Close : 68.69 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARI Name : Apollo Commercial Real Estate High : 18.81 Low : 18.61 Close : 18.77 Volume : 105.49M DivYield : 10.17 Earning_Per_Share : 2.02 PEG ratio : 32.77 Market_Capitalization : 1.98B
+Code : ARL Name : American Realty Investors High : 15.84 Low : 15.38 Close : 15.38 Volume : 15.37M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 236.45M
+Code : ARLO Name : Arlo Technologies Inc High : 4.455 Low : 4.280 Close : 4.410 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARMK Name : Aramark Holdings Corp High : 36.99 Low : 36.21 Close : 36.98 Volume : 245.01M DivYield : 0.96 Earning_Per_Share : 1.38 PEG ratio : 1.59 Market_Capitalization : 9.06B
+Code : ARNC Name : Arconic Inc High : 25.17 Low : 24.79 Close : 25.14 Volume : 440.88M DivYield : 0.98 Earning_Per_Share : 0.0 PEG ratio : 0.91 Market_Capitalization : 11.08B
+Code : AROC Name : Archrock Inc High : 11.04 Low : 9.98 Close : 11.01 Volume : 70.94M DivYield : 4.1 Earning_Per_Share : 0.0 PEG ratio : 4.53 Market_Capitalization : 781.04M
+Code : ARR Name : Armour Residential R High : 18.05 Low : 17.38 Close : 18.04 Volume : 41.31M DivYield : 8.96 Earning_Per_Share : 7.6 PEG ratio : 0.0 Market_Capitalization : 745.16M
+Code : ARR-A Name : Armour Residential REIT Inc High : 25.00 Low : 24.99 Close : 24.99 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARR-B Name : Armour Residential REIT Inc High : 25.20 Low : 25.15 Close : 25.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARW Name : Arrow Electronics High : 72.66 Low : 70.81 Close : 72.63 Volume : 88.22M DivYield : 0.0 Earning_Per_Share : 5.47 PEG ratio : 1.2 Market_Capitalization : 6.41B
+Code : ASA Name : ASA Gold and Precious Metals High : 12.49 Low : 12.38 Close : 12.44 Volume : 19.29M DivYield : 0.35 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 239.95M
+Code : ASB Name : Associated Banc-Corp High : 21.72 Low : 21.21 Close : 21.65 Volume : 151.47M DivYield : 2.17 Earning_Per_Share : 1.39 PEG ratio : 2.56 Market_Capitalization : 3.28B
+Code : ASB-C Name : Associated Banc-Corp Depositary High : 26.24 Low : 26.24 Close : 26.24 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASB-D Name : Associated Banc-Corp High : 25.59 Low : 25.53 Close : 25.54 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASB-E Name : Associated Banc-Corp Depositary Shs High : 26.79 Low : 26.35 Close : 26.59 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASC Name : Ardmore Shipping Corp High : 7.460 Low : 7.140 Close : 7.290 Volume : 33.57M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 244.76M
+Code : ASG Name : Liberty All-Star Growth Fund High : 5.950 Low : 5.890 Close : 5.930 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.22 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASGN Name : On Assignment High : 62.89 Low : 62.09 Close : 62.86 Volume : 52.87M DivYield : 0.0 Earning_Per_Share : 2.04 PEG ratio : 2.3 Market_Capitalization : 3.32B
+Code : ASH Name : Ashland Global Holdings Inc High : 80.64 Low : 78.86 Close : 80.43 Volume : 62.47M DivYield : 1.32 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 5.02B
+Code : ASIX Name : Advansix Inc High : 26.06 Low : 24.85 Close : 25.89 Volume : 30.54M DivYield : 0.0 Earning_Per_Share : 1.46 PEG ratio : 0.0 Market_Capitalization : 790.67M
+Code : ASPN Name : Aspen Aerogels Inc High : 6.560 Low : 6.340 Close : 6.430 Volume : 20.58M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 132.34M
+Code : ASR Name : Grupo Aeroportuario Del Sureste High : 159.3 Low : 155.8 Close : 158.0 Volume : 30.02M DivYield : 1.89 Earning_Per_Share : 8.09 PEG ratio : 4.95 Market_Capitalization : 4.74B
+Code : ASX Name : Ase Industrial Holding Co. Ltd High : 4.380 Low : 4.330 Close : 4.370 Volume : 1.62B DivYield : 3.7 Earning_Per_Share : 0.45 PEG ratio : 1.35 Market_Capitalization : 7.09B
+Code : AT Name : Atlantic Power Corp High : 2.400 Low : 2.350 Close : 2.370 Volume : 115.28M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.69 Market_Capitalization : 273.21M
+Code : ATEN Name : A10 Networks Inc High : 7.390 Low : 7.180 Close : 7.250 Volume : 59.03M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 427.96M
+Code : ATGE Name : Adtalem Global Education Inc High : 48.99 Low : 47.68 Close : 48.97 Volume : 61.98M DivYield : 0.0 Earning_Per_Share : 1.91 PEG ratio : 1.96 Market_Capitalization : 3.04B
+Code : ATH Name : Athene Holding Ltd High : 41.89 Low : 41.41 Close : 41.83 Volume : 200.04M DivYield : 0.0 Earning_Per_Share : 6.18 PEG ratio : 0.64 Market_Capitalization : 8.37B
+Code : ATH-A Name : Athene Holding Ltd. Pfd A High : 27.14 Low : 26.95 Close : 27.00 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ATHM Name : Autohome Inc High : 85.00 Low : 83.68 Close : 84.06 Volume : 116.07M DivYield : 0.0 Earning_Per_Share : 1.94 PEG ratio : 41.63 Market_Capitalization : 9.76B
+Code : ATI Name : Allegheny Technologies Inc High : 22.48 Low : 22.10 Close : 22.10 Volume : 108.70M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 5.01 Market_Capitalization : 2.40B
+Code : ATKR Name : Atkore International Group High : 27.37 Low : 26.60 Close : 27.35 Volume : 64.22M DivYield : 0.0 Earning_Per_Share : 1.21 PEG ratio : 1.54 Market_Capitalization : 1.76B
+Code : ATO Name : Atmos Energy Corp High : 110.0 Low : 108.2 Close : 108.9 Volume : 106.08M DivYield : 2.08 Earning_Per_Share : 3.73 PEG ratio : 3.15 Market_Capitalization : 11.55B
+Code : ATR Name : Aptargroup High : 124.6 Low : 123.0 Close : 123.8 Volume : 62.78M DivYield : 1.44 Earning_Per_Share : 3.4 PEG ratio : 2.92 Market_Capitalization : 7.77B
+Code : ATTO Name : Atento S.A. High : 2.270 Low : 2.190 Close : 2.240 Volume : 73.91M DivYield : 0.0 Earning_Per_Share : 0.24 PEG ratio : 1.27 Market_Capitalization : 165.56M
+Code : ATU Name : Actuant Corp High : 23.13 Low : 22.38 Close : 23.10 Volume : 59.57M DivYield : 0.15 Earning_Per_Share : 0.0 PEG ratio : 3.32 Market_Capitalization : 1.38B
+Code : ATUS Name : Altice USA Inc Cl A High : 26.34 Low : 25.87 Close : 26.12 Volume : 737.02M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 19.25B
+Code : ATV Name : Acorn International High : 18.08 Low : 17.75 Close : 18.00 Volume : 3.93M DivYield : 0.0 Earning_Per_Share : 0.91 PEG ratio : 0.0 Market_Capitalization : 70.73M
+Code : AU Name : Anglogold Ashanti Ltd High : 19.08 Low : 18.72 Close : 18.74 Volume : 408.90M DivYield : 1.05 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 7.66B
+Code : AUO Name : Au Optronics Corp High : 2.650 Low : 2.590 Close : 2.630 Volume : 961.26M DivYield : 4.6 Earning_Per_Share : 1.19 PEG ratio : 0.05 Market_Capitalization : 2.53B
+Code : AUY Name : Yamana Gold High : 3.100 Low : 2.920 Close : 3.070 Volume : 949.02M DivYield : 0.81 Earning_Per_Share : 0.0 PEG ratio : 5.31 Market_Capitalization : 2.91B
+Code : AVA Name : Avista Corp High : 46.03 Low : 45.51 Close : 46.02 Volume : 64.39M DivYield : 2.74 Earning_Per_Share : 2.12 PEG ratio : 4.74 Market_Capitalization : 2.96B
+Code : AVAL Name : Grupo Aval Acciones Y Valores S High : 7.780 Low : 7.540 Close : 7.540 Volume : 1.11B DivYield : 4.56 Earning_Per_Share : 0.62 PEG ratio : 0.0 Market_Capitalization : 8.40B
+Code : AVB Name : Avalonbay Communities High : 213.2 Low : 209.9 Close : 210.9 Volume : 137.74M DivYield : 3.14 Earning_Per_Share : 7.26 PEG ratio : 10.23 Market_Capitalization : 29.04B
+Code : AVD Name : American Vanguard Corp High : 14.69 Low : 13.89 Close : 14.55 Volume : 29.78M DivYield : 0.27 Earning_Per_Share : 0.49 PEG ratio : 2.17 Market_Capitalization : 433.34M
+Code : AVH Name : Avianca Holdings S.A. High : 4.090 Low : 4.000 Close : 4.070 Volume : 124.62M DivYield : 5.6 Earning_Per_Share : 0.47 PEG ratio : 0.0 Market_Capitalization : 507.22M
+Code : AVK Name : Advent Claymore Convertible Securities High : 15.05 Low : 14.96 Close : 15.00 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.28 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVLR Name : Avalara Inc High : 83.57 Low : 81.67 Close : 83.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVNS Name : Avanos Medical Inc High : 42.78 Low : 41.90 Close : 42.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVP Name : Avon Products High : 4.167 Low : 3.930 Close : 4.130 Volume : 439.95M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.16 Market_Capitalization : 1.82B
+Code : AVT-A Name : Avantor Inc [Avtr/Pa] High : 63.16 Low : 62.17 Close : 62.39 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVTR Name : Avantor Inc High : 18.17 Low : 17.63 Close : 17.71 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVX Name : Avx Corp High : 15.66 Low : 14.95 Close : 15.66 Volume : 168.30M DivYield : 2.49 Earning_Per_Share : 0.76 PEG ratio : 2.86 Market_Capitalization : 2.64B
+Code : AVY Name : Avery Dennison Corp High : 116.4 Low : 114.6 Close : 116.1 Volume : 88.40M DivYield : 1.7 Earning_Per_Share : 4.26 PEG ratio : 1.72 Market_Capitalization : 10.26B
+Code : AVYA Name : Avaya Holdings Corp High : 11.77 Low : 11.22 Close : 11.76 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AWF Name : Alliancebernstein Global High Income High : 12.03 Low : 11.97 Close : 12.01 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 2.17 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AWI Name : Armstrong World Industries Inc High : 98.68 Low : 93.75 Close : 98.45 Volume : 52.85M DivYield : 0.0 Earning_Per_Share : 3.08 PEG ratio : 1.65 Market_Capitalization : 5.20B
+Code : AWK Name : American Water Works High : 116.2 Low : 114.6 Close : 115.1 Volume : 178.28M DivYield : 1.89 Earning_Per_Share : 2.65 PEG ratio : 3.98 Market_Capitalization : 20.52B
+Code : AWP Name : Alpine Global Premier Propertie High : 6.320 Low : 6.230 Close : 6.250 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AWR Name : American States Water Company High : 77.69 Low : 76.79 Close : 77.23 Volume : 36.71M DivYield : 1.85 Earning_Per_Share : 1.85 PEG ratio : 6.51 Market_Capitalization : 2.84B
+Code : AX Name : Axos Financial Inc High : 27.74 Low : 26.60 Close : 27.72 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXE Name : Anixter International Inc High : 66.00 Low : 63.61 Close : 65.92 Volume : 33.24M DivYield : 0.0 Earning_Per_Share : 4.38 PEG ratio : 1.36 Market_Capitalization : 2.19B
+Code : AXL Name : American Axle & Manufacturing High : 12.28 Low : 11.75 Close : 12.26 Volume : 111.29M DivYield : 0.0 Earning_Per_Share : 2.9 PEG ratio : 0.0 Market_Capitalization : 1.36B
+Code : AXO Name : Axos Financial Inc High : 25.86 Low : 25.72 Close : 25.86 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXP Name : American Express Company High : 126.9 Low : 126.3 Close : 126.5 Volume : 884.02M DivYield : 1.46 Earning_Per_Share : 4.88 PEG ratio : 1.49 Market_Capitalization : 111.80B
+Code : AXR Name : Amrep Corp High : 6.250 Low : 6.240 Close : 6.250 Volume : 8.06M DivYield : 0.0 Earning_Per_Share : 0.098 PEG ratio : 0.0 Market_Capitalization : 50.39M
+Code : AXS Name : Axis Capital Holdings High : 61.98 Low : 61.02 Close : 61.37 Volume : 83.09M DivYield : 2.77 Earning_Per_Share : 4.53 PEG ratio : 0.0 Market_Capitalization : 5.10B
+Code : AXS-D Name : Axis Capital Holdings Ltd High : 25.55 Low : 25.30 Close : 25.36 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXS-E Name : Axis Capital Holdings Ltd High : 25.50 Low : 25.41 Close : 25.41 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXTA Name : Axalta Coating Systems Ltd High : 30.32 Low : 29.75 Close : 30.31 Volume : 243.14M DivYield : 0.0 Earning_Per_Share : 0.01 PEG ratio : 2.27 Market_Capitalization : 7.37B
+Code : AYI Name : Acuity Brands Inc High : 136.6 Low : 134.0 Close : 136.4 Volume : 41.91M DivYield : 0.33 Earning_Per_Share : 7.43 PEG ratio : 0.88 Market_Capitalization : 5.72B
+Code : AYR Name : Aircastle Ltd High : 21.26 Low : 20.40 Close : 21.24 Volume : 78.57M DivYield : 4.54 Earning_Per_Share : 1.66 PEG ratio : 2.18 Market_Capitalization : 1.67B
+Code : AYX Name : Alteryx Inc High : 123.1 Low : 119.0 Close : 119.6 Volume : 58.96M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 7.05B
+Code : AZN Name : Astrazeneca Plc High : 44.06 Low : 43.67 Close : 43.86 Volume : 2.53B DivYield : 2.68 Earning_Per_Share : 1.52 PEG ratio : 2.37 Market_Capitalization : 111.06B
+Code : AZO Name : Autozone High : 1,148 Low : 1,140 Close : 1,144 Volume : 27.83M DivYield : 0.0 Earning_Per_Share : 44.07 PEG ratio : 1.25 Market_Capitalization : 31.84B
+Code : AZRE Name : Azure Power Global Ltd High : 10.93 Low : 10.52 Close : 10.93 Volume : 25.94M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 283.48M
+Code : AZUL Name : Azul S.A. ADR High : 42.31 Low : 41.30 Close : 41.78 Volume : 110.01M DivYield : 0.0 Earning_Per_Share : 0.28 PEG ratio : 0.0 Market_Capitalization : 4.60B
+Code : AZZ Name : Azz Inc High : 47.26 Low : 46.01 Close : 46.98 Volume : 26.01M DivYield : 1.43 Earning_Per_Share : 1.97 PEG ratio : 2.46 Market_Capitalization : 1.22B
+Code : A Name : Agilent Technologies High : 70.18 Low : 68.10 Close : 70.15 Volume : 321.76M DivYield : 0.78 Earning_Per_Share : 1.94 PEG ratio : 2.73 Market_Capitalization : 22.57B
+Code : AA Name : Alcoa Corp High : 23.04 Low : 22.58 Close : 23.04 Volume : 184.30M DivYield : 1.25 Earning_Per_Share : 0.88 PEG ratio : 0.0 Market_Capitalization : 4.25B
+Code : AAC Name : Aac Holdings Inc High : 1.0000 Low : 0.9389 Close : 0.9900 Volume : 24.06M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.82 Market_Capitalization : 23.82M
+Code : AAN Name : Aaron's Inc High : 63.57 Low : 60.16 Close : 63.17 Volume : 70.77M DivYield : 0.26 Earning_Per_Share : 1.95 PEG ratio : 1.38 Market_Capitalization : 4.47B
+Code : AAP Name : Advance Auto Parts Inc High : 154.7 Low : 150.9 Close : 151.8 Volume : 73.84M DivYield : 0.28 Earning_Per_Share : 5.01 PEG ratio : 1.52 Market_Capitalization : 11.21B
+Code : AAT Name : American Assets Trust High : 47.39 Low : 46.88 Close : 46.94 Volume : 47.18M DivYield : 2.66 Earning_Per_Share : 0.66 PEG ratio : 20.97 Market_Capitalization : 2.21B
+Code : AB Name : Alliancebernstein Holding LP High : 29.91 Low : 29.20 Close : 29.90 Volume : 93.54M DivYield : 7.86 Earning_Per_Share : 2.18 PEG ratio : 1.07 Market_Capitalization : 2.80B
+Code : ABB Name : Abb Ltd High : 18.85 Low : 18.68 Close : 18.78 Volume : 2.13B DivYield : 3 Earning_Per_Share : 1.04 PEG ratio : 2.74 Market_Capitalization : 40.08B
+Code : ABBV Name : Abbvie Inc High : 67.53 Low : 66.26 Close : 67.18 Volume : 1.59B DivYield : 2.86 Earning_Per_Share : 4.07 PEG ratio : 1 Market_Capitalization : 107.09B
+Code : ABC Name : Amerisourcebergen Corp High : 89.01 Low : 85.48 Close : 88.72 Volume : 219.17M DivYield : 1.85 Earning_Per_Share : 3.84 PEG ratio : 1.63 Market_Capitalization : 19.44B
+Code : ABEV Name : Ambev S.A. High : 5.450 Low : 5.310 Close : 5.320 Volume : 15.71B DivYield : 2.52 Earning_Per_Share : 0.24 PEG ratio : 6.79 Market_Capitalization : 83.56B
+Code : ABG Name : Asbury Automotive Group Inc High : 94.00 Low : 91.42 Close : 92.97 Volume : 20.85M DivYield : 0.0 Earning_Per_Share : 7.69 PEG ratio : 0.82 Market_Capitalization : 1.94B
+Code : ABM Name : ABM Industries Incorporated High : 42.46 Low : 41.09 Close : 42.25 Volume : 65.03M DivYield : 1.61 Earning_Per_Share : 0.26 PEG ratio : 4.42 Market_Capitalization : 2.75B
+Code : ABR Name : Arbor Realty Trust High : 12.35 Low : 12.16 Close : 12.31 Volume : 61.35M DivYield : 8.72 Earning_Per_Share : 1.09 PEG ratio : 1.17 Market_Capitalization : 755.21M
+Code : ABR-A Name : Arbor Realty Trust Inc High : 26.40 Low : 26.15 Close : 26.40 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ABR-B Name : Arbor Realty Trust Inc High : 25.90 Low : 25.81 Close : 25.90 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ABR-C Name : Arbor Realty Trust High : 26.69 Low : 26.45 Close : 26.47 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ABT Name : Abbott Laboratories High : 88.73 Low : 87.85 Close : 88.31 Volume : 1.74B DivYield : 1.91 Earning_Per_Share : 0.71 PEG ratio : 1.87 Market_Capitalization : 153.43B
+Code : AC Name : Associated Capital Group Inc High : 37.58 Low : 37.11 Close : 37.28 Volume : 23.86M DivYield : 0.54 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 889.65M
+Code : ACA Name : Arcosa Inc High : 37.30 Low : 35.50 Close : 37.26 Volume : 35.34M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.22 Market_Capitalization : 1.32B
+Code : ACB Name : Aurora Cannabis Inc High : 6.430 Low : 6.000 Close : 6.250 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ACC Name : American Campus Communities Inc High : 47.31 Low : 46.34 Close : 46.65 Volume : 136.41M DivYield : 4.22 Earning_Per_Share : 0.48 PEG ratio : 3.01 Market_Capitalization : 6.36B
+Code : ACCO Name : Acco Brands Corp High : 8.265 Low : 8.090 Close : 8.140 Volume : 108.81M DivYield : 0.0 Earning_Per_Share : 0.5 PEG ratio : 1.18 Market_Capitalization : 885.73M
+Code : ACH Name : Aluminum Corp of China Ltd High : 8.240 Low : 8.200 Close : 8.210 Volume : 595.95M DivYield : 0.0 Earning_Per_Share : 0.25 PEG ratio : 0.0 Market_Capitalization : 4.89B
+Code : ACM Name : Aecom Technology Corp High : 36.78 Low : 36.05 Close : 36.76 Volume : 156.68M DivYield : 0.0 Earning_Per_Share : 1.63 PEG ratio : 20.15 Market_Capitalization : 5.76B
+Code : ACN Name : Accenture Plc High : 197.2 Low : 195.4 Close : 195.7 Volume : 617.53M DivYield : 1.87 Earning_Per_Share : 5.44 PEG ratio : 2.24 Market_Capitalization : 120.82B
+Code : ACP Name : Avenue Income Credit Strategies High : 12.65 Low : 12.54 Close : 12.65 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ACRE Name : Ares Commercial Real Estate Cor High : 15.40 Low : 15.19 Close : 15.31 Volume : 28.56M DivYield : 8.16 Earning_Per_Share : 1.39 PEG ratio : 2.46 Market_Capitalization : 437.21M
+Code : ACV Name : Allianzgi Diversified Income &</td> High : 23.70 Low : 23.57 Close : 23.70 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 1.7 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ADC Name : Agree Realty Corp High : 67.96 Low : 66.76 Close : 67.37 Volume : 28.39M DivYield : 4.29 Earning_Per_Share : 2.22 PEG ratio : 0.0 Market_Capitalization : 1.91B
+Code : ADM Name : Archer Daniels Midland High : 41.10 Low : 40.53 Close : 40.95 Volume : 562.57M DivYield : 2.97 Earning_Per_Share : 2.37 PEG ratio : 0.0 Market_Capitalization : 23.04B
+Code : ADNT Name : Adient Plc High : 23.24 Low : 22.17 Close : 23.06 Volume : 93.11M DivYield : 1.32 Earning_Per_Share : 0.0 PEG ratio : 0.74 Market_Capitalization : 2.15B
+Code : ADS Name : Alliance Data Systems Corp High : 158.0 Low : 155.8 Close : 157.8 Volume : 55.47M DivYield : 0.87 Earning_Per_Share : 8.77 PEG ratio : 1 Market_Capitalization : 8.75B
+Code : ADSW Name : Advanced Disposal Services Inc High : 32.55 Low : 32.39 Close : 32.54 Volume : 88.53M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 4.81 Market_Capitalization : 2.88B
+Code : ADT Name : ADT Inc High : 6.410 Low : 6.230 Close : 6.410 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 1.7 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ADX Name : Adams Express Company High : 16.05 Low : 15.98 Close : 16.05 Volume : 98.47M DivYield : 0.0 Earning_Per_Share : 2.83 PEG ratio : 0.0 Market_Capitalization : 1.58B
+Code : AEB Name : Aegon N.V. Perp Cap Secs Floating Rate High : 23.94 Low : 23.67 Close : 23.92 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AEE Name : Ameren Corp High : 77.26 Low : 75.82 Close : 76.21 Volume : 242.56M DivYield : 2.96 Earning_Per_Share : 2.86 PEG ratio : 3.13 Market_Capitalization : 18.49B
+Code : AEG Name : Aegon N.V. High : 4.930 Low : 4.880 Close : 4.900 Volume : 2.04B DivYield : 5.15 Earning_Per_Share : 0.85 PEG ratio : 0.0 Market_Capitalization : 10.02B
+Code : AEH Name : Aegon N.V. Perp Cap Secs High : 26.21 Low : 26.11 Close : 26.12 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.25 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AEL Name : American Equity Investment Life High : 26.12 Low : 25.34 Close : 25.95 Volume : 89.04M DivYield : 0.79 Earning_Per_Share : 2.17 PEG ratio : 1.15 Market_Capitalization : 2.31B
+Code : AEM Name : Agnico-Eagle Mines Ltd High : 54.63 Low : 54.11 Close : 54.18 Volume : 231.18M DivYield : 0.97 Earning_Per_Share : 1.09 PEG ratio : 1.75 Market_Capitalization : 12.53B
+Code : AEO Name : American Eagle Outfitters High : 17.80 Low : 17.37 Close : 17.71 Volume : 177.33M DivYield : 3.57 Earning_Per_Share : 0.97 PEG ratio : 41.33 Market_Capitalization : 3.14B
+Code : AEP Name : American Electric Power Company High : 89.88 Low : 88.27 Close : 88.72 Volume : 491.89M DivYield : 3.19 Earning_Per_Share : 1.16 PEG ratio : 7.27 Market_Capitalization : 43.64B
+Code : AEP-B Name : American Elec. Pwr CO Inc 6.125% Corp. High : 55.40 Low : 54.82 Close : 55.07 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AER Name : Aercap Holdings N.V. High : 54.52 Low : 51.79 Close : 54.51 Volume : 160.60M DivYield : 0.0 Earning_Per_Share : 6.34 PEG ratio : 0.92 Market_Capitalization : 8.75B
+Code : AES Name : The Aes Corp High : 17.20 Low : 16.87 Close : 17.15 Volume : 660.48M DivYield : 4.45 Earning_Per_Share : 0.0 PEG ratio : 0.92 Market_Capitalization : 11.33B
+Code : AFB Name : Alliance National Municipal High : 13.64 Low : 13.53 Close : 13.60 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 1.21 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AFC Name : Allied Capital Corp High : 26.61 Low : 26.35 Close : 26.36 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AFG Name : American Financial Group High : 103.0 Low : 102.0 Close : 102.7 Volume : 88.04M DivYield : 1.33 Earning_Per_Share : 8.87 PEG ratio : 2.79 Market_Capitalization : 9.04B
+Code : AFGB Name : American Financial Group Inc 5.875% High : 27.18 Low : 27.04 Close : 27.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AFGE Name : American Financial Group Inc High : 25.88 Low : 25.76 Close : 25.87 Volume : 87.83M DivYield : 0.0 Earning_Per_Share : 8.87 PEG ratio : 0.0 Market_Capitalization : 2.27B
+Code : AFGH Name : American Financial Group Inc High : 26.63 Low : 26.51 Close : 26.63 Volume : 6.00M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 159.78M
+Code : AFI Name : Armstrong Flooring Inc High : 8.575 Low : 8.140 Close : 8.410 Volume : 27.08M DivYield : 0.0 Earning_Per_Share : 0.02 PEG ratio : 1.47 Market_Capitalization : 227.78M
+Code : AFL Name : Aflac Incorporated High : 53.27 Low : 52.66 Close : 52.88 Volume : 395.28M DivYield : 2.14 Earning_Per_Share : 6.61 PEG ratio : 0.92 Market_Capitalization : 20.90B
+Code : AFT Name : Apollo Senior Floating Rate Fund Inc High : 15.05 Low : 14.96 Close : 15.02 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AG Name : First Majestic Silver High : 10.16 Low : 9.95 Close : 10.06 Volume : 165.42M DivYield : 0.0 Earning_Per_Share : 0.08 PEG ratio : 14.1 Market_Capitalization : 1.66B
+Code : AGCO Name : Agco Corp High : 80.64 Low : 76.51 Close : 80.21 Volume : 79.53M DivYield : 0.79 Earning_Per_Share : 2.29 PEG ratio : 0.99 Market_Capitalization : 6.38B
+Code : AGD Name : Alpine Global Dynamic Dividend Fund High : 9.638 Low : 9.580 Close : 9.630 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGI Name : Alamos Gold Inc High : 6.840 Low : 6.680 Close : 6.810 Volume : 301.11M DivYield : 0.32 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 2.05B
+Code : AGM Name : Federal Agricultural Mortgage Corp High : 78.11 Low : 75.56 Close : 78.00 Volume : 10.60M DivYield : 1.92 Earning_Per_Share : 7.26 PEG ratio : 1.6 Market_Capitalization : 827.11M
+Code : AGM-A Name : Federal Agricultural Mortgage High : 26.36 Low : 25.76 Close : 26.36 Volume : 10.60M DivYield : 1.92 Earning_Per_Share : 7.26 PEG ratio : 0.0 Market_Capitalization : 279.52M
+Code : AGM-C Name : Federal Agricultural Mortgage High : 26.26 Low : 26.25 Close : 26.25 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGM-D Name : Federal Agricultural Mortgage Corp Pfd High : 26.40 Low : 26.35 Close : 26.40 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGM.A Name : Federal Agricultural Mortgage Corp High : 68.16 Low : 68.16 Close : 68.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGN Name : Allergan Plc High : 161.7 Low : 160.3 Close : 160.9 Volume : 334.30M DivYield : 1.59 Earning_Per_Share : 32.82 PEG ratio : 0.97 Market_Capitalization : 53.78B
+Code : AGO Name : Assured Guaranty Ltd High : 43.80 Low : 43.13 Close : 43.72 Volume : 119.08M DivYield : 1.55 Earning_Per_Share : 8.9 PEG ratio : 2.52 Market_Capitalization : 5.21B
+Code : AGO-B Name : Assured Guaranty Ltd [B] High : 27.48 Low : 27.37 Close : 27.48 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGO-E Name : Assured Guaranty Ltd [E] High : 27.19 Low : 26.99 Close : 27.19 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGO-F Name : Assured Guaranty Ltd [F] High : 26.08 Low : 25.89 Close : 26.03 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGR Name : Avangrid Inc High : 50.39 Low : 49.78 Close : 50.31 Volume : 308.97M DivYield : 3.42 Earning_Per_Share : 2.18 PEG ratio : 2.9 Market_Capitalization : 15.54B
+Code : AGRO Name : Adecoagro S.A. High : 6.910 Low : 6.720 Close : 6.720 Volume : 121.07M DivYield : 0.0 Earning_Per_Share : 0.22 PEG ratio : 0.05 Market_Capitalization : 813.57M
+Code : AGS Name : Playags Inc High : 19.11 Low : 18.75 Close : 19.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGX Name : Argan Inc High : 41.54 Low : 41.05 Close : 41.38 Volume : 15.47M DivYield : 1.44 Earning_Per_Share : 5.43 PEG ratio : 0.0 Market_Capitalization : 640.33M
+Code : AHC Name : A.H. Belo Corp High : 3.776 Low : 3.640 Close : 3.670 Volume : 21.75M DivYield : 7.11 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 79.83M
+Code : AHH Name : Armada Hoffler Properties Inc High : 17.04 Low : 16.89 Close : 17.02 Volume : 62.78M DivYield : 5.46 Earning_Per_Share : 0.49 PEG ratio : 6.79 Market_Capitalization : 1.07B
+Code : AHH-A Name : Armada Hoffler Properties Inc Pfd A High : 26.83 Low : 26.43 Close : 26.83 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHL-C Name : Aspen Ins Pfd Inc High : 27.78 Low : 27.49 Close : 27.49 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHL-D Name : Aspen Insurance Holdings Ltd High : 25.63 Low : 25.48 Close : 25.48 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT Name : Ashford Hospitality Trust Inc High : 2.675 Low : 2.580 Close : 2.660 Volume : 97.43M DivYield : 6.95 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 259.16M
+Code : AHT-D Name : Ashford Hosp D Pfd High : 22.85 Low : 22.38 Close : 22.71 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-F Name : Ashford Hospitality Trust Inc High : 19.65 Low : 19.28 Close : 19.53 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-G Name : Ashford Hospitality Trust Inc High : 19.49 Low : 18.75 Close : 19.43 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-H Name : Ashford Hospitality Trust Inc Cum Pfd High : 20.02 Low : 19.65 Close : 20.02 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-I Name : Ashford Hospitality Trust Inc 7.50% High : 20.19 Low : 19.75 Close : 20.10 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AI Name : Arlington Asset Investment Corp High : 6.715 Low : 6.651 Close : 6.700 Volume : 25.95M DivYield : 17.38 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 173.87M
+Code : AI-B Name : Arlington Asset 7.00% Series B Pfd High : 21.89 Low : 21.40 Close : 21.89 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AI-C Name : Arlington Asset Investment Corp Cum Pfd High : 23.25 Low : 23.20 Close : 23.20 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIC Name : Arlington Asset Investment Cor High : 24.75 Low : 24.69 Close : 24.72 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIF Name : Apollo Tactical Income Fund Inc High : 14.78 Low : 14.69 Close : 14.74 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIG Name : American International Group High : 56.46 Low : 55.70 Close : 56.32 Volume : 903.33M DivYield : 1.97 Earning_Per_Share : 0.0 PEG ratio : 0.13 Market_Capitalization : 50.88B
+Code : AIG-A Name : American International Group Inc Dep Shs High : 27.14 Low : 26.84 Close : 27.07 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIG.W Name : American International Group High : 15.22 Low : 14.77 Close : 15.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIN Name : Albany International Corp High : 79.32 Low : 77.77 Close : 79.00 Volume : 32.07M DivYield : 1.17 Earning_Per_Share : 1.27 PEG ratio : 2.03 Market_Capitalization : 2.53B
+Code : AIR Name : AAR Corp High : 42.41 Low : 41.40 Close : 42.38 Volume : 33.93M DivYield : 0.78 Earning_Per_Share : 1.66 PEG ratio : 0.9 Market_Capitalization : 1.44B
+Code : AIT Name : Applied Industrial Technologies High : 61.54 Low : 59.86 Close : 61.32 Volume : 39.07M DivYield : 1.79 Earning_Per_Share : 3.4 PEG ratio : 1.7 Market_Capitalization : 2.40B
+Code : AIV Name : Apartment Investment and Management High : 50.71 Low : 49.87 Close : 50.03 Volume : 157.09M DivYield : 3.25 Earning_Per_Share : 1.27 PEG ratio : 14.89 Market_Capitalization : 7.86B
+Code : AIW Name : Arlington Asset Investment Cor High : 24.45 Low : 24.35 Close : 24.45 Volume : 25.95M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 634.48M
+Code : AIY Name : Apollo Investment Corp High : 25.14 Low : 25.10 Close : 25.10 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.083 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIZ Name : Assurant Inc High : 114.9 Low : 112.8 Close : 114.6 Volume : 53.87M DivYield : 2.11 Earning_Per_Share : 7.61 PEG ratio : 1.47 Market_Capitalization : 6.17B
+Code : AIZP Name : Assurant Inc 6.50% Series D Mandatory High : 118.1 Low : 117.7 Close : 118.0 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AJG Name : Arthur J. Gallagher & CO High : 92.16 Low : 91.31 Close : 91.81 Volume : 180.20M DivYield : 2.51 Earning_Per_Share : 2.48 PEG ratio : 2.09 Market_Capitalization : 16.54B
+Code : AJRD Name : Aerojet Rocketdyne Holdings High : 43.87 Low : 43.06 Close : 43.48 Volume : 75.08M DivYield : 0.0 Earning_Per_Share : 0.52 PEG ratio : 1.8 Market_Capitalization : 3.26B
+Code : AJX Name : Great Ajax Corp High : 14.06 Low : 13.89 Close : 14.01 Volume : 17.62M DivYield : 8.55 Earning_Per_Share : 1.57 PEG ratio : 0.0 Market_Capitalization : 246.91M
+Code : AJXA Name : Great Ajax Corp 7.25% Convertible Senior High : 25.80 Low : 25.73 Close : 25.77 Volume : 4.32M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 111.32M
+Code : AKO.A Name : Embotell Andina Sa Cl A High : 18.01 Low : 18.01 Close : 18.01 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AKO.B Name : Embotell Andna Sa Cl B High : 21.26 Low : 21.06 Close : 21.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AKR Name : Acadia Realty Trust High : 28.27 Low : 27.96 Close : 28.21 Volume : 83.71M DivYield : 3.64 Earning_Per_Share : 0.65 PEG ratio : 20.68 Market_Capitalization : 2.36B
+Code : AKS Name : AK Steel Holding Corp High : 3.030 Low : 2.510 Close : 3.000 Volume : 314.05M DivYield : 0.0 Earning_Per_Share : 0.38 PEG ratio : 0.28 Market_Capitalization : 942.15M
+Code : AL Name : Air Lease Corp Cl A High : 42.83 Low : 40.45 Close : 42.74 Volume : 103.23M DivYield : 0.69 Earning_Per_Share : 3.43 PEG ratio : 0.9 Market_Capitalization : 4.41B
+Code : AL-A Name : Air Lease Corp [Al/Pa] High : 26.83 Low : 26.53 Close : 26.64 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALB Name : Albemarle Corp High : 73.80 Low : 72.06 Close : 73.60 Volume : 110.44M DivYield : 0.92 Earning_Per_Share : 7.82 PEG ratio : 2.12 Market_Capitalization : 8.13B
+Code : ALC Name : Alcon Inc High : 59.40 Low : 58.55 Close : 59.05 Volume : 23.18M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 1.37B
+Code : ALE Name : Allete Inc High : 87.47 Low : 86.44 Close : 87.10 Volume : 50.95M DivYield : 2.71 Earning_Per_Share : 3.4 PEG ratio : 4.7 Market_Capitalization : 4.44B
+Code : ALEX Name : Alexander and Baldwin Inc High : 23.85 Low : 23.14 Close : 23.84 Volume : 49.12M DivYield : 0.62 Earning_Per_Share : 0.2 PEG ratio : 4.42 Market_Capitalization : 1.17B
+Code : ALG Name : Alamo Group High : 99.60 Low : 97.59 Close : 99.53 Volume : 11.65M DivYield : 0.37 Earning_Per_Share : 3.89 PEG ratio : 3.9 Market_Capitalization : 1.16B
+Code : ALK Name : Alaska Air Group High : 64.56 Low : 63.49 Close : 64.01 Volume : 123.46M DivYield : 1.8 Earning_Per_Share : 6.15 PEG ratio : 2.29 Market_Capitalization : 7.90B
+Code : ALL Name : Allstate Corp High : 102.5 Low : 101.2 Close : 101.8 Volume : 361.36M DivYield : 1.58 Earning_Per_Share : 6.77 PEG ratio : 0.85 Market_Capitalization : 36.80B
+Code : ALL-A Name : Allstate Corp Pfd High : 25.79 Low : 25.56 Close : 25.61 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-B Name : Ally Financial Inc Fixed Rate F High : 26.72 Low : 26.54 Close : 26.62 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-D Name : Allstate Corp High : 26.20 Low : 26.01 Close : 26.15 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-E Name : The Allstate Corp High : 25.61 Low : 25.56 Close : 25.57 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-F Name : The Allstate Corp High : 25.85 Low : 25.70 Close : 25.81 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-G Name : Allstate Corp Dep Shs Repstg 1/1000Th High : 27.04 Low : 26.86 Close : 26.86 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-Y Name : GMAC Capital Trust I Fixed Rate High : 26.57 Low : 26.42 Close : 26.43 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALLE Name : Allegion Plc High : 104.5 Low : 103.1 Close : 104.3 Volume : 95.03M DivYield : 0.79 Earning_Per_Share : 2.59 PEG ratio : 1.53 Market_Capitalization : 9.91B
+Code : ALLY Name : Ally Financial High : 33.77 Low : 32.96 Close : 33.77 Volume : 479.83M DivYield : 1.84 Earning_Per_Share : 1.96 PEG ratio : 2.25 Market_Capitalization : 16.20B
+Code : ALP-Q Name : Alabama Power Co. Pfd High : 26.79 Low : 26.38 Close : 26.38 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALSN Name : Allison Transmission Holdings High : 46.88 Low : 45.52 Close : 46.85 Volume : 148.81M DivYield : 1.46 Earning_Per_Share : 1.76 PEG ratio : 0.9 Market_Capitalization : 6.97B
+Code : ALV Name : Autoliv Inc High : 72.97 Low : 72.17 Close : 72.59 Volume : 86.91M DivYield : 1.94 Earning_Per_Share : 6.33 PEG ratio : 2.13 Market_Capitalization : 6.31B
+Code : ALX Name : Alexander's Inc High : 375.0 Low : 364.9 Close : 371.7 Volume : 5.10M DivYield : 4.1 Earning_Per_Share : 16.62 PEG ratio : 0.0 Market_Capitalization : 1.90B
+Code : AM Name : Antero Midstream Corp High : 9.215 Low : 8.740 Close : 9.040 Volume : 186.58M DivYield : 4.72 Earning_Per_Share : 1.47 PEG ratio : 1.13 Market_Capitalization : 1.69B
+Code : AMBR Name : Amber Road Inc High : 13.05 Low : 13.04 Close : 13.05 Volume : 27.16M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 354.42M
+Code : AMC Name : Amc Entertainment Holdings Inc High : 11.74 Low : 11.13 Close : 11.74 Volume : 130.85M DivYield : 5.44 Earning_Per_Share : 0.0 PEG ratio : 1.25 Market_Capitalization : 1.54B
+Code : AMCR Name : Amcor Plc High : 10.82 Low : 10.52 Close : 10.61 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AME Name : Amtek Inc High : 92.14 Low : 88.27 Close : 90.75 Volume : 230.81M DivYield : 0.52 Earning_Per_Share : 2.28 PEG ratio : 3.16 Market_Capitalization : 20.95B
+Code : AMG Name : Affiliated Managers Group High : 86.78 Low : 83.63 Close : 86.78 Volume : 55.96M DivYield : 0.42 Earning_Per_Share : 9.03 PEG ratio : 0.93 Market_Capitalization : 4.86B
+Code : AMH Name : American Homes 4 Rent High : 25.33 Low : 24.77 Close : 24.83 Volume : 260.24M DivYield : 0.94 Earning_Per_Share : 0.0 PEG ratio : 21.15 Market_Capitalization : 6.46B
+Code : AMH-D Name : American Homes 4 Rent High : 27.65 Low : 27.54 Close : 27.65 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-E Name : American Homes 4 Rent 6.35% Ser High : 27.59 Low : 27.48 Close : 27.59 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-F Name : American Homes 4 Rent Cum Red Perp Pfd High : 26.60 Low : 26.34 Close : 26.40 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-G Name : American Homes 4 Rent Series G Pfd High : 27.27 Low : 26.64 Close : 27.01 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-H Name : American Homes 4 Rent Perp Cum Red Pfd High : 27.40 Low : 27.08 Close : 27.14 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMID Name : American Midstreampartners LP High : 5.250 Low : 5.230 Close : 5.240 Volume : 52.71M DivYield : 12.64 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 276.22M
+Code : AMK Name : Assetmark Financial Holdings Inc High : 28.61 Low : 27.82 Close : 28.50 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMN Name : Amn Healthcare Services Inc High : 55.05 Low : 54.33 Close : 54.42 Volume : 48.04M DivYield : 0.0 Earning_Per_Share : 2.37 PEG ratio : 1.39 Market_Capitalization : 2.61B
+Code : AMOV Name : America Movil A ADR High : 14.41 Low : 14.18 Close : 14.41 Volume : 3.29B DivYield : 1.86 Earning_Per_Share : 0.8 PEG ratio : 0.0 Market_Capitalization : 47.37B
+Code : AMP Name : Ameriprise Financial Services High : 148.7 Low : 146.9 Close : 148.5 Volume : 149.92M DivYield : 2.15 Earning_Per_Share : 8.73 PEG ratio : 0.92 Market_Capitalization : 22.27B
+Code : AMRC Name : Ameresco Inc High : 14.35 Low : 14.08 Close : 14.31 Volume : 45.53M DivYield : 0.0 Earning_Per_Share : 0.3 PEG ratio : 3.18 Market_Capitalization : 651.50M
+Code : AMRX Name : Amneal Pharmaceuticals Inc High : 3.770 Low : 3.600 Close : 3.730 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMT Name : American Tower Corp High : 209.0 Low : 205.6 Close : 208.7 Volume : 429.19M DivYield : 1.9 Earning_Per_Share : 2.5 PEG ratio : 1.99 Market_Capitalization : 89.55B
+Code : AMX Name : America Movil S.A.B. DE C.V. High : 14.58 Low : 14.35 Close : 14.42 Volume : 3.29B DivYield : 1.93 Earning_Per_Share : 0.8 PEG ratio : 0.25 Market_Capitalization : 47.41B
+Code : AN Name : Autonation Inc High : 48.72 Low : 48.22 Close : 48.65 Volume : 100.42M DivYield : 0.0 Earning_Per_Share : 4.02 PEG ratio : 2.62 Market_Capitalization : 4.89B
+Code : ANDX Name : Andeavor Logistics LP High : 34.38 Low : 31.75 Close : 32.17 Volume : 108.16M DivYield : 8.53 Earning_Per_Share : 1.92 PEG ratio : 0.0 Market_Capitalization : 3.48B
+Code : ANET Name : Arista Networks Inc High : 275.9 Low : 269.6 Close : 274.3 Volume : 72.53M DivYield : 0.0 Earning_Per_Share : 3.88 PEG ratio : 1.94 Market_Capitalization : 19.89B
+Code : ANF Name : Abercrombie & Fitch Company High : 18.83 Low : 18.46 Close : 18.78 Volume : 68.09M DivYield : 5.48 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 1.28B
+Code : ANFI Name : Amira Nature Foods Ltd High : 0.6600 Low : 0.6200 Close : 0.6530 Volume : 36.83M DivYield : 0.0 Earning_Per_Share : 0.84 PEG ratio : 0.23 Market_Capitalization : 24.05M
+Code : ANH Name : Anworth Mortgage Asset Corp High : 3.930 Low : 3.880 Close : 3.920 Volume : 97.55M DivYield : 10.49 Earning_Per_Share : 0.63 PEG ratio : 0.0 Market_Capitalization : 382.40M
+Code : ANH-A Name : Anworth Mtg Pfd A High : 26.06 Low : 25.80 Close : 26.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ANH-B Name : Anworth 6.25 Pr S B High : 22.69 Low : 22.69 Close : 22.69 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ANH-C Name : Anworth Mortgage Asset Corp High : 25.42 Low : 25.42 Close : 25.42 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ANTM Name : Anthem Inc High : 300.0 Low : 295.0 Close : 299.6 Volume : 262.56M DivYield : 1.43 Earning_Per_Share : 10.57 PEG ratio : 1.37 Market_Capitalization : 78.67B
+Code : AOD Name : Alpine Total Dynamic Dividend High : 8.410 Low : 8.360 Close : 8.390 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AON Name : AON Plc High : 195.1 Low : 192.4 Close : 193.2 Volume : 254.34M DivYield : 0.99 Earning_Per_Share : 6.85 PEG ratio : 1.7 Market_Capitalization : 49.13B
+Code : AOS Name : Smith [A.O.] Corp High : 45.35 Low : 41.01 Close : 45.29 Volume : 172.48M DivYield : 0.94 Earning_Per_Share : 1.97 PEG ratio : 3.5 Market_Capitalization : 7.81B
+Code : AP Name : Ampco-Pittsburgh Corp High : 3.630 Low : 3.460 Close : 3.520 Volume : 12.36M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 43.51M
+Code : APA Name : Apache Corp High : 24.37 Low : 23.08 Close : 24.10 Volume : 380.95M DivYield : 2.53 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 9.18B
+Code : APAM Name : Artisan Partners Asset Mgmt High : 29.77 Low : 29.22 Close : 29.61 Volume : 49.79M DivYield : 6.78 Earning_Per_Share : 1.7 PEG ratio : 1.37 Market_Capitalization : 1.47B
+Code : APC Name : Anadarko Petroleum Corp High : 74.07 Low : 73.04 Close : 74.04 Volume : 560.34M DivYield : 0.42 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 41.49B
+Code : APD Name : Air Products and Chemicals High : 232.5 Low : 229.2 Close : 231.8 Volume : 217.93M DivYield : 2.35 Earning_Per_Share : 13.31 PEG ratio : 5.3 Market_Capitalization : 50.52B
+Code : APH Name : Amphenol Corp High : 95.47 Low : 94.55 Close : 94.76 Volume : 305.43M DivYield : 0.89 Earning_Per_Share : 2.97 PEG ratio : 2.55 Market_Capitalization : 28.94B
+Code : APHA Name : Aphria Inc High : 5.680 Low : 5.240 Close : 5.500 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APLE Name : Apple Hospitality REIT Inc High : 15.85 Low : 15.66 Close : 15.81 Volume : 223.28M DivYield : 6.35 Earning_Per_Share : 0.82 PEG ratio : 0.0 Market_Capitalization : 3.53B
+Code : APO Name : Apollo Global Management Llc C High : 35.19 Low : 34.24 Close : 35.05 Volume : 193.99M DivYield : 6.45 Earning_Per_Share : 2.55 PEG ratio : 1.38 Market_Capitalization : 6.80B
+Code : APO-A Name : Apollo Global Management Llc Pfd Ser A High : 26.50 Low : 26.16 Close : 26.26 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APO-B Name : Apollo Global Management Llc Pfd Ser B High : 26.87 Low : 26.71 Close : 26.80 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APRN Name : Blue Apron Holdings Inc High : 9.300 Low : 8.700 Close : 8.740 Volume : 30.04M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 262.57M
+Code : APTS Name : Preferred Apartment Communities High : 14.81 Low : 14.14 Close : 14.68 Volume : 33.32M DivYield : 4.88 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 489.15M
+Code : APTV Name : Aptiv Plc High : 81.72 Low : 79.99 Close : 81.57 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APU Name : Amerigas Partners LP High : 34.44 Low : 33.89 Close : 33.91 Volume : 92.89M DivYield : 8.44 Earning_Per_Share : 0.53 PEG ratio : 2.99 Market_Capitalization : 3.15B
+Code : APY Name : Apergy Corp High : 32.93 Low : 30.71 Close : 32.64 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQ Name : Aquantia Corp High : 13.15 Low : 13.08 Close : 13.13 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQN Name : Algonquin Pwr & Util High : 12.63 Low : 12.51 Close : 12.54 Volume : 385.98M DivYield : 4.36 Earning_Per_Share : 0.18 PEG ratio : 0.0 Market_Capitalization : 4.84B
+Code : AQNA Name : Algonquin Power & Utilities Corp High : 27.46 Low : 27.17 Close : 27.46 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQNB Name : Algonquin Power & Utilities Corp. 6.20% High : 26.77 Low : 26.65 Close : 26.70 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQUA Name : Evoqua Water Technologies Corp High : 14.39 Low : 13.84 Close : 14.21 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AR Name : Antero Resources Corp High : 4.640 Low : 3.950 Close : 4.540 Volume : 315.73M DivYield : 0.0 Earning_Per_Share : 0.04 PEG ratio : 2 Market_Capitalization : 1.43B
+Code : ARA Name : American Renal Associates High : 8.140 Low : 7.690 Close : 7.970 Volume : 31.29M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 1.12 Market_Capitalization : 249.34M
+Code : ARC Name : American Reprographics Company High : 1.855 Low : 1.820 Close : 1.840 Volume : 46.44M DivYield : 0.0 Earning_Per_Share : 0.24 PEG ratio : 2.32 Market_Capitalization : 85.45M
+Code : ARCH Name : Arch Coal Inc High : 91.82 Low : 88.58 Close : 91.60 Volume : 24.34M DivYield : 1.94 Earning_Per_Share : 71.83 PEG ratio : 0.0 Market_Capitalization : 2.23B
+Code : ARCO Name : Arcos Dorados Holdings Inc High : 8.330 Low : 8.071 Close : 8.190 Volume : 210.89M DivYield : 0.0 Earning_Per_Share : 0.26 PEG ratio : 2.19 Market_Capitalization : 1.73B
+Code : ARD Name : Ardagh Group S.A. High : 16.83 Low : 16.28 Close : 16.53 Volume : 236.18M DivYield : 2.71 Earning_Per_Share : 0.0 PEG ratio : 0.32 Market_Capitalization : 3.90B
+Code : ARDC Name : Ares Dynamic Credit Allocation High : 15.25 Low : 15.14 Close : 15.24 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARE Name : Alexandria Real Estate Equities High : 150.5 Low : 146.3 Close : 148.0 Volume : 93.65M DivYield : 2.83 Earning_Per_Share : 0.44 PEG ratio : 828.1 Market_Capitalization : 13.86B
+Code : ARE-A Name : Ares Management Corp High : 27.15 Low : 26.78 Close : 26.78 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARE-D Name : Alexandria Real Estate Equitie High : 38.86 Low : 38.30 Close : 38.79 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARES Name : Ares Management LP High : 29.51 Low : 28.71 Close : 29.49 Volume : 213.98M DivYield : 4.96 Earning_Per_Share : 0.75 PEG ratio : 0.64 Market_Capitalization : 6.31B
+Code : ARGD Name : Argo Grp Itl Snr NTS High : 25.77 Low : 25.66 Close : 25.77 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARGO Name : Argo Group Intl Hlds High : 69.27 Low : 67.67 Close : 68.69 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARI Name : Apollo Commercial Real Estate High : 18.81 Low : 18.61 Close : 18.77 Volume : 105.49M DivYield : 10.17 Earning_Per_Share : 2.02 PEG ratio : 32.77 Market_Capitalization : 1.98B
+Code : ARL Name : American Realty Investors High : 15.84 Low : 15.38 Close : 15.38 Volume : 15.37M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 236.45M
+Code : ARLO Name : Arlo Technologies Inc High : 4.455 Low : 4.280 Close : 4.410 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARMK Name : Aramark Holdings Corp High : 36.99 Low : 36.21 Close : 36.98 Volume : 245.01M DivYield : 0.96 Earning_Per_Share : 1.38 PEG ratio : 1.59 Market_Capitalization : 9.06B
+Code : ARNC Name : Arconic Inc High : 25.17 Low : 24.79 Close : 25.14 Volume : 440.88M DivYield : 0.98 Earning_Per_Share : 0.0 PEG ratio : 0.91 Market_Capitalization : 11.08B
+Code : AROC Name : Archrock Inc High : 11.04 Low : 9.98 Close : 11.01 Volume : 70.94M DivYield : 4.1 Earning_Per_Share : 0.0 PEG ratio : 4.53 Market_Capitalization : 781.04M
+Code : ARR Name : Armour Residential R High : 18.05 Low : 17.38 Close : 18.04 Volume : 41.31M DivYield : 8.96 Earning_Per_Share : 7.6 PEG ratio : 0.0 Market_Capitalization : 745.16M
+Code : ARR-A Name : Armour Residential REIT Inc High : 25.00 Low : 24.99 Close : 24.99 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARR-B Name : Armour Residential REIT Inc High : 25.20 Low : 25.15 Close : 25.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARW Name : Arrow Electronics High : 72.66 Low : 70.81 Close : 72.63 Volume : 88.22M DivYield : 0.0 Earning_Per_Share : 5.47 PEG ratio : 1.2 Market_Capitalization : 6.41B
+Code : ASA Name : ASA Gold and Precious Metals High : 12.49 Low : 12.38 Close : 12.44 Volume : 19.29M DivYield : 0.35 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 239.95M
+Code : ASB Name : Associated Banc-Corp High : 21.72 Low : 21.21 Close : 21.65 Volume : 151.47M DivYield : 2.17 Earning_Per_Share : 1.39 PEG ratio : 2.56 Market_Capitalization : 3.28B
+Code : ASB-C Name : Associated Banc-Corp Depositary High : 26.24 Low : 26.24 Close : 26.24 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASB-D Name : Associated Banc-Corp High : 25.59 Low : 25.53 Close : 25.54 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASB-E Name : Associated Banc-Corp Depositary Shs High : 26.79 Low : 26.35 Close : 26.59 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASC Name : Ardmore Shipping Corp High : 7.460 Low : 7.140 Close : 7.290 Volume : 33.57M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 244.76M
+Code : ASG Name : Liberty All-Star Growth Fund High : 5.950 Low : 5.890 Close : 5.930 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.22 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASGN Name : On Assignment High : 62.89 Low : 62.09 Close : 62.86 Volume : 52.87M DivYield : 0.0 Earning_Per_Share : 2.04 PEG ratio : 2.3 Market_Capitalization : 3.32B
+Code : ASH Name : Ashland Global Holdings Inc High : 80.64 Low : 78.86 Close : 80.43 Volume : 62.47M DivYield : 1.32 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 5.02B
+Code : ASIX Name : Advansix Inc High : 26.06 Low : 24.85 Close : 25.89 Volume : 30.54M DivYield : 0.0 Earning_Per_Share : 1.46 PEG ratio : 0.0 Market_Capitalization : 790.67M
+Code : ASPN Name : Aspen Aerogels Inc High : 6.560 Low : 6.340 Close : 6.430 Volume : 20.58M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 132.34M
+Code : ASR Name : Grupo Aeroportuario Del Sureste High : 159.3 Low : 155.8 Close : 158.0 Volume : 30.02M DivYield : 1.89 Earning_Per_Share : 8.09 PEG ratio : 4.95 Market_Capitalization : 4.74B
+Code : ASX Name : Ase Industrial Holding Co. Ltd High : 4.380 Low : 4.330 Close : 4.370 Volume : 1.62B DivYield : 3.7 Earning_Per_Share : 0.45 PEG ratio : 1.35 Market_Capitalization : 7.09B
+Code : AT Name : Atlantic Power Corp High : 2.400 Low : 2.350 Close : 2.370 Volume : 115.28M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.69 Market_Capitalization : 273.21M
+Code : ATEN Name : A10 Networks Inc High : 7.390 Low : 7.180 Close : 7.250 Volume : 59.03M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 427.96M
+Code : ATGE Name : Adtalem Global Education Inc High : 48.99 Low : 47.68 Close : 48.97 Volume : 61.98M DivYield : 0.0 Earning_Per_Share : 1.91 PEG ratio : 1.96 Market_Capitalization : 3.04B
+Code : ATH Name : Athene Holding Ltd High : 41.89 Low : 41.41 Close : 41.83 Volume : 200.04M DivYield : 0.0 Earning_Per_Share : 6.18 PEG ratio : 0.64 Market_Capitalization : 8.37B
+Code : ATH-A Name : Athene Holding Ltd. Pfd A High : 27.14 Low : 26.95 Close : 27.00 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ATHM Name : Autohome Inc High : 85.00 Low : 83.68 Close : 84.06 Volume : 116.07M DivYield : 0.0 Earning_Per_Share : 1.94 PEG ratio : 41.63 Market_Capitalization : 9.76B
+Code : ATI Name : Allegheny Technologies Inc High : 22.48 Low : 22.10 Close : 22.10 Volume : 108.70M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 5.01 Market_Capitalization : 2.40B
+Code : ATKR Name : Atkore International Group High : 27.37 Low : 26.60 Close : 27.35 Volume : 64.22M DivYield : 0.0 Earning_Per_Share : 1.21 PEG ratio : 1.54 Market_Capitalization : 1.76B
+Code : ATO Name : Atmos Energy Corp High : 110.0 Low : 108.2 Close : 108.9 Volume : 106.08M DivYield : 2.08 Earning_Per_Share : 3.73 PEG ratio : 3.15 Market_Capitalization : 11.55B
+Code : ATR Name : Aptargroup High : 124.6 Low : 123.0 Close : 123.8 Volume : 62.78M DivYield : 1.44 Earning_Per_Share : 3.4 PEG ratio : 2.92 Market_Capitalization : 7.77B
+Code : ATTO Name : Atento S.A. High : 2.270 Low : 2.190 Close : 2.240 Volume : 73.91M DivYield : 0.0 Earning_Per_Share : 0.24 PEG ratio : 1.27 Market_Capitalization : 165.56M
+Code : ATU Name : Actuant Corp High : 23.13 Low : 22.38 Close : 23.10 Volume : 59.57M DivYield : 0.15 Earning_Per_Share : 0.0 PEG ratio : 3.32 Market_Capitalization : 1.38B
+Code : ATUS Name : Altice USA Inc Cl A High : 26.34 Low : 25.87 Close : 26.12 Volume : 737.02M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 19.25B
+Code : ATV Name : Acorn International High : 18.08 Low : 17.75 Close : 18.00 Volume : 3.93M DivYield : 0.0 Earning_Per_Share : 0.91 PEG ratio : 0.0 Market_Capitalization : 70.73M
+Code : AU Name : Anglogold Ashanti Ltd High : 19.08 Low : 18.72 Close : 18.74 Volume : 408.90M DivYield : 1.05 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 7.66B
+Code : AUO Name : Au Optronics Corp High : 2.650 Low : 2.590 Close : 2.630 Volume : 961.26M DivYield : 4.6 Earning_Per_Share : 1.19 PEG ratio : 0.05 Market_Capitalization : 2.53B
+Code : AUY Name : Yamana Gold High : 3.100 Low : 2.920 Close : 3.070 Volume : 949.02M DivYield : 0.81 Earning_Per_Share : 0.0 PEG ratio : 5.31 Market_Capitalization : 2.91B
+Code : AVA Name : Avista Corp High : 46.03 Low : 45.51 Close : 46.02 Volume : 64.39M DivYield : 2.74 Earning_Per_Share : 2.12 PEG ratio : 4.74 Market_Capitalization : 2.96B
+Code : AVAL Name : Grupo Aval Acciones Y Valores S High : 7.780 Low : 7.540 Close : 7.540 Volume : 1.11B DivYield : 4.56 Earning_Per_Share : 0.62 PEG ratio : 0.0 Market_Capitalization : 8.40B
+Code : AVB Name : Avalonbay Communities High : 213.2 Low : 209.9 Close : 210.9 Volume : 137.74M DivYield : 3.14 Earning_Per_Share : 7.26 PEG ratio : 10.23 Market_Capitalization : 29.04B
+Code : AVD Name : American Vanguard Corp High : 14.69 Low : 13.89 Close : 14.55 Volume : 29.78M DivYield : 0.27 Earning_Per_Share : 0.49 PEG ratio : 2.17 Market_Capitalization : 433.34M
+Code : AVH Name : Avianca Holdings S.A. High : 4.090 Low : 4.000 Close : 4.070 Volume : 124.62M DivYield : 5.6 Earning_Per_Share : 0.47 PEG ratio : 0.0 Market_Capitalization : 507.22M
+Code : AVK Name : Advent Claymore Convertible Securities High : 15.05 Low : 14.96 Close : 15.00 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.28 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVLR Name : Avalara Inc High : 83.57 Low : 81.67 Close : 83.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVNS Name : Avanos Medical Inc High : 42.78 Low : 41.90 Close : 42.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVP Name : Avon Products High : 4.167 Low : 3.930 Close : 4.130 Volume : 439.95M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.16 Market_Capitalization : 1.82B
+Code : AVT-A Name : Avantor Inc [Avtr/Pa] High : 63.16 Low : 62.17 Close : 62.39 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVTR Name : Avantor Inc High : 18.17 Low : 17.63 Close : 17.71 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVX Name : Avx Corp High : 15.66 Low : 14.95 Close : 15.66 Volume : 168.30M DivYield : 2.49 Earning_Per_Share : 0.76 PEG ratio : 2.86 Market_Capitalization : 2.64B
+Code : AVY Name : Avery Dennison Corp High : 116.4 Low : 114.6 Close : 116.1 Volume : 88.40M DivYield : 1.7 Earning_Per_Share : 4.26 PEG ratio : 1.72 Market_Capitalization : 10.26B
+Code : AVYA Name : Avaya Holdings Corp High : 11.77 Low : 11.22 Close : 11.76 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AWF Name : Alliancebernstein Global High Income High : 12.03 Low : 11.97 Close : 12.01 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 2.17 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AWI Name : Armstrong World Industries Inc High : 98.68 Low : 93.75 Close : 98.45 Volume : 52.85M DivYield : 0.0 Earning_Per_Share : 3.08 PEG ratio : 1.65 Market_Capitalization : 5.20B
+Code : AWK Name : American Water Works High : 116.2 Low : 114.6 Close : 115.1 Volume : 178.28M DivYield : 1.89 Earning_Per_Share : 2.65 PEG ratio : 3.98 Market_Capitalization : 20.52B
+Code : AWP Name : Alpine Global Premier Propertie High : 6.320 Low : 6.230 Close : 6.250 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AWR Name : American States Water Company High : 77.69 Low : 76.79 Close : 77.23 Volume : 36.71M DivYield : 1.85 Earning_Per_Share : 1.85 PEG ratio : 6.51 Market_Capitalization : 2.84B
+Code : AX Name : Axos Financial Inc High : 27.74 Low : 26.60 Close : 27.72 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXE Name : Anixter International Inc High : 66.00 Low : 63.61 Close : 65.92 Volume : 33.24M DivYield : 0.0 Earning_Per_Share : 4.38 PEG ratio : 1.36 Market_Capitalization : 2.19B
+Code : AXL Name : American Axle & Manufacturing High : 12.28 Low : 11.75 Close : 12.26 Volume : 111.29M DivYield : 0.0 Earning_Per_Share : 2.9 PEG ratio : 0.0 Market_Capitalization : 1.36B
+Code : AXO Name : Axos Financial Inc High : 25.86 Low : 25.72 Close : 25.86 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXP Name : American Express Company High : 126.9 Low : 126.3 Close : 126.5 Volume : 884.02M DivYield : 1.46 Earning_Per_Share : 4.88 PEG ratio : 1.49 Market_Capitalization : 111.80B
+Code : AXR Name : Amrep Corp High : 6.250 Low : 6.240 Close : 6.250 Volume : 8.06M DivYield : 0.0 Earning_Per_Share : 0.098 PEG ratio : 0.0 Market_Capitalization : 50.39M
+Code : AXS Name : Axis Capital Holdings High : 61.98 Low : 61.02 Close : 61.37 Volume : 83.09M DivYield : 2.77 Earning_Per_Share : 4.53 PEG ratio : 0.0 Market_Capitalization : 5.10B
+Code : AXS-D Name : Axis Capital Holdings Ltd High : 25.55 Low : 25.30 Close : 25.36 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXS-E Name : Axis Capital Holdings Ltd High : 25.50 Low : 25.41 Close : 25.41 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXTA Name : Axalta Coating Systems Ltd High : 30.32 Low : 29.75 Close : 30.31 Volume : 243.14M DivYield : 0.0 Earning_Per_Share : 0.01 PEG ratio : 2.27 Market_Capitalization : 7.37B
+Code : AYI Name : Acuity Brands Inc High : 136.6 Low : 134.0 Close : 136.4 Volume : 41.91M DivYield : 0.33 Earning_Per_Share : 7.43 PEG ratio : 0.88 Market_Capitalization : 5.72B
+Code : AYR Name : Aircastle Ltd High : 21.26 Low : 20.40 Close : 21.24 Volume : 78.57M DivYield : 4.54 Earning_Per_Share : 1.66 PEG ratio : 2.18 Market_Capitalization : 1.67B
+Code : AYX Name : Alteryx Inc High : 123.1 Low : 119.0 Close : 119.6 Volume : 58.96M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 7.05B
+Code : AZN Name : Astrazeneca Plc High : 44.06 Low : 43.67 Close : 43.86 Volume : 2.53B DivYield : 2.68 Earning_Per_Share : 1.52 PEG ratio : 2.37 Market_Capitalization : 111.06B
+Code : AZO Name : Autozone High : 1,148 Low : 1,140 Close : 1,144 Volume : 27.83M DivYield : 0.0 Earning_Per_Share : 44.07 PEG ratio : 1.25 Market_Capitalization : 31.84B
+Code : AZRE Name : Azure Power Global Ltd High : 10.93 Low : 10.52 Close : 10.93 Volume : 25.94M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 283.48M
+Code : AZUL Name : Azul S.A. ADR High : 42.31 Low : 41.30 Close : 41.78 Volume : 110.01M DivYield : 0.0 Earning_Per_Share : 0.28 PEG ratio : 0.0 Market_Capitalization : 4.60B
+Code : AZZ Name : Azz Inc High : 47.26 Low : 46.01 Close : 46.98 Volume : 26.01M DivYield : 1.43 Earning_Per_Share : 1.97 PEG ratio : 2.46 Market_Capitalization : 1.22B
+Code : A Name : Agilent Technologies High : 70.18 Low : 68.10 Close : 70.15 Volume : 321.76M DivYield : 0.78 Earning_Per_Share : 1.94 PEG ratio : 2.73 Market_Capitalization : 22.57B
+Code : AA Name : Alcoa Corp High : 23.04 Low : 22.58 Close : 23.04 Volume : 184.30M DivYield : 1.25 Earning_Per_Share : 0.88 PEG ratio : 0.0 Market_Capitalization : 4.25B
+Code : AAC Name : Aac Holdings Inc High : 1.0000 Low : 0.9389 Close : 0.9900 Volume : 24.06M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.82 Market_Capitalization : 23.82M
+Code : AAN Name : Aaron's Inc High : 63.57 Low : 60.16 Close : 63.17 Volume : 70.77M DivYield : 0.26 Earning_Per_Share : 1.95 PEG ratio : 1.38 Market_Capitalization : 4.47B
+Code : AAP Name : Advance Auto Parts Inc High : 154.7 Low : 150.9 Close : 151.8 Volume : 73.84M DivYield : 0.28 Earning_Per_Share : 5.01 PEG ratio : 1.52 Market_Capitalization : 11.21B
+Code : AAT Name : American Assets Trust High : 47.39 Low : 46.88 Close : 46.94 Volume : 47.18M DivYield : 2.66 Earning_Per_Share : 0.66 PEG ratio : 20.97 Market_Capitalization : 2.21B
+Code : AB Name : Alliancebernstein Holding LP High : 29.91 Low : 29.20 Close : 29.90 Volume : 93.54M DivYield : 7.86 Earning_Per_Share : 2.18 PEG ratio : 1.07 Market_Capitalization : 2.80B
+Code : ABB Name : Abb Ltd High : 18.85 Low : 18.68 Close : 18.78 Volume : 2.13B DivYield : 3 Earning_Per_Share : 1.04 PEG ratio : 2.74 Market_Capitalization : 40.08B
+Code : ABBV Name : Abbvie Inc High : 67.53 Low : 66.26 Close : 67.18 Volume : 1.59B DivYield : 2.86 Earning_Per_Share : 4.07 PEG ratio : 1 Market_Capitalization : 107.09B
+Code : ABC Name : Amerisourcebergen Corp High : 89.01 Low : 85.48 Close : 88.72 Volume : 219.17M DivYield : 1.85 Earning_Per_Share : 3.84 PEG ratio : 1.63 Market_Capitalization : 19.44B
+Code : ABEV Name : Ambev S.A. High : 5.450 Low : 5.310 Close : 5.320 Volume : 15.71B DivYield : 2.52 Earning_Per_Share : 0.24 PEG ratio : 6.79 Market_Capitalization : 83.56B
+Code : ABG Name : Asbury Automotive Group Inc High : 94.00 Low : 91.42 Close : 92.97 Volume : 20.85M DivYield : 0.0 Earning_Per_Share : 7.69 PEG ratio : 0.82 Market_Capitalization : 1.94B
+Code : ABM Name : ABM Industries Incorporated High : 42.46 Low : 41.09 Close : 42.25 Volume : 65.03M DivYield : 1.61 Earning_Per_Share : 0.26 PEG ratio : 4.42 Market_Capitalization : 2.75B
+Code : ABR Name : Arbor Realty Trust High : 12.35 Low : 12.16 Close : 12.31 Volume : 61.35M DivYield : 8.72 Earning_Per_Share : 1.09 PEG ratio : 1.17 Market_Capitalization : 755.21M
+Code : ABR-A Name : Arbor Realty Trust Inc High : 26.40 Low : 26.15 Close : 26.40 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ABR-B Name : Arbor Realty Trust Inc High : 25.90 Low : 25.81 Close : 25.90 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ABR-C Name : Arbor Realty Trust High : 26.69 Low : 26.45 Close : 26.47 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ABT Name : Abbott Laboratories High : 88.73 Low : 87.85 Close : 88.31 Volume : 1.74B DivYield : 1.91 Earning_Per_Share : 0.71 PEG ratio : 1.87 Market_Capitalization : 153.43B
+Code : AC Name : Associated Capital Group Inc High : 37.58 Low : 37.11 Close : 37.28 Volume : 23.86M DivYield : 0.54 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 889.65M
+Code : ACA Name : Arcosa Inc High : 37.30 Low : 35.50 Close : 37.26 Volume : 35.34M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.22 Market_Capitalization : 1.32B
+Code : ACB Name : Aurora Cannabis Inc High : 6.430 Low : 6.000 Close : 6.250 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ACC Name : American Campus Communities Inc High : 47.31 Low : 46.34 Close : 46.65 Volume : 136.41M DivYield : 4.22 Earning_Per_Share : 0.48 PEG ratio : 3.01 Market_Capitalization : 6.36B
+Code : ACCO Name : Acco Brands Corp High : 8.265 Low : 8.090 Close : 8.140 Volume : 108.81M DivYield : 0.0 Earning_Per_Share : 0.5 PEG ratio : 1.18 Market_Capitalization : 885.73M
+Code : ACH Name : Aluminum Corp of China Ltd High : 8.240 Low : 8.200 Close : 8.210 Volume : 595.95M DivYield : 0.0 Earning_Per_Share : 0.25 PEG ratio : 0.0 Market_Capitalization : 4.89B
+Code : ACM Name : Aecom Technology Corp High : 36.78 Low : 36.05 Close : 36.76 Volume : 156.68M DivYield : 0.0 Earning_Per_Share : 1.63 PEG ratio : 20.15 Market_Capitalization : 5.76B
+Code : ACN Name : Accenture Plc High : 197.2 Low : 195.4 Close : 195.7 Volume : 617.53M DivYield : 1.87 Earning_Per_Share : 5.44 PEG ratio : 2.24 Market_Capitalization : 120.82B
+Code : ACP Name : Avenue Income Credit Strategies High : 12.65 Low : 12.54 Close : 12.65 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ACRE Name : Ares Commercial Real Estate Cor High : 15.40 Low : 15.19 Close : 15.31 Volume : 28.56M DivYield : 8.16 Earning_Per_Share : 1.39 PEG ratio : 2.46 Market_Capitalization : 437.21M
+Code : ACV Name : Allianzgi Diversified Income &</td> High : 23.70 Low : 23.57 Close : 23.70 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 1.7 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ADC Name : Agree Realty Corp High : 67.96 Low : 66.76 Close : 67.37 Volume : 28.39M DivYield : 4.29 Earning_Per_Share : 2.22 PEG ratio : 0.0 Market_Capitalization : 1.91B
+Code : ADM Name : Archer Daniels Midland High : 41.10 Low : 40.53 Close : 40.95 Volume : 562.57M DivYield : 2.97 Earning_Per_Share : 2.37 PEG ratio : 0.0 Market_Capitalization : 23.04B
+Code : ADNT Name : Adient Plc High : 23.24 Low : 22.17 Close : 23.06 Volume : 93.11M DivYield : 1.32 Earning_Per_Share : 0.0 PEG ratio : 0.74 Market_Capitalization : 2.15B
+Code : ADS Name : Alliance Data Systems Corp High : 158.0 Low : 155.8 Close : 157.8 Volume : 55.47M DivYield : 0.87 Earning_Per_Share : 8.77 PEG ratio : 1 Market_Capitalization : 8.75B
+Code : ADSW Name : Advanced Disposal Services Inc High : 32.55 Low : 32.39 Close : 32.54 Volume : 88.53M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 4.81 Market_Capitalization : 2.88B
+Code : ADT Name : ADT Inc High : 6.410 Low : 6.230 Close : 6.410 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 1.7 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ADX Name : Adams Express Company High : 16.05 Low : 15.98 Close : 16.05 Volume : 98.47M DivYield : 0.0 Earning_Per_Share : 2.83 PEG ratio : 0.0 Market_Capitalization : 1.58B
+Code : AEB Name : Aegon N.V. Perp Cap Secs Floating Rate High : 23.94 Low : 23.67 Close : 23.92 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AEE Name : Ameren Corp High : 77.26 Low : 75.82 Close : 76.21 Volume : 242.56M DivYield : 2.96 Earning_Per_Share : 2.86 PEG ratio : 3.13 Market_Capitalization : 18.49B
+Code : AEG Name : Aegon N.V. High : 4.930 Low : 4.880 Close : 4.900 Volume : 2.04B DivYield : 5.15 Earning_Per_Share : 0.85 PEG ratio : 0.0 Market_Capitalization : 10.02B
+Code : AEH Name : Aegon N.V. Perp Cap Secs High : 26.21 Low : 26.11 Close : 26.12 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.25 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AEL Name : American Equity Investment Life High : 26.12 Low : 25.34 Close : 25.95 Volume : 89.04M DivYield : 0.79 Earning_Per_Share : 2.17 PEG ratio : 1.15 Market_Capitalization : 2.31B
+Code : AEM Name : Agnico-Eagle Mines Ltd High : 54.63 Low : 54.11 Close : 54.18 Volume : 231.18M DivYield : 0.97 Earning_Per_Share : 1.09 PEG ratio : 1.75 Market_Capitalization : 12.53B
+Code : AEO Name : American Eagle Outfitters High : 17.80 Low : 17.37 Close : 17.71 Volume : 177.33M DivYield : 3.57 Earning_Per_Share : 0.97 PEG ratio : 41.33 Market_Capitalization : 3.14B
+Code : AEP Name : American Electric Power Company High : 89.88 Low : 88.27 Close : 88.72 Volume : 491.89M DivYield : 3.19 Earning_Per_Share : 1.16 PEG ratio : 7.27 Market_Capitalization : 43.64B
+Code : AEP-B Name : American Elec. Pwr CO Inc 6.125% Corp. High : 55.40 Low : 54.82 Close : 55.07 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AER Name : Aercap Holdings N.V. High : 54.52 Low : 51.79 Close : 54.51 Volume : 160.60M DivYield : 0.0 Earning_Per_Share : 6.34 PEG ratio : 0.92 Market_Capitalization : 8.75B
+Code : AES Name : The Aes Corp High : 17.20 Low : 16.87 Close : 17.15 Volume : 660.48M DivYield : 4.45 Earning_Per_Share : 0.0 PEG ratio : 0.92 Market_Capitalization : 11.33B
+Code : AFB Name : Alliance National Municipal High : 13.64 Low : 13.53 Close : 13.60 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 1.21 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AFC Name : Allied Capital Corp High : 26.61 Low : 26.35 Close : 26.36 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AFG Name : American Financial Group High : 103.0 Low : 102.0 Close : 102.7 Volume : 88.04M DivYield : 1.33 Earning_Per_Share : 8.87 PEG ratio : 2.79 Market_Capitalization : 9.04B
+Code : AFGB Name : American Financial Group Inc 5.875% High : 27.18 Low : 27.04 Close : 27.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AFGE Name : American Financial Group Inc High : 25.88 Low : 25.76 Close : 25.87 Volume : 87.83M DivYield : 0.0 Earning_Per_Share : 8.87 PEG ratio : 0.0 Market_Capitalization : 2.27B
+Code : AFGH Name : American Financial Group Inc High : 26.63 Low : 26.51 Close : 26.63 Volume : 6.00M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 159.78M
+Code : AFI Name : Armstrong Flooring Inc High : 8.575 Low : 8.140 Close : 8.410 Volume : 27.08M DivYield : 0.0 Earning_Per_Share : 0.02 PEG ratio : 1.47 Market_Capitalization : 227.78M
+Code : AFL Name : Aflac Incorporated High : 53.27 Low : 52.66 Close : 52.88 Volume : 395.28M DivYield : 2.14 Earning_Per_Share : 6.61 PEG ratio : 0.92 Market_Capitalization : 20.90B
+Code : AFT Name : Apollo Senior Floating Rate Fund Inc High : 15.05 Low : 14.96 Close : 15.02 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AG Name : First Majestic Silver High : 10.16 Low : 9.95 Close : 10.06 Volume : 165.42M DivYield : 0.0 Earning_Per_Share : 0.08 PEG ratio : 14.1 Market_Capitalization : 1.66B
+Code : AGCO Name : Agco Corp High : 80.64 Low : 76.51 Close : 80.21 Volume : 79.53M DivYield : 0.79 Earning_Per_Share : 2.29 PEG ratio : 0.99 Market_Capitalization : 6.38B
+Code : AGD Name : Alpine Global Dynamic Dividend Fund High : 9.638 Low : 9.580 Close : 9.630 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGI Name : Alamos Gold Inc High : 6.840 Low : 6.680 Close : 6.810 Volume : 301.11M DivYield : 0.32 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 2.05B
+Code : AGM Name : Federal Agricultural Mortgage Corp High : 78.11 Low : 75.56 Close : 78.00 Volume : 10.60M DivYield : 1.92 Earning_Per_Share : 7.26 PEG ratio : 1.6 Market_Capitalization : 827.11M
+Code : AGM-A Name : Federal Agricultural Mortgage High : 26.36 Low : 25.76 Close : 26.36 Volume : 10.60M DivYield : 1.92 Earning_Per_Share : 7.26 PEG ratio : 0.0 Market_Capitalization : 279.52M
+Code : AGM-C Name : Federal Agricultural Mortgage High : 26.26 Low : 26.25 Close : 26.25 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGM-D Name : Federal Agricultural Mortgage Corp Pfd High : 26.40 Low : 26.35 Close : 26.40 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGM.A Name : Federal Agricultural Mortgage Corp High : 68.16 Low : 68.16 Close : 68.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGN Name : Allergan Plc High : 161.7 Low : 160.3 Close : 160.9 Volume : 334.30M DivYield : 1.59 Earning_Per_Share : 32.82 PEG ratio : 0.97 Market_Capitalization : 53.78B
+Code : AGO Name : Assured Guaranty Ltd High : 43.80 Low : 43.13 Close : 43.72 Volume : 119.08M DivYield : 1.55 Earning_Per_Share : 8.9 PEG ratio : 2.52 Market_Capitalization : 5.21B
+Code : AGO-B Name : Assured Guaranty Ltd [B] High : 27.48 Low : 27.37 Close : 27.48 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGO-E Name : Assured Guaranty Ltd [E] High : 27.19 Low : 26.99 Close : 27.19 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGO-F Name : Assured Guaranty Ltd [F] High : 26.08 Low : 25.89 Close : 26.03 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGR Name : Avangrid Inc High : 50.39 Low : 49.78 Close : 50.31 Volume : 308.97M DivYield : 3.42 Earning_Per_Share : 2.18 PEG ratio : 2.9 Market_Capitalization : 15.54B
+Code : AGRO Name : Adecoagro S.A. High : 6.910 Low : 6.720 Close : 6.720 Volume : 121.07M DivYield : 0.0 Earning_Per_Share : 0.22 PEG ratio : 0.05 Market_Capitalization : 813.57M
+Code : AGS Name : Playags Inc High : 19.11 Low : 18.75 Close : 19.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AGX Name : Argan Inc High : 41.54 Low : 41.05 Close : 41.38 Volume : 15.47M DivYield : 1.44 Earning_Per_Share : 5.43 PEG ratio : 0.0 Market_Capitalization : 640.33M
+Code : AHC Name : A.H. Belo Corp High : 3.776 Low : 3.640 Close : 3.670 Volume : 21.75M DivYield : 7.11 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 79.83M
+Code : AHH Name : Armada Hoffler Properties Inc High : 17.04 Low : 16.89 Close : 17.02 Volume : 62.78M DivYield : 5.46 Earning_Per_Share : 0.49 PEG ratio : 6.79 Market_Capitalization : 1.07B
+Code : AHH-A Name : Armada Hoffler Properties Inc Pfd A High : 26.83 Low : 26.43 Close : 26.83 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHL-C Name : Aspen Ins Pfd Inc High : 27.78 Low : 27.49 Close : 27.49 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHL-D Name : Aspen Insurance Holdings Ltd High : 25.63 Low : 25.48 Close : 25.48 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT Name : Ashford Hospitality Trust Inc High : 2.675 Low : 2.580 Close : 2.660 Volume : 97.43M DivYield : 6.95 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 259.16M
+Code : AHT-D Name : Ashford Hosp D Pfd High : 22.85 Low : 22.38 Close : 22.71 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-F Name : Ashford Hospitality Trust Inc High : 19.65 Low : 19.28 Close : 19.53 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-G Name : Ashford Hospitality Trust Inc High : 19.49 Low : 18.75 Close : 19.43 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-H Name : Ashford Hospitality Trust Inc Cum Pfd High : 20.02 Low : 19.65 Close : 20.02 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AHT-I Name : Ashford Hospitality Trust Inc 7.50% High : 20.19 Low : 19.75 Close : 20.10 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AI Name : Arlington Asset Investment Corp High : 6.715 Low : 6.651 Close : 6.700 Volume : 25.95M DivYield : 17.38 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 173.87M
+Code : AI-B Name : Arlington Asset 7.00% Series B Pfd High : 21.89 Low : 21.40 Close : 21.89 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AI-C Name : Arlington Asset Investment Corp Cum Pfd High : 23.25 Low : 23.20 Close : 23.20 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIC Name : Arlington Asset Investment Cor High : 24.75 Low : 24.69 Close : 24.72 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIF Name : Apollo Tactical Income Fund Inc High : 14.78 Low : 14.69 Close : 14.74 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIG Name : American International Group High : 56.46 Low : 55.70 Close : 56.32 Volume : 903.33M DivYield : 1.97 Earning_Per_Share : 0.0 PEG ratio : 0.13 Market_Capitalization : 50.88B
+Code : AIG-A Name : American International Group Inc Dep Shs High : 27.14 Low : 26.84 Close : 27.07 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIG.W Name : American International Group High : 15.22 Low : 14.77 Close : 15.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIN Name : Albany International Corp High : 79.32 Low : 77.77 Close : 79.00 Volume : 32.07M DivYield : 1.17 Earning_Per_Share : 1.27 PEG ratio : 2.03 Market_Capitalization : 2.53B
+Code : AIR Name : AAR Corp High : 42.41 Low : 41.40 Close : 42.38 Volume : 33.93M DivYield : 0.78 Earning_Per_Share : 1.66 PEG ratio : 0.9 Market_Capitalization : 1.44B
+Code : AIT Name : Applied Industrial Technologies High : 61.54 Low : 59.86 Close : 61.32 Volume : 39.07M DivYield : 1.79 Earning_Per_Share : 3.4 PEG ratio : 1.7 Market_Capitalization : 2.40B
+Code : AIV Name : Apartment Investment and Management High : 50.71 Low : 49.87 Close : 50.03 Volume : 157.09M DivYield : 3.25 Earning_Per_Share : 1.27 PEG ratio : 14.89 Market_Capitalization : 7.86B
+Code : AIW Name : Arlington Asset Investment Cor High : 24.45 Low : 24.35 Close : 24.45 Volume : 25.95M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 634.48M
+Code : AIY Name : Apollo Investment Corp High : 25.14 Low : 25.10 Close : 25.10 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.083 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AIZ Name : Assurant Inc High : 114.9 Low : 112.8 Close : 114.6 Volume : 53.87M DivYield : 2.11 Earning_Per_Share : 7.61 PEG ratio : 1.47 Market_Capitalization : 6.17B
+Code : AIZP Name : Assurant Inc 6.50% Series D Mandatory High : 118.1 Low : 117.7 Close : 118.0 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AJG Name : Arthur J. Gallagher & CO High : 92.16 Low : 91.31 Close : 91.81 Volume : 180.20M DivYield : 2.51 Earning_Per_Share : 2.48 PEG ratio : 2.09 Market_Capitalization : 16.54B
+Code : AJRD Name : Aerojet Rocketdyne Holdings High : 43.87 Low : 43.06 Close : 43.48 Volume : 75.08M DivYield : 0.0 Earning_Per_Share : 0.52 PEG ratio : 1.8 Market_Capitalization : 3.26B
+Code : AJX Name : Great Ajax Corp High : 14.06 Low : 13.89 Close : 14.01 Volume : 17.62M DivYield : 8.55 Earning_Per_Share : 1.57 PEG ratio : 0.0 Market_Capitalization : 246.91M
+Code : AJXA Name : Great Ajax Corp 7.25% Convertible Senior High : 25.80 Low : 25.73 Close : 25.77 Volume : 4.32M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 111.32M
+Code : AKO.A Name : Embotell Andina Sa Cl A High : 18.01 Low : 18.01 Close : 18.01 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AKO.B Name : Embotell Andna Sa Cl B High : 21.26 Low : 21.06 Close : 21.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AKR Name : Acadia Realty Trust High : 28.27 Low : 27.96 Close : 28.21 Volume : 83.71M DivYield : 3.64 Earning_Per_Share : 0.65 PEG ratio : 20.68 Market_Capitalization : 2.36B
+Code : AKS Name : AK Steel Holding Corp High : 3.030 Low : 2.510 Close : 3.000 Volume : 314.05M DivYield : 0.0 Earning_Per_Share : 0.38 PEG ratio : 0.28 Market_Capitalization : 942.15M
+Code : AL Name : Air Lease Corp Cl A High : 42.83 Low : 40.45 Close : 42.74 Volume : 103.23M DivYield : 0.69 Earning_Per_Share : 3.43 PEG ratio : 0.9 Market_Capitalization : 4.41B
+Code : AL-A Name : Air Lease Corp [Al/Pa] High : 26.83 Low : 26.53 Close : 26.64 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALB Name : Albemarle Corp High : 73.80 Low : 72.06 Close : 73.60 Volume : 110.44M DivYield : 0.92 Earning_Per_Share : 7.82 PEG ratio : 2.12 Market_Capitalization : 8.13B
+Code : ALC Name : Alcon Inc High : 59.40 Low : 58.55 Close : 59.05 Volume : 23.18M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 1.37B
+Code : ALE Name : Allete Inc High : 87.47 Low : 86.44 Close : 87.10 Volume : 50.95M DivYield : 2.71 Earning_Per_Share : 3.4 PEG ratio : 4.7 Market_Capitalization : 4.44B
+Code : ALEX Name : Alexander and Baldwin Inc High : 23.85 Low : 23.14 Close : 23.84 Volume : 49.12M DivYield : 0.62 Earning_Per_Share : 0.2 PEG ratio : 4.42 Market_Capitalization : 1.17B
+Code : ALG Name : Alamo Group High : 99.60 Low : 97.59 Close : 99.53 Volume : 11.65M DivYield : 0.37 Earning_Per_Share : 3.89 PEG ratio : 3.9 Market_Capitalization : 1.16B
+Code : ALK Name : Alaska Air Group High : 64.56 Low : 63.49 Close : 64.01 Volume : 123.46M DivYield : 1.8 Earning_Per_Share : 6.15 PEG ratio : 2.29 Market_Capitalization : 7.90B
+Code : ALL Name : Allstate Corp High : 102.5 Low : 101.2 Close : 101.8 Volume : 361.36M DivYield : 1.58 Earning_Per_Share : 6.77 PEG ratio : 0.85 Market_Capitalization : 36.80B
+Code : ALL-A Name : Allstate Corp Pfd High : 25.79 Low : 25.56 Close : 25.61 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-B Name : Ally Financial Inc Fixed Rate F High : 26.72 Low : 26.54 Close : 26.62 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-D Name : Allstate Corp High : 26.20 Low : 26.01 Close : 26.15 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-E Name : The Allstate Corp High : 25.61 Low : 25.56 Close : 25.57 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-F Name : The Allstate Corp High : 25.85 Low : 25.70 Close : 25.81 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-G Name : Allstate Corp Dep Shs Repstg 1/1000Th High : 27.04 Low : 26.86 Close : 26.86 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALL-Y Name : GMAC Capital Trust I Fixed Rate High : 26.57 Low : 26.42 Close : 26.43 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALLE Name : Allegion Plc High : 104.5 Low : 103.1 Close : 104.3 Volume : 95.03M DivYield : 0.79 Earning_Per_Share : 2.59 PEG ratio : 1.53 Market_Capitalization : 9.91B
+Code : ALLY Name : Ally Financial High : 33.77 Low : 32.96 Close : 33.77 Volume : 479.83M DivYield : 1.84 Earning_Per_Share : 1.96 PEG ratio : 2.25 Market_Capitalization : 16.20B
+Code : ALP-Q Name : Alabama Power Co. Pfd High : 26.79 Low : 26.38 Close : 26.38 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ALSN Name : Allison Transmission Holdings High : 46.88 Low : 45.52 Close : 46.85 Volume : 148.81M DivYield : 1.46 Earning_Per_Share : 1.76 PEG ratio : 0.9 Market_Capitalization : 6.97B
+Code : ALV Name : Autoliv Inc High : 72.97 Low : 72.17 Close : 72.59 Volume : 86.91M DivYield : 1.94 Earning_Per_Share : 6.33 PEG ratio : 2.13 Market_Capitalization : 6.31B
+Code : ALX Name : Alexander's Inc High : 375.0 Low : 364.9 Close : 371.7 Volume : 5.10M DivYield : 4.1 Earning_Per_Share : 16.62 PEG ratio : 0.0 Market_Capitalization : 1.90B
+Code : AM Name : Antero Midstream Corp High : 9.215 Low : 8.740 Close : 9.040 Volume : 186.58M DivYield : 4.72 Earning_Per_Share : 1.47 PEG ratio : 1.13 Market_Capitalization : 1.69B
+Code : AMBR Name : Amber Road Inc High : 13.05 Low : 13.04 Close : 13.05 Volume : 27.16M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 354.42M
+Code : AMC Name : Amc Entertainment Holdings Inc High : 11.74 Low : 11.13 Close : 11.74 Volume : 130.85M DivYield : 5.44 Earning_Per_Share : 0.0 PEG ratio : 1.25 Market_Capitalization : 1.54B
+Code : AMCR Name : Amcor Plc High : 10.82 Low : 10.52 Close : 10.61 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AME Name : Amtek Inc High : 92.14 Low : 88.27 Close : 90.75 Volume : 230.81M DivYield : 0.52 Earning_Per_Share : 2.28 PEG ratio : 3.16 Market_Capitalization : 20.95B
+Code : AMG Name : Affiliated Managers Group High : 86.78 Low : 83.63 Close : 86.78 Volume : 55.96M DivYield : 0.42 Earning_Per_Share : 9.03 PEG ratio : 0.93 Market_Capitalization : 4.86B
+Code : AMH Name : American Homes 4 Rent High : 25.33 Low : 24.77 Close : 24.83 Volume : 260.24M DivYield : 0.94 Earning_Per_Share : 0.0 PEG ratio : 21.15 Market_Capitalization : 6.46B
+Code : AMH-D Name : American Homes 4 Rent High : 27.65 Low : 27.54 Close : 27.65 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-E Name : American Homes 4 Rent 6.35% Ser High : 27.59 Low : 27.48 Close : 27.59 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-F Name : American Homes 4 Rent Cum Red Perp Pfd High : 26.60 Low : 26.34 Close : 26.40 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-G Name : American Homes 4 Rent Series G Pfd High : 27.27 Low : 26.64 Close : 27.01 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMH-H Name : American Homes 4 Rent Perp Cum Red Pfd High : 27.40 Low : 27.08 Close : 27.14 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMID Name : American Midstreampartners LP High : 5.250 Low : 5.230 Close : 5.240 Volume : 52.71M DivYield : 12.64 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 276.22M
+Code : AMK Name : Assetmark Financial Holdings Inc High : 28.61 Low : 27.82 Close : 28.50 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMN Name : Amn Healthcare Services Inc High : 55.05 Low : 54.33 Close : 54.42 Volume : 48.04M DivYield : 0.0 Earning_Per_Share : 2.37 PEG ratio : 1.39 Market_Capitalization : 2.61B
+Code : AMOV Name : America Movil A ADR High : 14.41 Low : 14.18 Close : 14.41 Volume : 3.29B DivYield : 1.86 Earning_Per_Share : 0.8 PEG ratio : 0.0 Market_Capitalization : 47.37B
+Code : AMP Name : Ameriprise Financial Services High : 148.7 Low : 146.9 Close : 148.5 Volume : 149.92M DivYield : 2.15 Earning_Per_Share : 8.73 PEG ratio : 0.92 Market_Capitalization : 22.27B
+Code : AMRC Name : Ameresco Inc High : 14.35 Low : 14.08 Close : 14.31 Volume : 45.53M DivYield : 0.0 Earning_Per_Share : 0.3 PEG ratio : 3.18 Market_Capitalization : 651.50M
+Code : AMRX Name : Amneal Pharmaceuticals Inc High : 3.770 Low : 3.600 Close : 3.730 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AMT Name : American Tower Corp High : 209.0 Low : 205.6 Close : 208.7 Volume : 429.19M DivYield : 1.9 Earning_Per_Share : 2.5 PEG ratio : 1.99 Market_Capitalization : 89.55B
+Code : AMX Name : America Movil S.A.B. DE C.V. High : 14.58 Low : 14.35 Close : 14.42 Volume : 3.29B DivYield : 1.93 Earning_Per_Share : 0.8 PEG ratio : 0.25 Market_Capitalization : 47.41B
+Code : AN Name : Autonation Inc High : 48.72 Low : 48.22 Close : 48.65 Volume : 100.42M DivYield : 0.0 Earning_Per_Share : 4.02 PEG ratio : 2.62 Market_Capitalization : 4.89B
+Code : ANDX Name : Andeavor Logistics LP High : 34.38 Low : 31.75 Close : 32.17 Volume : 108.16M DivYield : 8.53 Earning_Per_Share : 1.92 PEG ratio : 0.0 Market_Capitalization : 3.48B
+Code : ANET Name : Arista Networks Inc High : 275.9 Low : 269.6 Close : 274.3 Volume : 72.53M DivYield : 0.0 Earning_Per_Share : 3.88 PEG ratio : 1.94 Market_Capitalization : 19.89B
+Code : ANF Name : Abercrombie & Fitch Company High : 18.83 Low : 18.46 Close : 18.78 Volume : 68.09M DivYield : 5.48 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 1.28B
+Code : ANFI Name : Amira Nature Foods Ltd High : 0.6600 Low : 0.6200 Close : 0.6530 Volume : 36.83M DivYield : 0.0 Earning_Per_Share : 0.84 PEG ratio : 0.23 Market_Capitalization : 24.05M
+Code : ANH Name : Anworth Mortgage Asset Corp High : 3.930 Low : 3.880 Close : 3.920 Volume : 97.55M DivYield : 10.49 Earning_Per_Share : 0.63 PEG ratio : 0.0 Market_Capitalization : 382.40M
+Code : ANH-A Name : Anworth Mtg Pfd A High : 26.06 Low : 25.80 Close : 26.06 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ANH-B Name : Anworth 6.25 Pr S B High : 22.69 Low : 22.69 Close : 22.69 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ANH-C Name : Anworth Mortgage Asset Corp High : 25.42 Low : 25.42 Close : 25.42 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ANTM Name : Anthem Inc High : 300.0 Low : 295.0 Close : 299.6 Volume : 262.56M DivYield : 1.43 Earning_Per_Share : 10.57 PEG ratio : 1.37 Market_Capitalization : 78.67B
+Code : AOD Name : Alpine Total Dynamic Dividend High : 8.410 Low : 8.360 Close : 8.390 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AON Name : AON Plc High : 195.1 Low : 192.4 Close : 193.2 Volume : 254.34M DivYield : 0.99 Earning_Per_Share : 6.85 PEG ratio : 1.7 Market_Capitalization : 49.13B
+Code : AOS Name : Smith [A.O.] Corp High : 45.35 Low : 41.01 Close : 45.29 Volume : 172.48M DivYield : 0.94 Earning_Per_Share : 1.97 PEG ratio : 3.5 Market_Capitalization : 7.81B
+Code : AP Name : Ampco-Pittsburgh Corp High : 3.630 Low : 3.460 Close : 3.520 Volume : 12.36M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 43.51M
+Code : APA Name : Apache Corp High : 24.37 Low : 23.08 Close : 24.10 Volume : 380.95M DivYield : 2.53 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 9.18B
+Code : APAM Name : Artisan Partners Asset Mgmt High : 29.77 Low : 29.22 Close : 29.61 Volume : 49.79M DivYield : 6.78 Earning_Per_Share : 1.7 PEG ratio : 1.37 Market_Capitalization : 1.47B
+Code : APC Name : Anadarko Petroleum Corp High : 74.07 Low : 73.04 Close : 74.04 Volume : 560.34M DivYield : 0.42 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 41.49B
+Code : APD Name : Air Products and Chemicals High : 232.5 Low : 229.2 Close : 231.8 Volume : 217.93M DivYield : 2.35 Earning_Per_Share : 13.31 PEG ratio : 5.3 Market_Capitalization : 50.52B
+Code : APH Name : Amphenol Corp High : 95.47 Low : 94.55 Close : 94.76 Volume : 305.43M DivYield : 0.89 Earning_Per_Share : 2.97 PEG ratio : 2.55 Market_Capitalization : 28.94B
+Code : APHA Name : Aphria Inc High : 5.680 Low : 5.240 Close : 5.500 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APLE Name : Apple Hospitality REIT Inc High : 15.85 Low : 15.66 Close : 15.81 Volume : 223.28M DivYield : 6.35 Earning_Per_Share : 0.82 PEG ratio : 0.0 Market_Capitalization : 3.53B
+Code : APO Name : Apollo Global Management Llc C High : 35.19 Low : 34.24 Close : 35.05 Volume : 193.99M DivYield : 6.45 Earning_Per_Share : 2.55 PEG ratio : 1.38 Market_Capitalization : 6.80B
+Code : APO-A Name : Apollo Global Management Llc Pfd Ser A High : 26.50 Low : 26.16 Close : 26.26 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APO-B Name : Apollo Global Management Llc Pfd Ser B High : 26.87 Low : 26.71 Close : 26.80 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APRN Name : Blue Apron Holdings Inc High : 9.300 Low : 8.700 Close : 8.740 Volume : 30.04M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 262.57M
+Code : APTS Name : Preferred Apartment Communities High : 14.81 Low : 14.14 Close : 14.68 Volume : 33.32M DivYield : 4.88 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 489.15M
+Code : APTV Name : Aptiv Plc High : 81.72 Low : 79.99 Close : 81.57 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : APU Name : Amerigas Partners LP High : 34.44 Low : 33.89 Close : 33.91 Volume : 92.89M DivYield : 8.44 Earning_Per_Share : 0.53 PEG ratio : 2.99 Market_Capitalization : 3.15B
+Code : APY Name : Apergy Corp High : 32.93 Low : 30.71 Close : 32.64 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQ Name : Aquantia Corp High : 13.15 Low : 13.08 Close : 13.13 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQN Name : Algonquin Pwr & Util High : 12.63 Low : 12.51 Close : 12.54 Volume : 385.98M DivYield : 4.36 Earning_Per_Share : 0.18 PEG ratio : 0.0 Market_Capitalization : 4.84B
+Code : AQNA Name : Algonquin Power & Utilities Corp High : 27.46 Low : 27.17 Close : 27.46 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQNB Name : Algonquin Power & Utilities Corp. 6.20% High : 26.77 Low : 26.65 Close : 26.70 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AQUA Name : Evoqua Water Technologies Corp High : 14.39 Low : 13.84 Close : 14.21 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AR Name : Antero Resources Corp High : 4.640 Low : 3.950 Close : 4.540 Volume : 315.73M DivYield : 0.0 Earning_Per_Share : 0.04 PEG ratio : 2 Market_Capitalization : 1.43B
+Code : ARA Name : American Renal Associates High : 8.140 Low : 7.690 Close : 7.970 Volume : 31.29M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 1.12 Market_Capitalization : 249.34M
+Code : ARC Name : American Reprographics Company High : 1.855 Low : 1.820 Close : 1.840 Volume : 46.44M DivYield : 0.0 Earning_Per_Share : 0.24 PEG ratio : 2.32 Market_Capitalization : 85.45M
+Code : ARCH Name : Arch Coal Inc High : 91.82 Low : 88.58 Close : 91.60 Volume : 24.34M DivYield : 1.94 Earning_Per_Share : 71.83 PEG ratio : 0.0 Market_Capitalization : 2.23B
+Code : ARCO Name : Arcos Dorados Holdings Inc High : 8.330 Low : 8.071 Close : 8.190 Volume : 210.89M DivYield : 0.0 Earning_Per_Share : 0.26 PEG ratio : 2.19 Market_Capitalization : 1.73B
+Code : ARD Name : Ardagh Group S.A. High : 16.83 Low : 16.28 Close : 16.53 Volume : 236.18M DivYield : 2.71 Earning_Per_Share : 0.0 PEG ratio : 0.32 Market_Capitalization : 3.90B
+Code : ARDC Name : Ares Dynamic Credit Allocation High : 15.25 Low : 15.14 Close : 15.24 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARE Name : Alexandria Real Estate Equities High : 150.5 Low : 146.3 Close : 148.0 Volume : 93.65M DivYield : 2.83 Earning_Per_Share : 0.44 PEG ratio : 828.1 Market_Capitalization : 13.86B
+Code : ARE-A Name : Ares Management Corp High : 27.15 Low : 26.78 Close : 26.78 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARE-D Name : Alexandria Real Estate Equitie High : 38.86 Low : 38.30 Close : 38.79 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARES Name : Ares Management LP High : 29.51 Low : 28.71 Close : 29.49 Volume : 213.98M DivYield : 4.96 Earning_Per_Share : 0.75 PEG ratio : 0.64 Market_Capitalization : 6.31B
+Code : ARGD Name : Argo Grp Itl Snr NTS High : 25.77 Low : 25.66 Close : 25.77 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARGO Name : Argo Group Intl Hlds High : 69.27 Low : 67.67 Close : 68.69 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARI Name : Apollo Commercial Real Estate High : 18.81 Low : 18.61 Close : 18.77 Volume : 105.49M DivYield : 10.17 Earning_Per_Share : 2.02 PEG ratio : 32.77 Market_Capitalization : 1.98B
+Code : ARL Name : American Realty Investors High : 15.84 Low : 15.38 Close : 15.38 Volume : 15.37M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 236.45M
+Code : ARLO Name : Arlo Technologies Inc High : 4.455 Low : 4.280 Close : 4.410 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARMK Name : Aramark Holdings Corp High : 36.99 Low : 36.21 Close : 36.98 Volume : 245.01M DivYield : 0.96 Earning_Per_Share : 1.38 PEG ratio : 1.59 Market_Capitalization : 9.06B
+Code : ARNC Name : Arconic Inc High : 25.17 Low : 24.79 Close : 25.14 Volume : 440.88M DivYield : 0.98 Earning_Per_Share : 0.0 PEG ratio : 0.91 Market_Capitalization : 11.08B
+Code : AROC Name : Archrock Inc High : 11.04 Low : 9.98 Close : 11.01 Volume : 70.94M DivYield : 4.1 Earning_Per_Share : 0.0 PEG ratio : 4.53 Market_Capitalization : 781.04M
+Code : ARR Name : Armour Residential R High : 18.05 Low : 17.38 Close : 18.04 Volume : 41.31M DivYield : 8.96 Earning_Per_Share : 7.6 PEG ratio : 0.0 Market_Capitalization : 745.16M
+Code : ARR-A Name : Armour Residential REIT Inc High : 25.00 Low : 24.99 Close : 24.99 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARR-B Name : Armour Residential REIT Inc High : 25.20 Low : 25.15 Close : 25.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ARW Name : Arrow Electronics High : 72.66 Low : 70.81 Close : 72.63 Volume : 88.22M DivYield : 0.0 Earning_Per_Share : 5.47 PEG ratio : 1.2 Market_Capitalization : 6.41B
+Code : ASA Name : ASA Gold and Precious Metals High : 12.49 Low : 12.38 Close : 12.44 Volume : 19.29M DivYield : 0.35 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 239.95M
+Code : ASB Name : Associated Banc-Corp High : 21.72 Low : 21.21 Close : 21.65 Volume : 151.47M DivYield : 2.17 Earning_Per_Share : 1.39 PEG ratio : 2.56 Market_Capitalization : 3.28B
+Code : ASB-C Name : Associated Banc-Corp Depositary High : 26.24 Low : 26.24 Close : 26.24 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASB-D Name : Associated Banc-Corp High : 25.59 Low : 25.53 Close : 25.54 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASB-E Name : Associated Banc-Corp Depositary Shs High : 26.79 Low : 26.35 Close : 26.59 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASC Name : Ardmore Shipping Corp High : 7.460 Low : 7.140 Close : 7.290 Volume : 33.57M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 244.76M
+Code : ASG Name : Liberty All-Star Growth Fund High : 5.950 Low : 5.890 Close : 5.930 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.22 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ASGN Name : On Assignment High : 62.89 Low : 62.09 Close : 62.86 Volume : 52.87M DivYield : 0.0 Earning_Per_Share : 2.04 PEG ratio : 2.3 Market_Capitalization : 3.32B
+Code : ASH Name : Ashland Global Holdings Inc High : 80.64 Low : 78.86 Close : 80.43 Volume : 62.47M DivYield : 1.32 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 5.02B
+Code : ASIX Name : Advansix Inc High : 26.06 Low : 24.85 Close : 25.89 Volume : 30.54M DivYield : 0.0 Earning_Per_Share : 1.46 PEG ratio : 0.0 Market_Capitalization : 790.67M
+Code : ASPN Name : Aspen Aerogels Inc High : 6.560 Low : 6.340 Close : 6.430 Volume : 20.58M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 132.34M
+Code : ASR Name : Grupo Aeroportuario Del Sureste High : 159.3 Low : 155.8 Close : 158.0 Volume : 30.02M DivYield : 1.89 Earning_Per_Share : 8.09 PEG ratio : 4.95 Market_Capitalization : 4.74B
+Code : ASX Name : Ase Industrial Holding Co. Ltd High : 4.380 Low : 4.330 Close : 4.370 Volume : 1.62B DivYield : 3.7 Earning_Per_Share : 0.45 PEG ratio : 1.35 Market_Capitalization : 7.09B
+Code : AT Name : Atlantic Power Corp High : 2.400 Low : 2.350 Close : 2.370 Volume : 115.28M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.69 Market_Capitalization : 273.21M
+Code : ATEN Name : A10 Networks Inc High : 7.390 Low : 7.180 Close : 7.250 Volume : 59.03M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 427.96M
+Code : ATGE Name : Adtalem Global Education Inc High : 48.99 Low : 47.68 Close : 48.97 Volume : 61.98M DivYield : 0.0 Earning_Per_Share : 1.91 PEG ratio : 1.96 Market_Capitalization : 3.04B
+Code : ATH Name : Athene Holding Ltd High : 41.89 Low : 41.41 Close : 41.83 Volume : 200.04M DivYield : 0.0 Earning_Per_Share : 6.18 PEG ratio : 0.64 Market_Capitalization : 8.37B
+Code : ATH-A Name : Athene Holding Ltd. Pfd A High : 27.14 Low : 26.95 Close : 27.00 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : ATHM Name : Autohome Inc High : 85.00 Low : 83.68 Close : 84.06 Volume : 116.07M DivYield : 0.0 Earning_Per_Share : 1.94 PEG ratio : 41.63 Market_Capitalization : 9.76B
+Code : ATI Name : Allegheny Technologies Inc High : 22.48 Low : 22.10 Close : 22.10 Volume : 108.70M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 5.01 Market_Capitalization : 2.40B
+Code : ATKR Name : Atkore International Group High : 27.37 Low : 26.60 Close : 27.35 Volume : 64.22M DivYield : 0.0 Earning_Per_Share : 1.21 PEG ratio : 1.54 Market_Capitalization : 1.76B
+Code : ATO Name : Atmos Energy Corp High : 110.0 Low : 108.2 Close : 108.9 Volume : 106.08M DivYield : 2.08 Earning_Per_Share : 3.73 PEG ratio : 3.15 Market_Capitalization : 11.55B
+Code : ATR Name : Aptargroup High : 124.6 Low : 123.0 Close : 123.8 Volume : 62.78M DivYield : 1.44 Earning_Per_Share : 3.4 PEG ratio : 2.92 Market_Capitalization : 7.77B
+Code : ATTO Name : Atento S.A. High : 2.270 Low : 2.190 Close : 2.240 Volume : 73.91M DivYield : 0.0 Earning_Per_Share : 0.24 PEG ratio : 1.27 Market_Capitalization : 165.56M
+Code : ATU Name : Actuant Corp High : 23.13 Low : 22.38 Close : 23.10 Volume : 59.57M DivYield : 0.15 Earning_Per_Share : 0.0 PEG ratio : 3.32 Market_Capitalization : 1.38B
+Code : ATUS Name : Altice USA Inc Cl A High : 26.34 Low : 25.87 Close : 26.12 Volume : 737.02M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 19.25B
+Code : ATV Name : Acorn International High : 18.08 Low : 17.75 Close : 18.00 Volume : 3.93M DivYield : 0.0 Earning_Per_Share : 0.91 PEG ratio : 0.0 Market_Capitalization : 70.73M
+Code : AU Name : Anglogold Ashanti Ltd High : 19.08 Low : 18.72 Close : 18.74 Volume : 408.90M DivYield : 1.05 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 7.66B
+Code : AUO Name : Au Optronics Corp High : 2.650 Low : 2.590 Close : 2.630 Volume : 961.26M DivYield : 4.6 Earning_Per_Share : 1.19 PEG ratio : 0.05 Market_Capitalization : 2.53B
+Code : AUY Name : Yamana Gold High : 3.100 Low : 2.920 Close : 3.070 Volume : 949.02M DivYield : 0.81 Earning_Per_Share : 0.0 PEG ratio : 5.31 Market_Capitalization : 2.91B
+Code : AVA Name : Avista Corp High : 46.03 Low : 45.51 Close : 46.02 Volume : 64.39M DivYield : 2.74 Earning_Per_Share : 2.12 PEG ratio : 4.74 Market_Capitalization : 2.96B
+Code : AVAL Name : Grupo Aval Acciones Y Valores S High : 7.780 Low : 7.540 Close : 7.540 Volume : 1.11B DivYield : 4.56 Earning_Per_Share : 0.62 PEG ratio : 0.0 Market_Capitalization : 8.40B
+Code : AVB Name : Avalonbay Communities High : 213.2 Low : 209.9 Close : 210.9 Volume : 137.74M DivYield : 3.14 Earning_Per_Share : 7.26 PEG ratio : 10.23 Market_Capitalization : 29.04B
+Code : AVD Name : American Vanguard Corp High : 14.69 Low : 13.89 Close : 14.55 Volume : 29.78M DivYield : 0.27 Earning_Per_Share : 0.49 PEG ratio : 2.17 Market_Capitalization : 433.34M
+Code : AVH Name : Avianca Holdings S.A. High : 4.090 Low : 4.000 Close : 4.070 Volume : 124.62M DivYield : 5.6 Earning_Per_Share : 0.47 PEG ratio : 0.0 Market_Capitalization : 507.22M
+Code : AVK Name : Advent Claymore Convertible Securities High : 15.05 Low : 14.96 Close : 15.00 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.28 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVLR Name : Avalara Inc High : 83.57 Low : 81.67 Close : 83.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVNS Name : Avanos Medical Inc High : 42.78 Low : 41.90 Close : 42.16 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVP Name : Avon Products High : 4.167 Low : 3.930 Close : 4.130 Volume : 439.95M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.16 Market_Capitalization : 1.82B
+Code : AVT-A Name : Avantor Inc [Avtr/Pa] High : 63.16 Low : 62.17 Close : 62.39 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVTR Name : Avantor Inc High : 18.17 Low : 17.63 Close : 17.71 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AVX Name : Avx Corp High : 15.66 Low : 14.95 Close : 15.66 Volume : 168.30M DivYield : 2.49 Earning_Per_Share : 0.76 PEG ratio : 2.86 Market_Capitalization : 2.64B
+Code : AVY Name : Avery Dennison Corp High : 116.4 Low : 114.6 Close : 116.1 Volume : 88.40M DivYield : 1.7 Earning_Per_Share : 4.26 PEG ratio : 1.72 Market_Capitalization : 10.26B
+Code : AVYA Name : Avaya Holdings Corp High : 11.77 Low : 11.22 Close : 11.76 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AWF Name : Alliancebernstein Global High Income High : 12.03 Low : 11.97 Close : 12.01 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 2.17 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AWI Name : Armstrong World Industries Inc High : 98.68 Low : 93.75 Close : 98.45 Volume : 52.85M DivYield : 0.0 Earning_Per_Share : 3.08 PEG ratio : 1.65 Market_Capitalization : 5.20B
+Code : AWK Name : American Water Works High : 116.2 Low : 114.6 Close : 115.1 Volume : 178.28M DivYield : 1.89 Earning_Per_Share : 2.65 PEG ratio : 3.98 Market_Capitalization : 20.52B
+Code : AWP Name : Alpine Global Premier Propertie High : 6.320 Low : 6.230 Close : 6.250 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AWR Name : American States Water Company High : 77.69 Low : 76.79 Close : 77.23 Volume : 36.71M DivYield : 1.85 Earning_Per_Share : 1.85 PEG ratio : 6.51 Market_Capitalization : 2.84B
+Code : AX Name : Axos Financial Inc High : 27.74 Low : 26.60 Close : 27.72 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXE Name : Anixter International Inc High : 66.00 Low : 63.61 Close : 65.92 Volume : 33.24M DivYield : 0.0 Earning_Per_Share : 4.38 PEG ratio : 1.36 Market_Capitalization : 2.19B
+Code : AXL Name : American Axle & Manufacturing High : 12.28 Low : 11.75 Close : 12.26 Volume : 111.29M DivYield : 0.0 Earning_Per_Share : 2.9 PEG ratio : 0.0 Market_Capitalization : 1.36B
+Code : AXO Name : Axos Financial Inc High : 25.86 Low : 25.72 Close : 25.86 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXP Name : American Express Company High : 126.9 Low : 126.3 Close : 126.5 Volume : 884.02M DivYield : 1.46 Earning_Per_Share : 4.88 PEG ratio : 1.49 Market_Capitalization : 111.80B
+Code : AXR Name : Amrep Corp High : 6.250 Low : 6.240 Close : 6.250 Volume : 8.06M DivYield : 0.0 Earning_Per_Share : 0.098 PEG ratio : 0.0 Market_Capitalization : 50.39M
+Code : AXS Name : Axis Capital Holdings High : 61.98 Low : 61.02 Close : 61.37 Volume : 83.09M DivYield : 2.77 Earning_Per_Share : 4.53 PEG ratio : 0.0 Market_Capitalization : 5.10B
+Code : AXS-D Name : Axis Capital Holdings Ltd High : 25.55 Low : 25.30 Close : 25.36 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXS-E Name : Axis Capital Holdings Ltd High : 25.50 Low : 25.41 Close : 25.41 Volume : 0.0 DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 0.0
+Code : AXTA Name : Axalta Coating Systems Ltd High : 30.32 Low : 29.75 Close : 30.31 Volume : 243.14M DivYield : 0.0 Earning_Per_Share : 0.01 PEG ratio : 2.27 Market_Capitalization : 7.37B
+Code : AYI Name : Acuity Brands Inc High : 136.6 Low : 134.0 Close : 136.4 Volume : 41.91M DivYield : 0.33 Earning_Per_Share : 7.43 PEG ratio : 0.88 Market_Capitalization : 5.72B
+Code : AYR Name : Aircastle Ltd High : 21.26 Low : 20.40 Close : 21.24 Volume : 78.57M DivYield : 4.54 Earning_Per_Share : 1.66 PEG ratio : 2.18 Market_Capitalization : 1.67B
+Code : AYX Name : Alteryx Inc High : 123.1 Low : 119.0 Close : 119.6 Volume : 58.96M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 7.05B
+Code : AZN Name : Astrazeneca Plc High : 44.06 Low : 43.67 Close : 43.86 Volume : 2.53B DivYield : 2.68 Earning_Per_Share : 1.52 PEG ratio : 2.37 Market_Capitalization : 111.06B
+Code : AZO Name : Autozone High : 1,148 Low : 1,140 Close : 1,144 Volume : 27.83M DivYield : 0.0 Earning_Per_Share : 44.07 PEG ratio : 1.25 Market_Capitalization : 31.84B
+Code : AZRE Name : Azure Power Global Ltd High : 10.93 Low : 10.52 Close : 10.93 Volume : 25.94M DivYield : 0.0 Earning_Per_Share : 0.0 PEG ratio : 0.0 Market_Capitalization : 283.48M
+Code : AZUL Name : Azul S.A. ADR High : 42.31 Low : 41.30 Close : 41.78 Volume : 110.01M DivYield : 0.0 Earning_Per_Share : 0.28 PEG ratio : 0.0 Market_Capitalization : 4.60B
+Code : AZZ Name : Azz Inc High : 47.26 Low : 46.01 Close : 46.98 Volume : 26.01M DivYield : 1.43 Earning_Per_Share : 1.97 PEG ratio : 2.46 Market_Capitalization : 1.22B

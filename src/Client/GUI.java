@@ -42,6 +42,10 @@ public class GUI extends Application implements Observer<Lakshmi>
     private Portfolio portfolio_read;
     private Label statae = new Label();
     private Raavan raavan;
+    private TextField search_bar = new TextField();
+    private Label Stock_info = new Label();
+    private String Code;
+    Button go_back = new Button();
 
     private Scene scene_initial, scene_portfolio;
 
@@ -89,19 +93,17 @@ public class GUI extends Application implements Observer<Lakshmi>
         // button portfolio
         Button portfolio_viewer = new Button();
         portfolio_viewer.setGraphic(new ImageView(this.portfolio));
-        portfolio_viewer.setOnAction(e -> stage.setScene(scene_portfolio));
+        portfolio_viewer.setOnAction(e -> set_scene_portfolio(stage));
 
         // creating a VBox to have a search bar and a label to display the stock
-        TextField search_bar = new TextField();
-
-        String Code = search_bar.getText();
         //setting the label
-        Label Stock_info = new Label();
-        Stock_info.setText(laskhmi.getAStock(Code).toString());
+        //setting up a button to search and get the code
+        Button search_button = new Button();
+        search_button.setText("Search");
+        search_button.setOnAction(e -> set_text());
         //setting up the vbox
         VBox vBox = new VBox();
-        vBox.getChildren().addAll(search_bar, Stock_info);
-
+        vBox.getChildren().addAll(search_bar, search_button, Stock_info);
         // button stop and a Vbox to  display the status
         Button stop_execution = new Button();
         stop_execution.setGraphic(new ImageView(this.stop));
@@ -120,7 +122,6 @@ public class GUI extends Application implements Observer<Lakshmi>
         drop_stock.setOnAction(e -> user.DROP(Code));
 
         // button go_back
-        Button go_back = new Button();
         go_back.setOnAction(e -> stage.setScene(scene_initial));
 
         // setting the scene background
@@ -130,7 +131,26 @@ public class GUI extends Application implements Observer<Lakshmi>
         borderPane.setLeft(add_stock);
         borderPane.setRight(drop_stock);
 
+        scene_initial = new Scene(borderPane);
+        stage.setScene(scene_initial);
+        stage.setTitle("Kuberā");
 
+        stage.show();
+
+        this.user.startListener();
+    }
+
+    public void set_text()
+    {
+        Code = search_bar.getText();
+        System.out.println(this.laskhmi.Stock_Market.get(Code).toString());
+//        Stock stock = this.laskhmi.getAStock(Code);
+//        System.out.println(stock.toString());
+//        Stock_info.setText(stock.toString());
+    }
+
+    public void set_scene_portfolio(Stage stage)
+    {
         //setting up scene portfolio
         VBox vBox1 = new VBox();
         VBox temp = new VBox();
@@ -146,14 +166,8 @@ public class GUI extends Application implements Observer<Lakshmi>
         vBox1.getChildren().addAll(information, temp, go_back, statae);
 
         scene_portfolio = new Scene(vBox1);
+        stage.setScene(scene_portfolio);
 
-        scene_initial = new Scene(borderPane);
-        stage.setScene(scene_initial);
-        stage.setTitle("Kuberā");
-
-        stage.show();
-
-        this.user.startListener();
     }
 
     /**

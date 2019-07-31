@@ -17,7 +17,7 @@ import java.util.Map;
 public class Lakshmi
 {
     // A representation of the NYSE as a Map <stock code listing of stock>
-    private Map<String, Stock> Stock_Market;
+    public Map<String, Stock> Stock_Market;
 
     // a variable to depict status of software
     public Status status;

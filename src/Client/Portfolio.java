@@ -3,6 +3,7 @@ package Client;
 import Server.*;
 import common.*;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Portfolio
@@ -17,6 +18,7 @@ public class Portfolio
     public Portfolio(Lakshmi SM)
     {
         this.stock_market = SM;
+        Noted_Stocks = new ArrayList<>();
     }
 
     /**
