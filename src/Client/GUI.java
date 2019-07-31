@@ -8,6 +8,7 @@ package Client;
 
 
 import Server.Raavan;
+import Server.Stock;
 import common.Indrajit;
 import common.Lakshmi;
 import javafx.application.Application;
@@ -68,7 +69,7 @@ public class GUI extends Application implements Observer<Lakshmi>
             this.stop = new Image("Client/stop.png");
 
             this.raavan = new Raavan();
-            this.laskhmi = this.raavan.lakshmi;
+            this.laskhmi = new Lakshmi(this.raavan.NYSE);
             this.user = new User(host, port, this.laskhmi);
             this.portfolio_read = new Portfolio(this.laskhmi);
             this.laskhmi.addObserver(this);
@@ -143,10 +144,10 @@ public class GUI extends Application implements Observer<Lakshmi>
     public void set_text()
     {
         Code = search_bar.getText();
-        System.out.println(this.laskhmi.Stock_Market.get(Code).toString());
-//        Stock stock = this.laskhmi.getAStock(Code);
-//        System.out.println(stock.toString());
-//        Stock_info.setText(stock.toString());
+        //our problem is that the lakshmi we have is empty. We need the stocks.
+        Stock stock = this.laskhmi.getAStock(Code);
+        System.out.println(stock.toString());
+        Stock_info.setText(stock.toString());
     }
 
     public void set_scene_portfolio(Stage stage)

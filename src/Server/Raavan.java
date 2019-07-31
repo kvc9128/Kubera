@@ -98,6 +98,7 @@ public class Raavan
            try{
                //function that creates each stock
                FirstAlpha(pages);
+               lakshmi = new Lakshmi(NYSE);
            } catch (Exception e)
            {
                e.printStackTrace();
