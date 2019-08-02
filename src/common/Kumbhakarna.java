@@ -54,4 +54,9 @@ public interface Kumbhakarna
      */
     public static final String STOCK_DROPPED = "STOCK_DROPPED";
 
+    /**
+     * Sent from the server to the client to transfer a hashmap containing the stock information
+     */
+    public static final String STOCK_MARKET = "STOCK_MARKET";
+
 }

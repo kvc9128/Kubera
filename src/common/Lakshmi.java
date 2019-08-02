@@ -9,10 +9,6 @@ import java.util.Map;
 
 /**
  * Represents the NYSE stock exchange
- * More code to come here that deals with
- *      *  1. dividing companies into small/mid/large cap values
- *      *  2. top 100 companies
- *      *  3. bottom 100 companies
  */
 public class Lakshmi
 {
@@ -109,6 +105,13 @@ public class Lakshmi
         this.status = Status.STOCK_REMOVED;
         alertObservers();
         System.out.println("Stock removed from portfolio");
+    }
+
+    public void update_NYSE(Map<String, Stock> NYSE)
+    {
+        this.Stock_Market = NYSE;
+        alertObservers();
+        System.out.println("Obtained all the stocks");
     }
 
 }

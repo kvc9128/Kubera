@@ -1,11 +1,16 @@
 package Client;
 
+import Server.Stock;
 import common.Indrajit;
 import common.Kumbhakarna;
 import common.Lakshmi;
+
 import java.io.IOException;
+import java.io.ObjectInputStream;
 import java.io.PrintStream;
 import java.net.Socket;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
@@ -23,6 +28,8 @@ public class User
     private Boolean STOP;
     /** A variable to represent a portfolio*/
     private Portfolio portfolio;
+    /** A variable to represent a stock market*/
+    private Map<String, Stock> S_M;
 
     /**
      * Called when the server sends an ERROR message
@@ -63,6 +70,7 @@ public class User
             this.stock_market = lakshmi;
             this.STOP = true;
             this.portfolio = new Portfolio(stock_market);
+            this.S_M = new HashMap<>();
 
             String request = this.networkIn.next();
             if (!request.equals(Kumbhakarna.CONNECT ))
@@ -152,6 +160,19 @@ public class User
             else if (Kumbhakarna.STOCK_DROPPED.equals(request))
             {
                 this.stock_market.stock_dropped();
+            }
+            else if (Kumbhakarna.STOCK_MARKET.equals(request))
+            {
+                try
+                {
+                    ObjectInputStream is = new ObjectInputStream(clientSocket.getInputStream());
+                    this.S_M = (Map<String, Stock>) is.readObject();
+                    this.stock_market.update_NYSE(this.S_M);
+                }
+                catch (IOException | ClassNotFoundException e)
+                {
+                    e.printStackTrace();
+                }
             }
             else
             {

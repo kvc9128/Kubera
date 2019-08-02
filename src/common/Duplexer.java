@@ -1,8 +1,12 @@
 package common;
 
+import Server.Stock;
+
 import java.io.IOException;
+import java.io.ObjectOutputStream;
 import java.io.PrintWriter;
 import java.net.Socket;
+import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -28,6 +32,25 @@ public class Duplexer implements AutoCloseable{
      */
     public void send(String message){
         out.println(message);
+        out.flush();
+    }
+
+    /**
+     * sends the hash map over the network
+     * @param message STOCK_MARKET
+     * @param NYSE
+     */
+    public void Special_send(String message, Map<String, Stock> NYSE)
+    {
+        out.println(message);
+        try
+        {
+            ObjectOutputStream os = new ObjectOutputStream(socket.getOutputStream());
+            os.writeObject(NYSE);
+        } catch (IOException e)
+        {
+            e.printStackTrace();
+        }
         out.flush();
     }
 

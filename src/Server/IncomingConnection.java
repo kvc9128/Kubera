@@ -4,8 +4,10 @@ import Client.Portfolio;
 import common.Duplexer;
 import common.Kumbhakarna;
 import common.Lakshmi;
+
 import java.io.IOException;
 import java.net.Socket;
+
 import static common.Kumbhakarna.STOCK_ADDED;
 import static common.Kumbhakarna.STOCK_DROPPED;
 
@@ -43,6 +45,7 @@ class IncomingConnection extends Thread
     public void run()
     {
         connection.send(Kumbhakarna.CONNECT);
+        connection.Special_send(Kumbhakarna.STOCK_MARKET, Raavan.NYSE);
         //Primary loop, process incoming requests here
         try{
             while (true)
