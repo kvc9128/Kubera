@@ -70,7 +70,6 @@ public class User
             this.networkOut = new PrintStream(clientSocket.getOutputStream());
             this.STOP = true;
             this.stock_market = new Lakshmi();
-            this.is = new ObjectInputStream(clientSocket.getInputStream());
 
             String request = this.networkIn.next();
             if (!request.equals(Kumbhakarna.CONNECT ))
@@ -166,10 +165,11 @@ public class User
                 try
                 {
                     System.out.println("getting stocks");
+                    this.is = new ObjectInputStream(clientSocket.getInputStream());
                     Object object = is.readObject();
                     this.S_M = (HashMap<String, Stock>) object;
                     this.stock_market.addStockMarket(S_M);
-                    System.out.println(this.stock_market.toString());
+                    System.out.println("stocks obtained");
                     this.portfolio = new Portfolio(stock_market);
 
                 }

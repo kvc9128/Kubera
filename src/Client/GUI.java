@@ -8,6 +8,7 @@ package Client;
 
 
 import Server.Raavan;
+import Server.Stock;
 import common.Indrajit;
 import common.Lakshmi;
 import javafx.application.Application;
@@ -142,9 +143,9 @@ public class GUI extends Application implements Observer<Lakshmi>
 
     public void set_text()
     {
-//        Code = search_bar.getText();
-//        Stock stock = this.laskhmi.getAStock(Code);
-//        Stock_info.setText(stock.toString());
+        Code = search_bar.getText();
+        Stock stock = this.laskhmi.getAStock(Code);
+        Stock_info.setText(stock.toString());
     }
 
     public void set_scene_portfolio(Stage stage)
