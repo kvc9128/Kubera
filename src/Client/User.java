@@ -23,13 +23,13 @@ public class User
     /** Used to write responses to the server. */
     private PrintStream networkOut;
     /** the model which keeps track of the stock market */
-    private Lakshmi stock_market;
+    public Lakshmi stock_market;
     /** decides whether the user wants to stop or not*/
     private Boolean STOP;
     /** A variable to represent a portfolio*/
     private Portfolio portfolio;
     /** A variable to represent a stock market*/
-    private Map<String, Stock> S_M;
+    private Map<String, Stock> S_M = new HashMap<>();
 
     /**
      * Called when the server sends an ERROR message
@@ -57,20 +57,19 @@ public class User
      * Used by the GUI to connect with the server
      * @param host host name
      * @param port port number
-     * @param lakshmi stock market
      * @throws Indrajit custom error
      */
-    public User(String host, int port, Lakshmi lakshmi) throws Indrajit
+    public User(String host, int port) throws Indrajit
     {
         try
         {
             this.clientSocket = new Socket(host, port);
             this.networkIn = new Scanner(clientSocket.getInputStream());
             this.networkOut = new PrintStream(clientSocket.getOutputStream());
-            this.stock_market = lakshmi;
             this.STOP = true;
+            //this.S_M;
+            this.stock_market = new Lakshmi(S_M);
             this.portfolio = new Portfolio(stock_market);
-            this.S_M = new HashMap<>();
 
             String request = this.networkIn.next();
             if (!request.equals(Kumbhakarna.CONNECT ))
@@ -167,7 +166,6 @@ public class User
                 {
                     ObjectInputStream is = new ObjectInputStream(clientSocket.getInputStream());
                     this.S_M = (Map<String, Stock>) is.readObject();
-                    this.stock_market.update_NYSE(this.S_M);
                 }
                 catch (IOException | ClassNotFoundException e)
                 {

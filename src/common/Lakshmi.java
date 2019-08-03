@@ -107,11 +107,4 @@ public class Lakshmi
         System.out.println("Stock removed from portfolio");
     }
 
-    public void update_NYSE(Map<String, Stock> NYSE)
-    {
-        this.Stock_Market = NYSE;
-        alertObservers();
-        System.out.println("Obtained all the stocks");
-    }
-
 }

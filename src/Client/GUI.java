@@ -68,11 +68,8 @@ public class GUI extends Application implements Observer<Lakshmi>
             this.portfolio = new Image("Client/portfolio.png");
             this.stop = new Image("Client/stop.png");
 
-            this.raavan = new Raavan();
-            // TODO here is the issue. We have added a object stream to get the data to the user. But the user is created by the GUI
-            // TODO However to create the user, we need to create a lakshmi which is a bit of a catch 22 situation
-            this.laskhmi = new Lakshmi(this.raavan.NYSE);
-            this.user = new User(host, port, this.laskhmi);
+            this.user = new User(host, port);
+            this.laskhmi = this.user.stock_market;
             this.portfolio_read = new Portfolio(this.laskhmi);
             this.laskhmi.addObserver(this);
         }
