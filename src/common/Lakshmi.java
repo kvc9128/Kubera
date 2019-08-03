@@ -19,9 +19,8 @@ public class Lakshmi
     public Status status;
 
     // A standard constructor
-    public Lakshmi(Map<String, Stock> NYSE)
+    public Lakshmi()
     {
-        this.Stock_Market = NYSE;
         this.observers = new LinkedList<>();
         this.status = Status.IN_USE;
     }
@@ -36,7 +35,7 @@ public class Lakshmi
      */
     public enum Status
     {
-        IN_USE, ERROR, STOP, STOCK_ADDED, STOCK_REMOVED
+        IN_USE, ERROR, STOP, STOCK_ADDED, STOCK_REMOVED, STOCKS_RECIEVED
     }
 
     /**
@@ -105,6 +104,14 @@ public class Lakshmi
         this.status = Status.STOCK_REMOVED;
         alertObservers();
         System.out.println("Stock removed from portfolio");
+    }
+
+    public void addStockMarket(Map<String, Stock> NYSE)
+    {
+        this.Stock_Market = NYSE;
+        this.status = Status.STOCKS_RECIEVED;
+        alertObservers();
+        System.out.println("Stocks obtained from server!");
     }
 
 }

@@ -30,6 +30,8 @@ public class User
     private Portfolio portfolio;
     /** A variable to represent a stock market*/
     private Map<String, Stock> S_M = new HashMap<>();
+    /** A object input stream to accept the hashmap*/
+    private ObjectInputStream is;
 
     /**
      * Called when the server sends an ERROR message
@@ -67,8 +69,8 @@ public class User
             this.networkIn = new Scanner(clientSocket.getInputStream());
             this.networkOut = new PrintStream(clientSocket.getOutputStream());
             this.STOP = true;
-            this.stock_market = new Lakshmi(S_M);
-            this.portfolio = new Portfolio(stock_market);
+            this.stock_market = new Lakshmi();
+            this.is = new ObjectInputStream(clientSocket.getInputStream());
 
             String request = this.networkIn.next();
             if (!request.equals(Kumbhakarna.CONNECT ))
@@ -163,8 +165,13 @@ public class User
             {
                 try
                 {
-                    ObjectInputStream is = new ObjectInputStream(clientSocket.getInputStream());
-                    this.S_M = (Map<String, Stock>) is.readObject();
+                    System.out.println("getting stocks");
+                    Object object = is.readObject();
+                    this.S_M = (HashMap<String, Stock>) object;
+                    this.stock_market.addStockMarket(S_M);
+                    System.out.println(this.stock_market.toString());
+                    this.portfolio = new Portfolio(stock_market);
+
                 }
                 catch (IOException | ClassNotFoundException e)
                 {

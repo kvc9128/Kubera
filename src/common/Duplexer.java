@@ -43,15 +43,17 @@ public class Duplexer implements AutoCloseable{
     public void Special_send(String message, Map<String, Stock> NYSE)
     {
         out.println(message);
+        out.flush();
         try
         {
             ObjectOutputStream os = new ObjectOutputStream(socket.getOutputStream());
             os.writeObject(NYSE);
+            os.flush();
+            os.close();
         } catch (IOException e)
         {
             e.printStackTrace();
         }
-        out.flush();
     }
 
     /**

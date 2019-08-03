@@ -76,7 +76,8 @@ public class Raavan
         web.getOptions().setJavaScriptEnabled(false);
         //generates the web pages of stocks alphabetically
         GenerateWebpages_tester();
-        lakshmi = new Lakshmi(NYSE);
+        lakshmi = new Lakshmi();
+        lakshmi.addStockMarket(NYSE);
         try
         {
             write = new FileWriter(path, true);
@@ -98,7 +99,8 @@ public class Raavan
            try{
                //function that creates each stock
                FirstAlpha(pages);
-               lakshmi = new Lakshmi(NYSE);
+               lakshmi = new Lakshmi();
+               lakshmi.addStockMarket(NYSE);
            } catch (Exception e)
            {
                e.printStackTrace();
@@ -184,7 +186,8 @@ public class Raavan
                     }
             }
             write.close();
-            lakshmi = new Lakshmi(NYSE);
+            lakshmi = new Lakshmi();
+            lakshmi.addStockMarket(NYSE);
         } catch (IOException e) {
             e.printStackTrace();
         }

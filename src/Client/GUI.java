@@ -8,7 +8,6 @@ package Client;
 
 
 import Server.Raavan;
-import Server.Stock;
 import common.Indrajit;
 import common.Lakshmi;
 import javafx.application.Application;
@@ -90,39 +89,39 @@ public class GUI extends Application implements Observer<Lakshmi>
         // scene initial
         BorderPane borderPane = new BorderPane();
 
-        // button portfolio
+        // Setting up all the buttons
+        // 1 view portfolio
         Button portfolio_viewer = new Button();
         portfolio_viewer.setGraphic(new ImageView(this.portfolio));
         portfolio_viewer.setOnAction(e -> set_scene_portfolio(stage));
-
-        // creating a VBox to have a search bar and a label to display the stock
-        //setting the label
-        //setting up a button to search and get the code
+        // 2 search
         Button search_button = new Button();
         search_button.setText("Search");
         search_button.setOnAction(e -> set_text());
-        //setting up the vbox
-        VBox vBox = new VBox();
-        vBox.getChildren().addAll(search_bar, search_button, Stock_info);
-        // button stop and a Vbox to  display the status
+        // 3 stop working
         Button stop_execution = new Button();
         stop_execution.setGraphic(new ImageView(this.stop));
         stop_execution.setOnAction(e -> user.stop());
-        VBox vBox2 = new VBox();
-        vBox2.getChildren().addAll(stop_execution,statae);
-
-        // button add
+        // 4 button add
         Button add_stock = new Button();
         add_stock.setGraphic(new ImageView(this.add));
         add_stock.setOnAction(e -> user.ADD(Code));
-
-        // button drop
+        // 5 button drop
         Button drop_stock = new Button();
         drop_stock.setGraphic(new ImageView(this.add));
         drop_stock.setOnAction(e -> user.DROP(Code));
 
+        //setting up the vbox
+        VBox vBox = new VBox();
+        vBox.getChildren().addAll(search_bar, search_button, Stock_info);
+        // button stop and a Vbox to  display the status
+        VBox vBox2 = new VBox();
+        vBox2.getChildren().addAll(stop_execution,statae);
         // button go_back
         go_back.setOnAction(e -> stage.setScene(scene_initial));
+
+
+
 
         // setting the scene background
         borderPane.setTop(portfolio_viewer);
@@ -138,15 +137,14 @@ public class GUI extends Application implements Observer<Lakshmi>
         stage.show();
 
         this.user.startListener();
+        System.out.println("started listening");
     }
 
     public void set_text()
     {
-        Code = search_bar.getText();
-        //our problem is that the lakshmi we have is empty. We need the stocks.
-        Stock stock = this.laskhmi.getAStock(Code);
-        System.out.println(stock.toString());
-        Stock_info.setText(stock.toString());
+//        Code = search_bar.getText();
+//        Stock stock = this.laskhmi.getAStock(Code);
+//        Stock_info.setText(stock.toString());
     }
 
     public void set_scene_portfolio(Stage stage)
@@ -189,6 +187,10 @@ public class GUI extends Application implements Observer<Lakshmi>
         {
             case ERROR:
                 this.statae.setText(status.toString());
+                break;
+            case STOCKS_RECIEVED:
+                this.statae.setText(" Stocks have been received");
+                this.laskhmi = this.user.stock_market;
                 break;
             case IN_USE:
                 this.statae.setText( "Happy Finances!" );
