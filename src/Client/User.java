@@ -63,20 +63,20 @@ public class User
     {
         try
         {
-            this.clientSocket = new Socket(host, port);
-            this.networkIn = new Scanner(clientSocket.getInputStream());
-            this.networkOut = new PrintStream(clientSocket.getOutputStream());
-            this.STOP = true;
-            //this.S_M;
-            this.stock_market = new Lakshmi(S_M);
-            this.portfolio = new Portfolio(stock_market);
-
             String request = this.networkIn.next();
             if (!request.equals(Kumbhakarna.CONNECT ))
             {
                 throw new Indrajit("Expected CONNECT from server");
             }
             User.dPrint("Connected to Server " + this.clientSocket);
+
+            this.clientSocket = new Socket(host, port);
+            this.networkIn = new Scanner(clientSocket.getInputStream());
+            this.networkOut = new PrintStream(clientSocket.getOutputStream());
+            this.STOP = true;
+            this.stock_market = new Lakshmi(S_M);
+            this.portfolio = new Portfolio(stock_market);
+
         }catch (IOException io)
         {
             throw new Indrajit(io);
