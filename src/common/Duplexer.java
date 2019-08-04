@@ -48,8 +48,7 @@ public class Duplexer implements AutoCloseable{
         {
             ObjectOutputStream os = new ObjectOutputStream(socket.getOutputStream());
             os.writeObject(NYSE);
-            os.flush();
-            os.writeObject(NYSE);
+            os.writeChar('\n');
             os.flush();
             os.close();
         } catch (IOException e)
