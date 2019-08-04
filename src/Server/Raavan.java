@@ -58,7 +58,7 @@ public class Raavan
     public static WebClient web;
     public static List<HtmlPage> pages = new ArrayList<>();
     public static Map<String, Stock> NYSE = new HashMap<>();
-    public static String path = "common/stockdata";
+    public static String path = "common/stockdata.txt";
     public static FileWriter write;
     public static Lakshmi lakshmi;
 

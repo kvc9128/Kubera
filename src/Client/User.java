@@ -166,8 +166,8 @@ public class User
                 {
                     System.out.println("getting stocks");
                     this.is = new ObjectInputStream(clientSocket.getInputStream());
-                    Object object = is.readObject();
-                    this.S_M = (HashMap<String, Stock>) object;
+                    is.readObject();
+                    this.S_M = (HashMap<String, Stock>) is.readObject();
                     this.stock_market.addStockMarket(S_M);
                     System.out.println("stocks obtained");
                     this.portfolio = new Portfolio(stock_market);
