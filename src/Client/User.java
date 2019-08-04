@@ -68,7 +68,7 @@ public class User
             this.STOP = true;
             this.stock_market = new Lakshmi();
 
-            String request = this.networkIn.next();
+            String request = this.networkIn.nextLine();
             if (!request.equals(Kumbhakarna.CONNECT ))
             {
                 throw new Indrajit("Expected CONNECT from server");
@@ -142,7 +142,7 @@ public class User
     private void run() throws NoSuchElementException {
         while (this.STOP)
         {
-            String request = this.networkIn.next();
+            String request = this.networkIn.nextLine();
             String[] arguments = request.split(" ");
             User.dPrint( "Net message in = \"" + request + '"' );
 
