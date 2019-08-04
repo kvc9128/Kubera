@@ -6,7 +6,6 @@ import common.Kumbhakarna;
 import common.Lakshmi;
 
 import java.io.IOException;
-import java.io.ObjectInputStream;
 import java.io.PrintStream;
 import java.net.Socket;
 import java.util.HashMap;
@@ -30,8 +29,6 @@ public class User
     private Portfolio portfolio;
     /** A variable to represent a stock market*/
     private Map<String, Stock> S_M = new HashMap<>();
-    /** A object input stream to accept the hashmap*/
-    private ObjectInputStream is;
 
     /**
      * Called when the server sends an ERROR message
@@ -146,37 +143,42 @@ public class User
         while (this.STOP)
         {
             String request = this.networkIn.next();
+            String[] arguments = request.split(" ");
             User.dPrint( "Net message in = \"" + request + '"' );
 
-            if (Kumbhakarna.ERROR.equals(request))
+            if (Kumbhakarna.ERROR.equals(arguments[0]))
             {
                 error();
             }
-            else if (Kumbhakarna.STOCK_ADDED.equals(request))
+            else if (Kumbhakarna.STOCK_ADDED.equals(arguments[0]))
             {
                 this.stock_market.stock_added();
             }
-            else if (Kumbhakarna.STOCK_DROPPED.equals(request))
+            else if (Kumbhakarna.STOCK_DROPPED.equals(arguments[0]))
             {
                 this.stock_market.stock_dropped();
             }
-            else if (Kumbhakarna.STOCK_MARKET.equals(request))
+            else if (Kumbhakarna.STOCK.equals(arguments[0]))
             {
-                try
-                {
-                    System.out.println("getting stocks");
-                    this.is = new ObjectInputStream(clientSocket.getInputStream());
-                    is.readObject();
-                    this.S_M = (HashMap<String, Stock>) is.readObject();
-                    this.stock_market.addStockMarket(S_M);
-                    System.out.println("stocks obtained");
-                    this.portfolio = new Portfolio(stock_market);
+               String[] stock_details = arguments[1].split(":");
+               String Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization;
+               Code = stock_details[0];
+               Name = stock_details[1];
+               High = stock_details[2];
+               Low = stock_details[3];
+               Close = stock_details[4];
+               Volume = stock_details[5];
+               DivYield = stock_details[6];
+               Earning_per_share = stock_details[7];
+               Price_Earnings_to_growth_ratio = stock_details[8];
+               MarketCapitalization = stock_details[9];
+               Stock stock = new Stock(Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization);
+               this.S_M.put(Code, stock);
 
-                }
-                catch (IOException | ClassNotFoundException e)
-                {
-                    e.printStackTrace();
-                }
+            }
+            else if (Kumbhakarna.ALL_SENT.equals(arguments[0]))
+            {
+                this.stock_market.addStockMarket(this.S_M);
             }
             else
             {

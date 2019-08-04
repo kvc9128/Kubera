@@ -58,7 +58,7 @@ public class Raavan
     public static WebClient web;
     public static List<HtmlPage> pages = new ArrayList<>();
     public static Map<String, Stock> NYSE = new HashMap<>();
-    public static String path = "common/stockdata.txt";
+    public static String path = "/Users/srikamal/IdeaProjects/Kubera/src/common/stocks";
     public static FileWriter write;
     public static Lakshmi lakshmi;
 
@@ -77,7 +77,6 @@ public class Raavan
         //generates the web pages of stocks alphabetically
         GenerateWebpages_tester();
         lakshmi = new Lakshmi();
-        lakshmi.addStockMarket(NYSE);
         try
         {
             write = new FileWriter(path, true);
@@ -99,8 +98,6 @@ public class Raavan
            try{
                //function that creates each stock
                FirstAlpha(pages);
-               lakshmi = new Lakshmi();
-               lakshmi.addStockMarket(NYSE);
            } catch (Exception e)
            {
                e.printStackTrace();

@@ -7,6 +7,7 @@ import common.Lakshmi;
 
 import java.io.IOException;
 import java.net.Socket;
+import java.util.Map;
 
 import static common.Kumbhakarna.STOCK_ADDED;
 import static common.Kumbhakarna.STOCK_DROPPED;
@@ -45,7 +46,11 @@ class IncomingConnection extends Thread
     public void run()
     {
         connection.send(Kumbhakarna.CONNECT);
-        connection.Special_send(Kumbhakarna.STOCK_MARKET, Raavan.NYSE);
+        for (Map.Entry<String, Stock> entry : Raavan.NYSE.entrySet())
+        {
+            connection.send(Kumbhakarna.STOCK + " " + entry.getValue().networktoString());
+        }
+        connection.send(Kumbhakarna.ALL_SENT);
         //Primary loop, process incoming requests here
         try{
             while (true)

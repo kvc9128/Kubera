@@ -55,8 +55,16 @@ public interface Kumbhakarna
     public static final String STOCK_DROPPED = "STOCK_DROPPED";
 
     /**
-     * Sent from the server to the client to transfer a hashmap containing the stock information
+     * Sent from the server to the client to transfer a single stock. While seemingly stupid, it works
+     * Therefore all the stocks will be sent by the server to the client by the format
+     *
+     * STOCK stock.tostring()
      */
-    public static final String STOCK_MARKET = "STOCK_MARKET";
+    public static final String STOCK = "STOCK";
+
+    /**
+     * Sent by the server to the client to signify that all the stocks have been sent
+     */
+    public static final String ALL_SENT = "ALL_SENT";
 
 }

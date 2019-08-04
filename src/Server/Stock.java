@@ -130,4 +130,9 @@ public class Stock
         return String.format("Code : %s Name : %s High : %s Low : %s Close : %s Volume : %s DivYield : %s Earning_Per_Share : %s PEG ratio : %s Market_Capitalization : %s",
                 Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCap);
     }
+
+    public String networktoString()
+    {
+        return String.format("%s:%s:%s:%s:%s:%s:%s:%s:%s:%s", Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCap);
+    }
 }
