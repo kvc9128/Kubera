@@ -94,10 +94,15 @@ public class Raavan
     {
         // generates the web browser
         new Raavan();
+        Map<String, Stock> stock_map = Raavan.NYSE;
         long start = System.nanoTime();
            try{
                //function that creates each stock
                FirstAlpha(pages);
+               for (Map.Entry<String, Stock> entry : stock_map.entrySet())
+               {
+                   System.out.println(entry.getValue().networktoString());
+               }
            } catch (Exception e)
            {
                e.printStackTrace();

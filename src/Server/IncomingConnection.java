@@ -48,7 +48,8 @@ class IncomingConnection extends Thread
         connection.send(Kumbhakarna.CONNECT);
         for (Map.Entry<String, Stock> entry : Raavan.NYSE.entrySet())
         {
-            connection.send(Kumbhakarna.STOCK + " " + entry.getValue().networktoString());
+            String important = entry.getValue().networktoString();
+            connection.send(Kumbhakarna.STOCK + " " + important);
         }
         connection.send(Kumbhakarna.ALL_SENT);
         //Primary loop, process incoming requests here

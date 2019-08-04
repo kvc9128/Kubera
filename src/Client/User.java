@@ -142,7 +142,7 @@ public class User
     private void run() throws NoSuchElementException {
         while (this.STOP)
         {
-            String request = this.networkIn.next();
+            String request = this.networkIn.nextLine();
             String[] arguments = request.split(" ");
             User.dPrint( "Net message in = \"" + request + '"' );
 
