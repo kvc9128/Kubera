@@ -8,7 +8,6 @@ import java.util.List;
 
 public class Portfolio
 {
-    private Lakshmi stock_market;
     public List<Stock> Noted_Stocks;
 
     /**
@@ -17,7 +16,6 @@ public class Portfolio
      */
     public Portfolio(Lakshmi SM)
     {
-        this.stock_market = SM;
         Noted_Stocks = new ArrayList<>();
     }
 

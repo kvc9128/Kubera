@@ -109,7 +109,7 @@ public class GUI extends Application implements Observer<Lakshmi>
         add_stock.setOnAction(e -> user.ADD(Code));
         // 5 button drop
         Button drop_stock = new Button();
-        drop_stock.setGraphic(new ImageView(this.add));
+        drop_stock.setGraphic(new ImageView(this.drop));
         drop_stock.setOnAction(e -> user.DROP(Code));
 
         //setting up the vbox

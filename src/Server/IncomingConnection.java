@@ -69,6 +69,7 @@ class IncomingConnection extends Thread
                         connection.send(STOCK_DROPPED);
                         break;
                     case Kumbhakarna.STOP:
+                        connection.send(Kumbhakarna.STOPPED);
                         connection.close();
                         break;
                 }

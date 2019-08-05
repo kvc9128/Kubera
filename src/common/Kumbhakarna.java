@@ -45,6 +45,11 @@ public interface Kumbhakarna
     public static final String STOP = "STOP";
 
     /**
+     * Request acknowledging the client request to shut down
+     */
+    public static final String STOPPED = "STOPPED";
+
+    /**
      * Response from server to client acknowledging that stock has been added
      */
     public static final String STOCK_ADDED = "STOCK_ADDED";

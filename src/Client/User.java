@@ -24,7 +24,7 @@ public class User
     /** the model which keeps track of the stock market */
     public Lakshmi stock_market;
     /** decides whether the user wants to stop or not*/
-    private Boolean STOP;
+    private Boolean WORK;
     /** A variable to represent a portfolio*/
     private Portfolio portfolio;
     /** A variable to represent a stock market*/
@@ -65,7 +65,7 @@ public class User
             this.clientSocket = new Socket(host, port);
             this.networkIn = new Scanner(clientSocket.getInputStream());
             this.networkOut = new PrintStream(clientSocket.getOutputStream());
-            this.STOP = true;
+            this.WORK = true;
             this.stock_market = new Lakshmi();
 
             String request = this.networkIn.nextLine();
@@ -110,7 +110,7 @@ public class User
     public void ADD(String code)
     {
         this.networkOut.println( Kumbhakarna.ADD + " " + code );
-        portfolio.add_to_portfolio(stock_market.getAStock(code));
+        portfolio.add_to_portfolio(this.stock_market.getAStock(code));
     }
 
     /**
@@ -130,7 +130,7 @@ public class User
      */
     public void stop()
     {
-        this.STOP = false;
+        this.WORK = false;
         this.networkOut.println( Kumbhakarna.STOP );
     }
 
@@ -140,49 +140,48 @@ public class User
      * outside will call it or try to start a thread on it.
      */
     private void run() throws NoSuchElementException {
-        while (this.STOP)
+        while (this.WORK)
         {
             String request = this.networkIn.nextLine();
             String[] arguments = request.split(":");
             User.dPrint( "Net message in = \"" + request + '"' );
 
-            if (Kumbhakarna.ERROR.equals(arguments[0]))
+            switch (arguments[0])
             {
-                error();
-            }
-            else if (Kumbhakarna.STOCK_ADDED.equals(arguments[0]))
-            {
-                this.stock_market.stock_added();
-            }
-            else if (Kumbhakarna.STOCK_DROPPED.equals(arguments[0]))
-            {
-                this.stock_market.stock_dropped();
-            }
-            else if (Kumbhakarna.STOCK.equals(arguments[0]))
-            {
-               String Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization;
-               Code = arguments[1];
-               Name = arguments[2];
-               High = arguments[3];
-               Low = arguments[4];
-               Close = arguments[5];
-               Volume = arguments[6];
-               DivYield = arguments[7];
-               Earning_per_share = arguments[8];
-               Price_Earnings_to_growth_ratio = arguments[9];
-               MarketCapitalization = arguments[10];
-               Stock stock = new Stock(Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization);
-               this.S_M.put(Code, stock);
-
-            }
-            else if (Kumbhakarna.ALL_SENT.equals(arguments[0]))
-            {
-                this.stock_market.addStockMarket(this.S_M);
-            }
-            else
-            {
-                System.err.println("Unrecognized request: " + request);
-                this.stop();
+                case Kumbhakarna.ERROR:
+                        error();
+                        break;
+                case Kumbhakarna.STOCK_ADDED:
+                        this.stock_market.stock_added();
+                        break;
+                case Kumbhakarna.STOCK_DROPPED:
+                        this.stock_market.stock_dropped();
+                        break;
+                case Kumbhakarna.STOPPED:
+                        this.stop();
+                        break;
+                case Kumbhakarna.STOCK:
+                        String Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization;
+                        Code = arguments[1];
+                        Name = arguments[2];
+                        High = arguments[3];
+                        Low = arguments[4];
+                        Close = arguments[5];
+                        Volume = arguments[6];
+                        DivYield = arguments[7];
+                        Earning_per_share = arguments[8];
+                        Price_Earnings_to_growth_ratio = arguments[9];
+                        MarketCapitalization = arguments[10];
+                        Stock stock = new Stock(Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization);
+                        this.S_M.put(Code, stock);
+                        break;
+                case Kumbhakarna.ALL_SENT:
+                        this.stock_market.addStockMarket(this.S_M);
+                        break;
+                default:
+                        System.err.println("Unrecognized request: " + request);
+                        this.stop();
+                        break;
             }
         }
         this.close();
