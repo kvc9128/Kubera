@@ -75,7 +75,7 @@ public class Raavan
         java.util.logging.Logger.getLogger("com.gargoylesoftware.htmlunit").setLevel(Level.OFF);
         web.getOptions().setJavaScriptEnabled(false);
         //generates the web pages of stocks alphabetically
-        GenerateWebpages_tester();
+        GenerateWebpages();
         lakshmi = new Lakshmi();
         try
         {
