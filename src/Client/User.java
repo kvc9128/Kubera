@@ -111,7 +111,7 @@ public class User
     public void ADD(String code)
     {
         this.networkOut.println( Kumbhakarna.ADD + " " + code );
-//        Stock stock = this.stock_market.getAStock(code);
+        Stock stock = this.stock_market.getAStock(code);
         portfolio.add_to_portfolio(this.S_M.get(code));
     }
 

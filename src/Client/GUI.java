@@ -119,10 +119,8 @@ public class GUI extends Application implements Observer<Lakshmi>
         VBox vBox2 = new VBox();
         vBox2.getChildren().addAll(stop_execution,statae);
         // button go_back
+        go_back.setText("Click here to return to previous menu");
         go_back.setOnAction(e -> stage.setScene(scene_initial));
-
-
-
 
         // setting the scene background
         borderPane.setTop(portfolio_viewer);

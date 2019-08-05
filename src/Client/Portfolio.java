@@ -43,12 +43,12 @@ public class Portfolio
     @Override
     public String toString()
     {
-        String stocks = "";
+        StringBuilder stocks = new StringBuilder();
         for (Stock stock: Noted_Stocks)
         {
-            stocks += stock.toString() + "\n";
+            stocks.append(stock.toString()).append("\n");
         }
-        return stocks;
+        return stocks.toString();
     }
 
     public boolean Is_in_portfolio(Stock stock)
