@@ -143,7 +143,7 @@ public class User
         while (this.STOP)
         {
             String request = this.networkIn.nextLine();
-            String[] arguments = request.split(" ");
+            String[] arguments = request.split(":");
             User.dPrint( "Net message in = \"" + request + '"' );
 
             if (Kumbhakarna.ERROR.equals(arguments[0]))
@@ -160,18 +160,17 @@ public class User
             }
             else if (Kumbhakarna.STOCK.equals(arguments[0]))
             {
-               String[] stock_details = arguments[1].split(":");
                String Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization;
-               Code = stock_details[0];
-               Name = stock_details[1];
-               High = stock_details[2];
-               Low = stock_details[3];
-               Close = stock_details[4];
-               Volume = stock_details[5];
-               DivYield = stock_details[6];
-               Earning_per_share = stock_details[7];
-               Price_Earnings_to_growth_ratio = stock_details[8];
-               MarketCapitalization = stock_details[9];
+               Code = arguments[1];
+               Name = arguments[2];
+               High = arguments[3];
+               Low = arguments[4];
+               Close = arguments[5];
+               Volume = arguments[6];
+               DivYield = arguments[7];
+               Earning_per_share = arguments[8];
+               Price_Earnings_to_growth_ratio = arguments[9];
+               MarketCapitalization = arguments[10];
                Stock stock = new Stock(Code, Name, High, Low, Close, Volume, DivYield, Earning_per_share, Price_Earnings_to_growth_ratio, MarketCapitalization);
                this.S_M.put(Code, stock);
 

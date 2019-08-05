@@ -58,7 +58,7 @@ public interface Kumbhakarna
      * Sent from the server to the client to transfer a single stock. While seemingly stupid, it works
      * Therefore all the stocks will be sent by the server to the client by the format
      *
-     * STOCK stock.tostring()
+     * STOCK:stock.tostring()
      */
     public static final String STOCK = "STOCK";
 
