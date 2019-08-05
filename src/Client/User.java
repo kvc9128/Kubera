@@ -26,7 +26,7 @@ public class User
     /** decides whether the user wants to stop or not*/
     private Boolean WORK;
     /** A variable to represent a portfolio*/
-    private Portfolio portfolio;
+    public Portfolio portfolio;
     /** A variable to represent a stock market*/
     private Map<String, Stock> S_M = new HashMap<>();
 

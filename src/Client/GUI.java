@@ -7,7 +7,6 @@ package Client;
  */
 
 
-import Server.Raavan;
 import Server.Stock;
 import common.Indrajit;
 import common.Lakshmi;
@@ -42,7 +41,6 @@ public class GUI extends Application implements Observer<Lakshmi>
     private Lakshmi laskhmi;
     private Portfolio portfolio_read;
     private Label statae = new Label();
-    private Raavan raavan;
     private TextField search_bar = new TextField();
     private Label Stock_info = new Label();
     private String Code;
@@ -70,7 +68,7 @@ public class GUI extends Application implements Observer<Lakshmi>
 
             this.user = new User(host, port);
             this.laskhmi = this.user.stock_market;
-            this.portfolio_read = new Portfolio(this.laskhmi);
+            this.portfolio_read = this.user.portfolio;
             this.laskhmi.addObserver(this);
         }
         catch (Indrajit indrajit)

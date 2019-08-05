@@ -32,11 +32,11 @@ public class Portfolio
     {
         if (Noted_Stocks.contains(stock))
         {
-            System.out.println("ERROR");
+            Noted_Stocks.remove(stock);
         }
         else
         {
-            Noted_Stocks.remove(stock);
+            System.out.println("ERROR");
         }
     }
 
