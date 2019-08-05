@@ -16,7 +16,7 @@ public class Portfolio
      */
     public Portfolio(Lakshmi SM)
     {
-        Noted_Stocks = new ArrayList<>();
+        this.Noted_Stocks = new ArrayList<>();
     }
 
     /**

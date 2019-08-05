@@ -66,6 +66,7 @@ public class User
             this.networkIn = new Scanner(clientSocket.getInputStream());
             this.networkOut = new PrintStream(clientSocket.getOutputStream());
             this.WORK = true;
+            this.portfolio = new Portfolio(this.stock_market);
             this.stock_market = new Lakshmi();
 
             String request = this.networkIn.nextLine();
@@ -110,7 +111,8 @@ public class User
     public void ADD(String code)
     {
         this.networkOut.println( Kumbhakarna.ADD + " " + code );
-        portfolio.add_to_portfolio(this.stock_market.getAStock(code));
+//        Stock stock = this.stock_market.getAStock(code);
+        portfolio.add_to_portfolio(this.S_M.get(code));
     }
 
     /**
@@ -120,8 +122,8 @@ public class User
      */
     public void DROP(String code)
     {
-        this.networkOut.println( Kumbhakarna.DROP + " " + code );
-        portfolio.remove_from_portfolio(stock_market.getAStock(code));
+        this.networkOut.println(Kumbhakarna.DROP + " " + code);
+        portfolio.remove_from_portfolio(this.S_M.get(code));
     }
 
     /**

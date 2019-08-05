@@ -156,7 +156,7 @@ public class GUI extends Application implements Observer<Lakshmi>
         Label information = new Label();
         information.setText("This is a list of all the stocks currently in your portfolio");
         Label[] labels = new Label[portfolio_read.Noted_Stocks.size()];
-        for (int i = 0; i <= portfolio_read.Noted_Stocks.size(); i++)
+        for (int i = 0; i < portfolio_read.Noted_Stocks.size(); i++)
         {
             labels[i] = new Label();
             labels[i].setText(portfolio_read.Noted_Stocks.get(i).toString());
@@ -166,6 +166,7 @@ public class GUI extends Application implements Observer<Lakshmi>
 
         scene_portfolio = new Scene(vBox1);
         stage.setScene(scene_portfolio);
+        stage.show();
 
     }
 
