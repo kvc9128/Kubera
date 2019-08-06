@@ -8,6 +8,6 @@ NumPy etc. This project may or may not have a future phase III which may involve
 Authors & Credits
 
 Primary author: Sri Kamal V. Chillarage. Classes credited to Sri Kamal: Raavan, Stock, Lakshmi, Kumbhakarna, Indrajit, User,
-Portfolio, Observer and GUI.
+Portfolio, Observer, GUI, NYSEcomposite sandbox & sandbox.
     
 Secondary author: Christopher Cheney. Classes credited to Chris: IncomingConnection, Duplexer
