@@ -28,10 +28,6 @@ def main():
     for i in range(0, len(new_data.Price)):
         new_data.Price[i] = float(new_data.Price[i].replace(',', ''))
 
-    print(new_data.head(100))
-    print("\n\n\n\n")
-    print(new_data.tail(100))
-
     # removing the date field before we do any machine learning
     new_data = new_data.drop("Date", 1)
 
@@ -51,7 +47,10 @@ def main():
     training_data = new_data[:945]
     validation_data = new_data[945:]
 
-    # IDK what the fuck happens in this. Best guess making it a 3d array
+    # LSTM's expect to receive data in a 3D array. Since we only have  a single array
+    # we will start by creating data in 60 time stamps and converting it to an array
+    # using NumPy. Next we Convert the data into a 3 dimensional array with
+    # x_train samples, 60 timestamps and one feature at each step
     x_train, y_train = [], []
     for i in range(60, len(training_data)):
         x_train.append(scaled_data[i - 60:i, 0])
@@ -66,7 +65,16 @@ def main():
     model.add(Dense(1))
     model.compile("rmsprop", "mse")
     model.fit(x_train,y_train,1)
-
+    #
+    # In order to predict future stock prices we need to do a couple of things
+    # after loading in the test set:
+    #
+    # 1. Merge the training set and the test set on the 0 axis.
+    # 2. Set the time step as 60 (as seen previously)
+    # 3. Use MinMaxScaler to transform the new dataset
+    # 4. Reshape the dataset as done previously
+    # 5. After making the predictions we use inverse_transform to get back the
+    # stock prices in normal readable format.
     inputs = new_data[len(new_data) - len(validation_data) - 60:].values
     inputs = inputs.reshape(-1, 1)
     inputs = scaler.transform(inputs)
