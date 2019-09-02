@@ -8,25 +8,25 @@ from keras.layers import Dense,Dropout,LSTM
 
 def main():
     # Reading the data file
-    NYSE_Dataframe = pd.read_csv("NYSE_Dataset.csv")
+    NYSE_Dataframe = pd.read_csv("^NYA-new.csv")
     # Converting the date from a string to a datetime format
     NYSE_Dataframe["Date"] = pd.to_datetime(NYSE_Dataframe.Date)
     NYSE_Dataframe.index = NYSE_Dataframe["Date"]
-
+    print(NYSE_Dataframe.head(100))
     # sorting the data oldest to newest
     Data = NYSE_Dataframe.sort_index()
 
     # making new series for new data
     Dates = pd.Series(Data.Date)
-    Prices = pd.Series(Data.Price)
+    Prices = pd.Series(Data.Open)
     # making a dictionary
     frame = {"Date":Dates, "Price":Prices}
     # making the dictionary into a new dataframe containing only dates/close values
     new_data = pd.DataFrame(frame)
 
     # Converting our value to float
-    for i in range(0, len(new_data.Price)):
-        new_data.Price[i] = float(new_data.Price[i].replace(',', ''))
+    # for i in range(0, len(new_data.Price)):
+    #     new_data.Price[i] = float(new_data.Price[i].replace(',', ''))
 
     # removing the date field before we do any machine learning
     new_data = new_data.drop("Date", 1)
